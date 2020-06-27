@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Qiu Yang's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qiu Yang"
+  name             : "    Qiu Yang"
   avatar           : "profile.png"
   bio              : "Atmospheric scientistist & applied mathematician"
   location         : "Pacific Northwest National Laboratory"
