@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "               "#"Qiu Yang's Homepage"
+title                    : "Go Back to My Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
