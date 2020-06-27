@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Go Back to Homepage"
+title                    : "Go back to Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
