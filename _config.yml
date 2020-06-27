@@ -83,12 +83,12 @@ author:
   name             : "Qiu Yang"
   avatar           : "profile.png"
   bio              : "An atmospheric scientistist & applied mathematician"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  location         : "902 Battelle Blvd, Richland, WA 99354"
+  employer         : 
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=MzMRC04AAAAJ"
+  email            : "qiuyang50@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Qiu_Yang4"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/qiuyang50"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
