@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Go Back to My Homepage"
+title                    : "Go Back to Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hi, I am Qiu Yang"
+  name             : "Hi, I am Qiu Yang,"
   avatar           : "profile.png"
-  bio              : "Atmospheric scientistist & applied mathematician"
+  bio              : "I am an atmospheric scientistist & applied mathematician."
   location         : "qiuyang50@gmail.com"
   employer         : "Pacific Northwest National Laboratory"
   pubmed           : 
