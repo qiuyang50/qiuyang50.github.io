@@ -42,7 +42,7 @@ Publications
 
 Non-peer reviewed publication
 -
-Qiu Yang, 2017: [Multi-Scale Models for the Scale Interaction of Organized Tropical Convection](https://github.com/qiuyang50/qiuyang50.github.io/blob/master/files/thesis.pdf), Ph.D thesis. My thesis defense slides are here.
+Qiu Yang, 2017: [Multi-Scale Models for the Scale Interaction of Organized Tropical Convection](https://qiuyang50.github.io/files/thesis.pdf), Ph.D thesis. My thesis defense slides are here.
 
 <!--
 {% if author.googlescholar %}
