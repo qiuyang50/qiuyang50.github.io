@@ -16,29 +16,29 @@ Publications
 
 2019
 -
-[10] **Qiu Yang***, Andrew J. Majda, Noah Brenowitz, 2019: Effects of Rotation on the Multiscale Organization of Convection in a Global 2D Cloud Resolving Model, Journal of the Atmospheric Sciences.
+[10] **Qiu Yang***, Andrew J. Majda, Noah Brenowitz, 2019: [Effects of Rotation on the Multiscale Organization of Convection in a Global 2D Cloud Resolving Model](https://journals.ametsoc.org/jas/article/76/11/3669/343674/Effects-of-Rotation-on-the-Multiscale-Organization), Journal of the Atmospheric Sciences.
 
-[9] **Qiu Yang***, Andrew J. Majda, Mitchell W. Moncrieff, 2019: Upscale Impact of Mesoscale Convective Systems and Its Parameterization in An Idealized GCM for A MJO Analog above the Equator, Journal of the Atmospheric Sciences.
+[9] **Qiu Yang***, Andrew J. Majda, Mitchell W. Moncrieff, 2019: [Upscale Impact of Mesoscale Convective Systems and Its Parameterization in An Idealized GCM for A MJO Analog above the Equator](https://journals.ametsoc.org/jas/article/76/3/865/107160/Upscale-Impact-of-Mesoscale-Convective-Systems-and), Journal of the Atmospheric Sciences.
 
-[8] **Qiu Yang**, Boualem Khouider*, Andrew J. Majda, Michele De La Chevrotiere, 2019: Northward Propagation, Initiation and Termination of Boreal Summer Intraseasonal Oscillations in a Zonally Symmetric Model, Journal of the Atmospheric Sciences.
+[8] **Qiu Yang**, Boualem Khouider*, Andrew J. Majda, Michele De La Chevrotiere, 2019: [Northward Propagation, Initiation and Termination of Boreal Summer Intraseasonal Oscillations in a Zonally Symmetric Model](https://journals.ametsoc.org/jas/article/76/2/639/40339/Northward-Propagation-Initiation-and-Termination), Journal of the Atmospheric Sciences.
 
-[7] **Qiu Yang***, Andrew J. Majda, 2019: Upscale Impact of Mesoscale Disturbances of Tropical Convection on 2-Day Waves, Journal of the Atmospheric Sciences
+[7] **Qiu Yang***, Andrew J. Majda, 2019: [Upscale Impact of Mesoscale Disturbances of Tropical Convection on 2-Day Waves](https://journals.ametsoc.org/jas/article/76/1/171/107316/Upscale-Impact-of-Mesoscale-Disturbances-of), Journal of the Atmospheric Sciences
 
 2018
 -
-[6] Noah Brenowitz*, Andrew J. Majda, **Qiu Yang**, 2018: The Multiscale Impacts of Organized Convection in Global 2D Cloud Resolving Models, Journal of Advances in Modeling Earth Systems.
+[6] Noah Brenowitz*, Andrew J. Majda, **Qiu Yang**, 2018: [The Multiscale Impacts of Organized Convection in Global 2D Cloud Resolving Models](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001335), Journal of Advances in Modeling Earth Systems.
 
-[5] **Qiu Yang***, Andrew J. Majda, 2018: Upscale Impact of Mesoscale Disturbances of Tropical Convection on Convectively Coupled Kelvin Waves, Journal of the Atmospheric Sciences.
+[5] **Qiu Yang***, Andrew J. Majda, 2018: [Upscale Impact of Mesoscale Disturbances of Tropical Convection on Convectively Coupled Kelvin Waves](https://journals.ametsoc.org/jas/article/75/1/85/99497/Upscale-Impact-of-Mesoscale-Disturbances-of), Journal of the Atmospheric Sciences.
 
 2014-2017
 -
-[4] **Qiu Yang***, Andrew J. Majda, Boualem Khouider, 2017: ITCZ Breakdown and Its Upscale Impact on the Planetary-Scale Circulation over the Eastern Pacific, Journal of the Atmospheric Sciences.
+[4] **Qiu Yang***, Andrew J. Majda, Boualem Khouider, 2017: [ITCZ Breakdown and Its Upscale Impact on the Planetary-Scale Circulation over the Eastern Pacific](https://journals.ametsoc.org/jas/article/74/12/4023/68982/ITCZ-Breakdown-and-Its-Upscale-Impact-on-the), Journal of the Atmospheric Sciences.
 
-[3] **Qiu Yang***, Andrew J. Majda, 2017: Upscale Impact of Mesoscale Disturbances of Tropical Convection on the Synoptic-Scale Equatorial Waves in Two-Dimensional Flows, Journal of the Atmospheric Sciences.
+[3] **Qiu Yang***, Andrew J. Majda, 2017: [Upscale Impact of Mesoscale Disturbances of Tropical Convection on the Synoptic-Scale Equatorial Waves in Two-Dimensional Flows](https://journals.ametsoc.org/jas/article/74/9/3099/28261/Upscale-Impact-of-Mesoscale-Disturbances-of), Journal of the Atmospheric Sciences.
 
-[2] Andrew J. Majda, **Qiu Yang***, 2016: A Multi-Scale Model for the Intraseasonal Impact of the Diurnal Cycle over the Maritime Continent on the Madden-Julian Oscillation, Journal of the Atmospheric Sciences.
+[2] Andrew J. Majda, **Qiu Yang***, 2016: [A Multi-Scale Model for the Intraseasonal Impact of the Diurnal Cycle over the Maritime Continent on the Madden-Julian Oscillation](https://journals.ametsoc.org/jas/article/73/2/579/27828/A-Multiscale-Model-for-the-Intraseasonal-Impact-of), Journal of the Atmospheric Sciences.
 
-[1] **Qiu Yang***, Andrew J. Majda, 2014: A Multi-Scale Model for the Intraseasonal Impact of the Diurnal Cycle of Tropical Convection, Theoretical and Computational Fluid Dynamics.
+[1] **Qiu Yang***, Andrew J. Majda, 2014: [A Multi-Scale Model for the Intraseasonal Impact of the Diurnal Cycle of Tropical Convection](https://link.springer.com/article/10.1007/s00162-014-0336-3), Theoretical and Computational Fluid Dynamics.
 
 Non-peer reviewed publication
 -
