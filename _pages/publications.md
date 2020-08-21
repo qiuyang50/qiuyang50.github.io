@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-(\*) denotes the corresponding author.
+All my publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=MzMRC04AAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Qiu_Yang4). Below, * denotes the corresponding author.
 
 2020
 -
