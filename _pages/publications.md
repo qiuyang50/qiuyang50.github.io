@@ -10,7 +10,7 @@ Manuscript in prep or submitted
 
 [11] Qiu Yang*, Andrew J. Majda, Nan Chen: ENSO Diversity in a Tropical Stochastic Skeleton Model for the MJO, El Nino, and Dynamic Walker Circulation, submitted to Journal of Climate.
 
-PUBLICATIONS
+Publications
 -
 (\*) denotes the corresponding author.
 
