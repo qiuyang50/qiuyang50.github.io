@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Qiu Yang. I just started a new job as a research scientist at PNNL this fall, 2020. Before this, I am a postdoctoral fellow collaborating with Profs. Andrew Majda (NYU), Boualem Khouider (Uvic), and Mitchell Moncrieff (NCAR). In 2017 spring, I obtained my Ph.D. degree of Mathematics and Atmosphere Ocean Science at Center for Atmosphere Ocean Science, Courant Institute of Mathematical Sciences, New York University.
+Hi, I am Qiu Yang. 
+=======
+I just started a new job as a research scientist at PNNL this fall, 2020. Before this, I am a postdoctoral fellow collaborating with Profs. Andrew Majda (NYU), Boualem Khouider (Uvic), and Mitchell Moncrieff (NCAR). In 2017 spring, I obtained my Ph.D. degree of Mathematics and Atmosphere Ocean Science at Center for Atmosphere Ocean Science, Courant Institute of Mathematical Sciences, New York University.
 
 My current research focuses on two topics, including 1) studing the multi-scale interactions between mesoscale convective systems and large-scale circulation, and 2) developing the superparameterization version of the Energy Exascale Earth System Model (E3SM). 
 
