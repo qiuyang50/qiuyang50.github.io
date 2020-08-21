@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-Manuscript in prep or submitted
+Manuscript submitted or in prep
 -
 [12] **Qiu Yang***, Boualem Khouider, Andrew J. Majda: Upscale Impact of Mesoscale Convective Systems on the MJO and Its Parameterization in a Coarse-Resolution GCM with the Deterministic Multicloud Parameterization, in prep.
 
