@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+Here is a complete version of my [CV](https://qiuyang50.github.io/files/CV_QiuYang.pdf). 
+
 
 Education
 ======
