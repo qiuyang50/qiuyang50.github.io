@@ -25,7 +25,7 @@ Employment
 * Host: Boualem Khouider
 
 ### (2017 Jul.-2020 Aug.) Postdoc Associate
-* Address: Center for Atmosphere Ocean Science, Courant Institute, New York University, USA
+* Center for Atmosphere Ocean Science, Courant Institute, New York University, USA
 * Funding source: Center for Prototype Climate Modeling in NYU Abu Dhabi, UAE
 * Research Topic: Upscale Impact of Mesoscale Convective Systems on Tropical Weather and Climate
 * Co-mentored by Andrew Majda (NYU), Boualem Khouider (UVic) and Mitchell Moncrieff (NCAR)
@@ -39,7 +39,7 @@ Education
 
 ### (2008 fall--2012 spring) B.S. in Applied Mathematics (major) and Physics (minor)
 * Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China
-* Optimal Transport of Water in the Biological Network
+* Thesis: Optimal Transport of Water in the Biological Network
 * Thesis Advisor: David Cai (Courant, NYU) and Dan Hu (SJTU)
 
 <!--
