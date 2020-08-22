@@ -30,6 +30,17 @@ Employment
 * Research Topic: Upscale Impact of Mesoscale Convective Systems on Tropical Weather and Climate
 * Co-mentored by Andrew Majda (NYU), Boualem Khouider (UVic) and Mitchell Moncrieff (NCAR)
 
+Education
+-
+### (2012 fall--2017 spring) Ph.D. in Mathematics and Atmosphere and Ocean Sciences
+* Center for Atmosphere Ocean Science, Courant Institute, New York University, NY, USA
+* Thesis: Multi-Scale Models for the Scale Interaction of Organized Tropical Convection
+* Thesis Advisor: Andrew J. Majda
+
+### (2008 fall--2012 spring) B.S. in Applied Mathematics (major) and Physics (minor)
+* Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China
+* Optimal Transport of Water in the Biological Network
+* Thesis Advisor: David Cai (Courant, NYU) and Dan Hu (SJTU)
 
 <!--
 Education
