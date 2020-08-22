@@ -12,31 +12,26 @@ Here is a complete version of my [CV](https://qiuyang50.github.io/files/CV_QiuYa
 
 Employment
 -
-## 2020 Sep.--present Research Scientist
+## (2020 Sep.-present) Research Scientist
 * Computational Climate Science Group, Earth \& Biological Sciences Directorate, Pacific Northwest National Laboratory (PNNL), USA
 * Address: 902 Battelle Blvd, Richland, WA 99354
 
+## (2018 Mar.-May) Academic Visitor
+* Atmospheric Modeling \& Predictability Section of Climate and Global Dynamics Laboratory, National Center for Atmospheric Research (NCAR), USA
+* Host: Mitchell Moncrieff
+
+## (2017 Sep.--Dec., 2019 May--Jul.) Academic Visitor
+* Department of Mathematics and Statistics, University of Victoria (UVic), Canada
+* Host: Boualem Khouider
+
+## (2017 Jul.-2020 Aug.) Postdoc Associate
+* Address: Center for Atmosphere Ocean Science, Courant Institute, New York University, USA
+* Funding source: Center for Prototype Climate Modeling in NYU Abu Dhabi, UAE
+* Research Topic: Upscale Impact of Mesoscale Convective Systems on Tropical Weather and Climate
+* Co-mentored by Andrew Majda (NYU), Boualem Khouider (UVic) and Mitchell Moncrieff (NCAR)
+
+
 <!--
-\begin{rSubsection}{Research Scientist}{2020 Sep.--present}{}{}
-\item Computational Climate Science Group, Earth \& Biological Sciences Directorate, Pacific Northwest National Laboratory (PNNL), USA
-\item Address: 902 Battelle Blvd, Richland, WA 99354
-\end{rSubsection}
-\begin{rSubsection}{Academic Visitor}{2018 Mar.--May}{}{}
-\item Atmospheric Modeling \& Predictability Section of Climate and Global Dynamics Laboratory, National Center for Atmospheric Research (NCAR), USA
-\item Host: Mitchell Moncrieff
-\end{rSubsection}
-\begin{rSubsection}{Academic Visitor}{2017 Sep.--Dec., 2019 May--Jul.}{}{}
-\item Department of Mathematics and Statistics, University of Victoria (UVic), Canada
-\item Host: Boualem Khouider
-\end{rSubsection}
-\begin{rSubsection}{Postdoc Associate}{2017 Jul.--2020 Aug.}{}{}
-\item Address: Center for Atmosphere Ocean Science, Courant Institute, New York University, USA
-\item Funding source: Center for Prototype Climate Modeling in NYU Abu Dhabi, UAE
-\item Research Topic: Upscale Impact of Mesoscale Convective Systems on Tropical Weather and Climate
-\item Co-mentored by Andrew Majda (NYU), Boualem Khouider (UVic) and Mitchell Moncrieff (NCAR)
-\end{rSubsection}
-
-
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
