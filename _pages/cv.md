@@ -20,7 +20,7 @@ Employment
 * Atmospheric Modeling \& Predictability Section of Climate and Global Dynamics Laboratory, National Center for Atmospheric Research (NCAR), USA
 * Host: Mitchell Moncrieff
 
-## (2017 Sep.--Dec., 2019 May--Jul.) Academic Visitor
+## (2017 Sep.-Dec., 2019 May-Jul.) Academic Visitor
 * Department of Mathematics and Statistics, University of Victoria (UVic), Canada
 * Host: Boualem Khouider
 
