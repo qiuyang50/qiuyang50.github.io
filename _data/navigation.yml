@@ -6,8 +6,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
@@ -18,6 +18,6 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
   
-  - title: "Guide"
-    url: /markdown/ 
+#  - title: "Guide"
+#    url: /markdown/ 
     
