@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Qiu Yang. I just started a new job as a research scientist at PNNL this fall, 2020 (Also see my [PNNL webpage](https://www.pnnl.gov/atmospheric/staff/staff_info.asp?staff_num=10317)). Before this, I was a postdoctoral fellow collaborating with Profs. [Andrew Majda](https://math.nyu.edu/faculty/majda/) (NYU), [Boualem Khouider](https://www.math.uvic.ca/~khouider/) (Uvic), and [Mitchell Moncrieff](https://staff.ucar.edu/users/moncrief) (NCAR). In 2017 spring, I obtained my Ph.D. degree of Mathematics and Atmosphere Ocean Science at [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/), Courant Institute of Mathematical Sciences, New York University.
+Hi, I am Qiu Yang. I just started a new job as a research scientist at PNNL this fall, 2020 (see my [PNNL webpage](https://www.pnnl.gov/atmospheric/staff/staff_info.asp?staff_num=10317)). Before this, I was a postdoctoral fellow collaborating with Profs. [Andrew Majda](https://math.nyu.edu/faculty/majda/) (NYU), [Boualem Khouider](https://www.math.uvic.ca/~khouider/) (Uvic), and [Mitchell Moncrieff](https://staff.ucar.edu/users/moncrief) (NCAR). In 2017 spring, I obtained my Ph.D. degree of Mathematics and Atmosphere Ocean Science at [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/), Courant Institute of Mathematical Sciences, New York University.
 
 My current research focuses on two topics, including 1) studying the multi-scale interactions between mesoscale convective systems and large-scale circulation, and 2) developing the superparameterization version of the Energy Exascale Earth System Model (E3SM). 
 
