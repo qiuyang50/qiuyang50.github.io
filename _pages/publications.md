@@ -6,11 +6,13 @@ author_profile: true
 ---
 All my publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=MzMRC04AAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Qiu_Yang4). Below, * denotes the corresponding author.
 
-2020
--
+Submitted or in prep
 [12] **Qiu Yang***, Boualem Khouider, Andrew J. Majda: Upscale Impact of Mesoscale Convective Systems on the MJO and Its Parameterization in a Coarse-Resolution GCM with the Deterministic Multicloud Parameterization, in prep.
 
-[11] **Qiu Yang***, Andrew J. Majda, Nan Chen: ENSO Diversity in a Tropical Stochastic Skeleton Model for the MJO, El Nino, and Dynamic Walker Circulation, submitted to Journal of Climate.
+
+2020
+-
+[11] **Qiu Yang***, Andrew J. Majda, Nan Chen, 2020: ENSO Diversity in a Tropical Stochastic Skeleton Model for the MJO, El Nino, and Dynamic Walker Circulation, accepted by Journal of Climate.
 
 2019
 -
