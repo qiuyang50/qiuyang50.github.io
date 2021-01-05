@@ -6,7 +6,7 @@ author_profile: true
 ---
 All my publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=MzMRC04AAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Qiu_Yang4). Below, * denotes the corresponding author.
 
-Submitted or in prep
+Submitted or in preparation
 -
 [12] **Qiu Yang***, Boualem Khouider, Andrew J. Majda: Upscale Impact of Mesoscale Convective Systems on the MJO and Its Parameterization in a Coarse-Resolution GCM with the Deterministic Multicloud Parameterization, in prep.
 
