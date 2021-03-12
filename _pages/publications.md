@@ -6,10 +6,9 @@ author_profile: true
 ---
 All my publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=MzMRC04AAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Qiu_Yang4). Below, * denotes the corresponding author.
 
-Submitted or in preparation
+2021
 -
 [12] **Qiu Yang***, Ruby Leung, Zhe Feng, Fengfei Song, Xingchao Chen, 2021: A Simple Lagrangian Parcel Model for the Initiation of Summer-time MCSs over the Central US, in prep.
-
 
 2020
 -
