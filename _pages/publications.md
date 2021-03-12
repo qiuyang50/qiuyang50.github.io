@@ -42,7 +42,7 @@ All my publications can be found at [Google Scholar](https://scholar.google.com/
 
 Non-peer reviewed publication
 -
-Qiu Yang, 2017: [Multi-Scale Models for the Scale Interaction of Organized Tropical Convection](https://qiuyang50.github.io/files/thesis.pdf), Ph.D thesis. My thesis defense slides are here.
+Qiu Yang, 2017: [Multi-Scale Models for the Scale Interaction of Organized Tropical Convection](https://qiuyang50.github.io/files/thesis.pdf), Ph.D thesis. My thesis defense slides are [here](https://qiuyang50.github.io/files/QiuYang_Thesis.pdf).
 
 <!--
 {% if author.googlescholar %}
