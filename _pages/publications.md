@@ -13,7 +13,7 @@ Submitted or in preparation
 
 2020
 -
-[11] **Qiu Yang***, Andrew J. Majda, Nan Chen, 2020: ENSO Diversity in a Tropical Stochastic Skeleton Model for the MJO, El Nino, and Dynamic Walker Circulation, accepted by Journal of Climate.
+[11] **Qiu Yang***, Andrew J. Majda, Nan Chen, 2020: [ENSO Diversity in a Tropical Stochastic Skeleton Model for the MJO, El Nino, and Dynamic Walker Circulation](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-20-0447.1/JCLI-D-20-0447.1.xml), Journal of Climate.
 
 2019
 -
