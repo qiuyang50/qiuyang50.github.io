@@ -8,7 +8,7 @@ All my publications can be found at [Google Scholar](https://scholar.google.com/
 
 Submitted or in preparation
 -
-[12] **Qiu Yang***, Boualem Khouider, Andrew J. Majda: Upscale Impact of Mesoscale Convective Systems on the MJO and Its Parameterization in a Coarse-Resolution GCM with the Deterministic Multicloud Parameterization, in prep.
+[12] **Qiu Yang***, Ruby Leung, Zhe Feng, Fengfei Song, Xingchao Chen, 2021: A Simple Lagrangian Parcel Model for the Initiation of Summer-time MCSs over the Central US, in prep.
 
 
 2020
