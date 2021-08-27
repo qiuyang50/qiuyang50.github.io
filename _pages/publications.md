@@ -10,7 +10,7 @@ All my publications can be found at [Google Scholar](https://scholar.google.com/
 -
 [13] **Qiu Yang***, Ruby Leung, Zhe Feng, Fengfei Song, Xingchao Chen, 2021: A Simple Lagrangian Parcel Model for the Initiation of Summer-time MCSs over the Central US, accepted by Journal of the Atmospheric Sciences.
 
-[12] Xingchao Chen*, L. Ruby Leung, Zhe Feng, Fengfei Song, **Qiu Yang**, 2021: Crucial Role of Mesoscale Convective Systems in the South Asian Summer Monsoon Onset: An Energetics View, accepted by Geophysical Research Letters. 
+[12] Xingchao Chen*, L. Ruby Leung, Zhe Feng, Fengfei Song, **Qiu Yang**, 2021: [Mesoscale Convective Systems Dominate the Energetics of the South Asian Summer Monsoon Onset](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL094873), Geophysical Research Letters. 
 
 2020
 -
