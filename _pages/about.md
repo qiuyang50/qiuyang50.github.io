@@ -13,7 +13,7 @@ My current research focuses on two topics, including 1) developing theoretical m
 
 Recent News
 -
-**Septermber 2, 2021**: Our recent study on the initiation of summer-time MCSs over the central US is accepted by JAS! In this study, we developed a simple Lagrangian parcel model to capture realistic features of convective initiation and illustrate a bare-bone mechanisms for MCS genesis. Please check it out [here](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0136.1/JAS-D-21-0136.1.xml).
+**Septermber 2, 2021**: Our recent study on the initiation of summer-time MCSs over the central US is accepted by JAS! In this study, we developed a simple Lagrangian parcel model to capture realistic features of convective initiation and illustrate a bare-bone mechanism for MCS genesis. Please check it out [here](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0136.1/JAS-D-21-0136.1.xml).
 
 May 11, 2021: I gave a virtual talk in the 34th Conference on Hurricanes and Tropical Meteorology in New Orleans, LA. The title of my talk is "Upscale Impact of Mesoscale Convective Systems on the Madden-Julian Oscillation and Its Parameterization in a Coarse-Resolution GCM". Here is my pre-recorded [presentation](https://www.dropbox.com/s/cs6yqx23l9kghn8/QiuYang.mp4?dl=0).
 
