@@ -13,11 +13,11 @@ Here is a complete version of my [CV](https://qiuyang50.github.io/files/CV_QiuYa
 Employment
 -
 ### (2020 Sep.-present) Research Scientist
-* Computational Climate Science Group, Earth \& Biological Sciences Directorate, Pacific Northwest National Laboratory (PNNL), USA
+* Computational Climate Science Group, Earth & Biological Sciences Directorate, Pacific Northwest National Laboratory (PNNL), USA
 * Address: 902 Battelle Blvd, Richland, WA 99354
 
 ### (2018 Mar.-May) Academic Visitor
-* Atmospheric Modeling \& Predictability Section of Climate and Global Dynamics Laboratory, National Center for Atmospheric Research (NCAR), USA
+* Atmospheric Modeling & Predictability Section of Climate and Global Dynamics Laboratory, National Center for Atmospheric Research (NCAR), USA
 * Host: Mitchell Moncrieff
 
 ### (2017 Sep.-Dec., 2019 May-Jul.) Academic Visitor
