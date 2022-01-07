@@ -6,6 +6,12 @@ author_profile: true
 ---
 All my publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=MzMRC04AAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Qiu_Yang4). Below, * denotes the corresponding author.
 
+2022
+-
+[15] **Qiu Yang***, Ruby Leung, Zhe Feng, Xingchao Chen, 2022: The Impact of Global Warming on the Initiation of Summer-time Mesoscale Convective Systems over the United States. In prep. 
+
+[14] Xingchao Chen*, L. Ruby Leung, Zhe Feng, **Qiu Yang**, 2022: Precipitation-moisture interactions over tropical oceans: consecutive roles of different convective systems. In prep. 
+
 2021
 -
 [13] **Qiu Yang***, Ruby Leung, Zhe Feng, Fengfei Song, Xingchao Chen, 2021: [A Simple Lagrangian Parcel Model for the Initiation of Summer-time MCSs over the Central US](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0136.1/JAS-D-21-0136.1.xml), Journal of the Atmospheric Sciences.
