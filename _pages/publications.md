@@ -8,7 +8,7 @@ All my publications can be found at [Google Scholar](https://scholar.google.com/
 
 2022
 -
-[16] **Qiu Yang***, Walter Hannah, Ruby Leung, 2022: The Impact of Convective Momentum Transport on the Madden-Julian Oscillation and its Treatment in the E3SM-MMF. In prep. 
+[16] **Qiu Yang***, Walter Hannah, Ruby Leung, 2022: The Impact of Convective Momentum Transport on the Madden-Julian Oscillation and its Parameterization in the E3SM-MMF. In prep. 
 
 [15] **Qiu Yang***, Ruby Leung, Zhe Feng, Xingchao Chen, 2022: The Impact of Global Warming on the Initiation of Summer-time Mesoscale Convective Systems over the United States. In prep. 
 
