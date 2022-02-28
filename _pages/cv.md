@@ -16,17 +16,16 @@ Employment
 * Computational Climate Science Group, Earth & Biological Sciences Directorate, Pacific Northwest National Laboratory (PNNL), USA
 * Address: 902 Battelle Blvd, Richland, WA 99354
 
-### (2018 Mar.-May) Academic Visitor
+### (2018 Mar.-May) Visiting Scholar
 * Atmospheric Modeling & Predictability Section of Climate and Global Dynamics Laboratory, National Center for Atmospheric Research (NCAR), USA
 * Host: Mitchell Moncrieff
 
-### (2017 Sep.-Dec., 2019 May-Jul.) Academic Visitor
+### (2017 Sep.-Dec., 2019 May-Jul.) Visiting Scholar
 * Department of Mathematics and Statistics, University of Victoria (UVic), Canada
 * Host: Boualem Khouider
 
 ### (2017 Jul.-2020 Aug.) Postdoc Associate
 * Center for Atmosphere Ocean Science, Courant Institute, New York University, USA
-* Funding source: Center for Prototype Climate Modeling in NYU Abu Dhabi, UAE
 * Research Topic: Upscale Impact of Mesoscale Convective Systems on Tropical Weather and Climate
 * Co-mentored by Andrew Majda (NYU), Boualem Khouider (UVic) and Mitchell Moncrieff (NCAR)
 
