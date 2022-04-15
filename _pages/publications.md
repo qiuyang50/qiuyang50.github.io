@@ -14,7 +14,7 @@ All my publications can be found at [Google Scholar](https://scholar.google.com/
 
 [15] **Qiu Yang***, Ruby Leung, Zhe Feng, Xingchao Chen, 2022: The Impact of Global Warming on the Initiation of Summer-time Mesoscale Convective Systems over the United States. In prep. 
 
-[14] Xingchao Chen*, L. Ruby Leung, Zhe Feng, **Qiu Yang**, 2022: Precipitation-moisture interactions over tropical oceans: consecutive roles of different convective systems. Submitted to GRL, in minor revision. 
+[14] Xingchao Chen*, L. Ruby Leung, Zhe Feng, **Qiu Yang**, 2022: [Precipitation-moisture interactions over tropical oceans: consecutive roles of different convective systems](https://doi.org/10.1029/2022GL097836), Geophysical Research Letters. 
 
 2021
 -
