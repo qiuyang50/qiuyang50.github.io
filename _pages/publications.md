@@ -19,7 +19,7 @@ Simple Lagrangian Parcel Model Perspective. Submitted to Journal of Climate.
 
 2021
 -
-[13] **Qiu Yang***, Ruby Leung, Zhe Feng, Fengfei Song, Xingchao Chen, 2021: [A Simple Lagrangian Parcel Model for the Initiation of Summer-time MCSs over the Central US](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0136.1/JAS-D-21-0136.1.xml), Journal of the Atmospheric Sciences.
+[13] **Qiu Yang***, Ruby Leung, Zhe Feng, Fengfei Song, Xingchao Chen, 2021: [A Simple Lagrangian Parcel Model for the Initiation of Summertime MCSs over the Central US](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0136.1/JAS-D-21-0136.1.xml), Journal of the Atmospheric Sciences.
 
 [12] Xingchao Chen*, L. Ruby Leung, Zhe Feng, Fengfei Song, **Qiu Yang**, 2021: [Mesoscale Convective Systems Dominate the Energetics of the South Asian Summer Monsoon Onset](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL094873), Geophysical Research Letters. 
 
