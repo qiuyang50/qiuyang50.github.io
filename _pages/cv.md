@@ -41,6 +41,10 @@ Education
 * Thesis: Optimal Transport of Water in the Biological Network
 * Thesis Advisor: David Cai (Courant, NYU) and Dan Hu (SJTU)
 
+Community Service
+-
+### （2022 September--2023 August）Associate Editor for Journal of the Atmospheric Sciences
+
 <!--
 Education
 ======
