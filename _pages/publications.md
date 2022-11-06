@@ -8,9 +8,9 @@ All my publications can be found at [Google Scholar](https://scholar.google.com/
 
 2022
 -
-[17] **Qiu Yang***, Walter Hannah, Ruby Leung, 2022: [Convective Momentum Transport and its Impact on the Madden-Julian Oscillation in E3SM-MMF](https://doi.org/10.1029/2022MS003206). Journal of Advances in Modeling Earth Systems. 
+[17] **Qiu Yang***, Ruby Leung, Zhe Feng, Xingchao Chen, 2022: Impact of Global Warming on U.S. Summertime Mesoscale Convective Systems: A Simple Lagrangian Parcel Model Perspective. Journal of Climate, in revision. 
 
-[16] **Qiu Yang***, Ruby Leung, Zhe Feng, Xingchao Chen, 2022: Impact of Global Warming on U.S. Summertime Mesoscale Convective Systems: A Simple Lagrangian Parcel Model Perspective. Journal of Climate, in revision. 
+[16] **Qiu Yang***, Walter Hannah, Ruby Leung, 2022: [Convective Momentum Transport and its Impact on the Madden-Julian Oscillation in E3SM-MMF](https://doi.org/10.1029/2022MS003206). Journal of Advances in Modeling Earth Systems. 
 
 [15] Xingchao Chen*, L. Ruby Leung, Zhe Feng, **Qiu Yang**, 2022: [Precipitation-Moisture Coupling Over Tropical Oceans: Sequential Roles of Shallow, Deep, and Mesoscale Convective Systems](https://doi.org/10.1029/2022GL097836), Geophysical Research Letters. 
 
