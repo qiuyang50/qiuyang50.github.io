@@ -10,7 +10,7 @@ All my publications can be found at [Google Scholar](https://scholar.google.com/
 -
 [17] Fengfei Song*, L. Ruby Leung, Zhe Feng, Xingchao Chen, **Qiu Yang**, 2022: [Historical and future changes of large-scale environments for spring MCS initiation over the U.S. Great Plains](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098799). Geophysical Research Letters. 
 
-[16] **Qiu Yang***, Walter Hannah, Ruby Leung, 2022: Convective Momentum Transport and its Impact on the Madden-Julian Oscillation in E3SM-MMF. Journal of Advances in Modeling Earth Systems, in revision. 
+[16] **Qiu Yang***, Walter Hannah, Ruby Leung, 2022: [Convective Momentum Transport and its Impact on the Madden-Julian Oscillation in E3SM-MMF](https://doi.org/10.1029/2022MS003206). Journal of Advances in Modeling Earth Systems. 
 
 [15] **Qiu Yang***, Ruby Leung, Zhe Feng, Xingchao Chen, 2022: Impact of Global Warming on U.S. Summertime Mesoscale Convective Systems: A Simple Lagrangian Parcel Model Perspective. Journal of Climate, in revision. 
 
