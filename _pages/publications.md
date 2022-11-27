@@ -6,6 +6,10 @@ author_profile: true
 ---
 All my publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=MzMRC04AAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Qiu_Yang4). Below, * denotes the corresponding author.
 
+2023
+-
+[17] **Qiu Yang***, Ruby Leung, Zhe Feng, Xingchao Chen, 2023: A Moist Potential Vorticity Model for Mid-Latitude Mesoscale Convective Systems over Land. Submitted to Journal of the Atmospheric Sciences. 
+
 2022
 -
 [17] **Qiu Yang***, Ruby Leung, Zhe Feng, Xingchao Chen, 2022: Impact of Global Warming on U.S. Summertime Mesoscale Convective Systems: A Simple Lagrangian Parcel Model Perspective. Journal of Climate, in revision. 
