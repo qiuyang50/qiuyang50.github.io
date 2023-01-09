@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="https://wallpapershome.com/images/pages/pic_h/23359.jpg" width=100% height=50%>
+<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=100% height=50%>
 
 Hi, my name is Qiu Yang. I am an Earth scientist at PNNL since September 2020. Before this (Year 2017–2020), I was a postdoctoral fellow working on the scale interactions of organized tropical convection, co-mentored by Profs. Andrew Majda (NYU), Boualem Khouider (Uvic), and Mitchell Moncrieff (NCAR). In 2017 spring, I obtained my Ph.D. degree of Mathematics and Atmosphere Ocean Science at [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/), Courant Institute of Mathematical Sciences, New York University.
 
