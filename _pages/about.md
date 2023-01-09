@@ -13,7 +13,7 @@ Hi, my name is Qiu Yang. I am an Earth scientist at PNNL since September 2020. B
 
 My current research focuses on two topics, including 
 * developing theoretical models for the initiation of summer-time mesoscale convective systems over the central United States, 
-* studying convective momentum transport for improving the Energy Exascale Earth System Model-Multiscale Modeling Framework (E3SM-MMF). 
+* studying convective momentum transport for improving the E3SM-MMF. 
 
 Recent News
 -
