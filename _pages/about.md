@@ -9,7 +9,7 @@ redirect_from:
 ---
 <img src="/files/space-1673306930979-5592.jpeg" alt="drawing" width="1680"/>
 
-Hi, my name is Qiu Yang 杨邱. I am an Earth scientist at PNNL since September 2020. Before that, I was a postdoctoral fellow working with Prof. Andrew Majda at New York University on *scale interactions of organized tropical convection*. In 2017 spring, I obtained my Ph.D. degree of Atmospheric and Oceanic Sciences from [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/), Courant Institute of Mathematical Sciences, New York University.
+Hi, my name is Qiu Yang (杨邱 in chinese). I am an Earth scientist at PNNL since September 2020. Before that, I was a postdoctoral fellow working with Prof. Andrew Majda at New York University on *scale interactions of organized tropical convection*. In 2017 spring, I obtained my Ph.D. degree of Atmospheric and Oceanic Sciences from [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/), Courant Institute of Mathematical Sciences, New York University.
 
 My current research focuses on two topics, including 
 * Developing theoretical models for underestanding fundamental mechanisms of mesoscale convective systems, 
