@@ -49,19 +49,22 @@
 }
 
 .page__content {
-   text-align: justify; /* added by QY */
+  text-align: justify; /* added by QY */
 
   h2 {
+    text-align: justify; /* added by QY */
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
 
   p, li, dl {
+    text-align: justify; /* added by QY */
     font-size: 1em;
   }
 
   /* paragraph indents */
   p {
+    text-align: justify; /* added by QY */
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
@@ -74,6 +77,7 @@
   }
 
   a {
+    text-align: justify; /* added by QY */
     text-decoration: underline;
 
     &:hover {
@@ -86,23 +90,27 @@
   }
 
   dt {
+    text-align: justify; /* added by QY */
     margin-top: 1em;
     font-family: $sans-serif;
     font-weight: bold;
   }
 
   dd {
+    text-align: justify; /* added by QY */
     margin-left: 1em;
     font-family: $sans-serif;
     font-size: $type-size-6;
   }
 
   .small {
+    text-align: justify; /* added by QY */
     font-size: $type-size-6;
   }
 
   /* blockquote citations */
   blockquote + .small {
+    text-align: justify; /* added by QY */
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
