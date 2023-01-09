@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+![](https://i.imgur.com/bdWWcsf.jpg)
+
 Hi, my name is Qiu Yang. I am an Earth scientist at PNNL since September 2020. Before this (Year 2017–2020), I was a postdoctoral fellow working on the scale interactions of organized tropical convection, co-mentored by Profs. Andrew Majda (NYU), Boualem Khouider (Uvic), and Mitchell Moncrieff (NCAR). In 2017 spring, I obtained my Ph.D. degree of Mathematics and Atmosphere Ocean Science at [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/), Courant Institute of Mathematical Sciences, New York University.
 
 My current research focuses on two topics, including 1) developing theoretical models for the initiation of summer-time mesoscale convective systems over the central United States, and 2) developing a parameterization for convective momentum transport in the superparameterized Energy Exascale Earth System Model (E3SM). 
