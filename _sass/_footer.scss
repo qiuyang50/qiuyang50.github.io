@@ -31,7 +31,7 @@
     margin-top: 0em;  /* 2em */
     margin-bottom: 0em; /* added by QY */
     max-width: 100%;
-    padding: 0.5em 0em 0.5em; /* 0 1em 2em */
+    padding: 0.5em 0em 0.5em 0em; /* 0 1em 2em */
 
     @include breakpoint($x-large) {
       max-width: $x-large;
