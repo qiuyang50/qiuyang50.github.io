@@ -13,7 +13,7 @@ Hi, my name is Qiu Yang (杨邱 in chinese). I am a research scientist at PNNL s
 
 My current research focuses on two topics, including 1) developing theoretical models for underestanding fundamental mechanisms of mesoscale convective systems, 2) studying convective momentum transport for improving the E3SM-MMF. 
 
-<span style="color:blue">some *This is Blue italic.* text</span>
+<span data-color="red">Red</span>
 
 Recent News
 -
