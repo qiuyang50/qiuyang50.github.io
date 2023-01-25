@@ -17,7 +17,7 @@ Recent News
 -
 **August 5, 2022**: Qiu Yang will serve as an associate editor for [Journal of the Atmospheric Sciences](https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-the-atmospheric-sciences/#contacts), starting from September 1st, 2022! 
 
-<div align="center">
+<div align="right">
 <details><summary>Older News</summary>
 <p>
   
