@@ -20,7 +20,7 @@ Recent News
 <details>
   <summary>Click to see more</summary>
   
--December 14, 2021: I will give an oral presentation to present our recent work at 2021 AGU fall meeting. The title of my talk is *A Simple Lagrangian Parcel Model for the Initiation of Summer-time Mesoscale Convective Systems over the Central United States*. Please check the schedule [here](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/831604). You can also watch my [pre-recorded video](https://www.dropbox.com/s/8tasok7wnit6quf/Qiu_Yang_PNNL.mp4?dl=0).
+  December 14, 2021: I will give an oral presentation to present our recent work at 2021 AGU fall meeting. The title of my talk is *A Simple Lagrangian Parcel Model for the Initiation of Summer-time Mesoscale Convective Systems over the Central United States*. Please check the schedule [here](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/831604). You can also watch my [pre-recorded video](https://www.dropbox.com/s/8tasok7wnit6quf/Qiu_Yang_PNNL.mp4?dl=0).
 
 -December 13, 2021: I will give an oral presentation to honor the memory of Prof. Andrew Majda at 2021 AGU fall meeting. The title of my talk is *Upscale Impact of Mesoscale Convective Systems on the Madden-Julian Oscillation and Its Parameterization in a Coarse-Resolution GCM*. Please check the schedule [here](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/831707). You can also watch my [pre-recorded video](https://www.dropbox.com/s/wdcdmwf85c2piy3/Qiu_Yang_NYU.mp4?dl=0). 
 
