@@ -14,33 +14,18 @@ Hi, my name is Qiu Yang (杨邱 in chinese). I am a research scientist at PNNL s
 My current research focuses on two topics, including 1) developing theoretical models for underestanding fundamental mechanisms of mesoscale convective systems, 2) studying convective momentum transport for improving the E3SM-MMF. 
 
 
-<details>
-
-<summary>Long list of technical details</summary>
-
-### All of the Nitty Gritty Details
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit...
-
-</details>
-
-
 Recent News
 -
 **August 5, 2022**: Qiu Yang will serve as an associate editor for [Journal of the Atmospheric Sciences](https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-the-atmospheric-sciences/#contacts), starting from September 1st, 2022! 
 
-<details>
-  <summary>Click to see more</summary>
-  
-* December 14, 2021: I will give an oral presentation to present our recent work at 2021 AGU fall meeting. The title of my talk is *A Simple Lagrangian Parcel Model for the Initiation of Summer-time Mesoscale Convective Systems over the Central United States*. Please check the schedule [here](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/831604). You can also watch my [pre-recorded video](https://www.dropbox.com/s/8tasok7wnit6quf/Qiu_Yang_PNNL.mp4?dl=0).
+<!--  
+December 14, 2021: I will give an oral presentation to present our recent work at 2021 AGU fall meeting. The title of my talk is *A Simple Lagrangian Parcel Model for the Initiation of Summer-time Mesoscale Convective Systems over the Central United States*. Please check the schedule [here](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/831604). You can also watch my [pre-recorded video](https://www.dropbox.com/s/8tasok7wnit6quf/Qiu_Yang_PNNL.mp4?dl=0).
 
-* December 13, 2021: I will give an oral presentation to honor the memory of Prof. Andrew Majda at 2021 AGU fall meeting. The title of my talk is *Upscale Impact of Mesoscale Convective Systems on the Madden-Julian Oscillation and Its Parameterization in a Coarse-Resolution GCM*. Please check the schedule [here](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/831707). You can also watch my [pre-recorded video](https://www.dropbox.com/s/wdcdmwf85c2piy3/Qiu_Yang_NYU.mp4?dl=0). 
+December 13, 2021: I will give an oral presentation to honor the memory of Prof. Andrew Majda at 2021 AGU fall meeting. The title of my talk is *Upscale Impact of Mesoscale Convective Systems on the Madden-Julian Oscillation and Its Parameterization in a Coarse-Resolution GCM*. Please check the schedule [here](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/831707). You can also watch my [pre-recorded video](https://www.dropbox.com/s/wdcdmwf85c2piy3/Qiu_Yang_NYU.mp4?dl=0). 
 
-* Septermber 2, 2021: Our recent study on the initiation of summer-time MCSs over the central US is accepted by JAS! In this study, we developed a simple Lagrangian parcel model to capture realistic features of convective initiation and illustrate a bare-bone mechanism for MCS genesis. Please check it out [here](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0136.1/JAS-D-21-0136.1.xml).
+Septermber 2, 2021: Our recent study on the initiation of summer-time MCSs over the central US is accepted by JAS! In this study, we developed a simple Lagrangian parcel model to capture realistic features of convective initiation and illustrate a bare-bone mechanism for MCS genesis. Please check it out [here](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0136.1/JAS-D-21-0136.1.xml).
 
-* May 11, 2021: I gave a virtual talk in the 34th Conference on Hurricanes and Tropical Meteorology in New Orleans, LA. The title of my talk is "Upscale Impact of Mesoscale Convective Systems on the Madden-Julian Oscillation and Its Parameterization in a Coarse-Resolution GCM". Here is my pre-recorded [presentation](https://www.dropbox.com/s/cs6yqx23l9kghn8/QiuYang.mp4?dl=0).
-
-</details>
+May 11, 2021: I gave a virtual talk in the 34th Conference on Hurricanes and Tropical Meteorology in New Orleans, LA. The title of my talk is "Upscale Impact of Mesoscale Convective Systems on the Madden-Julian Oscillation and Its Parameterization in a Coarse-Resolution GCM". Here is my pre-recorded [presentation](https://www.dropbox.com/s/cs6yqx23l9kghn8/QiuYang.mp4?dl=0).
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
