@@ -17,7 +17,7 @@ Recent News
 -
 **August 5, 2022**: Qiu Yang will serve as an associate editor for [Journal of the Atmospheric Sciences](https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-the-atmospheric-sciences/#contacts), starting from September 1st, 2022! 
 
-<details><summary>Older News</summary>
+<details><summary>Here are older news</summary>
 <p>
   
 December 14, 2021: I will give an oral presentation to present our recent work at 2021 AGU fall meeting. The title of my talk is *A Simple Lagrangian Parcel Model for the Initiation of Summer-time Mesoscale Convective Systems over the Central United States*. Please check the schedule [here](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/831604). You can also watch my [pre-recorded video](https://www.dropbox.com/s/8tasok7wnit6quf/Qiu_Yang_PNNL.mp4?dl=0).
