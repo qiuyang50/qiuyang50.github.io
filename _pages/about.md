@@ -13,27 +13,11 @@ Hi, my name is Qiu Yang (杨邱 in chinese). I am a research scientist at PNNL s
 
 My current research focuses on two topics, including 1) developing theoretical models for underestanding fundamental mechanisms of mesoscale convective systems, 2) studying convective momentum transport for improving the E3SM-MMF. 
 
-<details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
-
 Recent News
 -
 **August 5, 2022**: Qiu Yang will serve as an associate editor for [Journal of the Atmospheric Sciences](https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-the-atmospheric-sciences/#contacts), starting from September 1st, 2022! 
 
+{::options parse_block_html="true" /}
 <details>
   <summary>Click to see more</summary>
   
@@ -46,6 +30,7 @@ Recent News
 * May 11, 2021: I gave a virtual talk in the 34th Conference on Hurricanes and Tropical Meteorology in New Orleans, LA. The title of my talk is "Upscale Impact of Mesoscale Convective Systems on the Madden-Julian Oscillation and Its Parameterization in a Coarse-Resolution GCM". Here is my pre-recorded [presentation](https://www.dropbox.com/s/cs6yqx23l9kghn8/QiuYang.mp4?dl=0).
 
 </details>
+{::options parse_block_html="false" /}
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
