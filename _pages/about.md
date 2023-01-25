@@ -15,11 +15,12 @@ My current research focuses on two topics, including 1) developing theoretical m
 
 
 <details>
-<summary>Preview</summary>
 
-{% highlight ruby %}
-puts 'Expanded message'
-{% endhighlight %}
+<summary>Long list of technical details</summary>
+
+### All of the Nitty Gritty Details
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit...
 
 </details>
 
