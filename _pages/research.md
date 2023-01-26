@@ -37,4 +37,13 @@ author_profile: true
 [8] **Qiu Yang**, Boualem Khouider*, Andrew J. Majda, Michele De La Chevrotiere, 2019: [Northward Propagation, Initiation and Termination of Boreal Summer Intraseasonal Oscillations in a Zonally Symmetric Model](https://journals.ametsoc.org/jas/article/76/2/639/40339/Northward-Propagation-Initiation-and-Termination), Journal of the Atmospheric Sciences.
 [4] **Qiu Yang**\*, Andrew J. Majda, Boualem Khouider, 2017: [ITCZ Breakdown and Its Upscale Impact on the Planetary-Scale Circulation over the Eastern Pacific](https://journals.ametsoc.org/jas/article/74/12/4023/68982/ITCZ-Breakdown-and-Its-Upscale-Impact-on-the), Journal of the Atmospheric Sciences.
 <\sub>
+ 
+### Topic 4: Developing convective momentum transport parameterization to improve GCMs
+  
+Small-scale turbulent flows from moist convection typically lead to the vertical redistribution of large-scale winds (referred to as convective momentum transport, CMT). Due to the coarse grids that are too large to resolve small-scale flows, traditional earth system models poorly represent the CMT, and thus rely on parameterizations that empirically describe the magnitude and vertical profiles of the CMT. The goal of our study is to 1) understand the impact of CMT on the simulated climatological mean state and spatiotemporal variability of the large-scale circulation, and 2) develop and improve the CMT scheme in coarse-resolution GCMs based on our theoretical modeling results. 
+<sub>
+[16] **Qiu Yang**\*, Walter Hannah, Ruby Leung, 2022: [Convective Momentum Transport and its Impact on the Madden-Julian Oscillation in E3SM-MMF](https://doi.org/10.1029/2022MS003206). Journal of Advances in Modeling Earth Systems. 
+[9] **Qiu Yang**\*, Andrew J. Majda, Mitchell W. Moncrieff, 2019: [Upscale Impact of Mesoscale Convective Systems and Its Parameterization in An Idealized GCM for A MJO Analog above the Equator](https://journals.ametsoc.org/jas/article/76/3/865/107160/Upscale-Impact-of-Mesoscale-Convective-Systems-and), Journal of the Atmospheric Sciences.
+<\sub>
+ 
 
