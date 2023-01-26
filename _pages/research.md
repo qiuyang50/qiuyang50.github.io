@@ -34,7 +34,7 @@ author_profile: true
   
 ### Topic 3: Other MJO-related large-scale convective organization
 
-<img style="float: right; padding: 0px 0px 0px 5px;" src="/files/ENSOPageWhatisElNinoTest_0.png" alt="drawing" width="600"/>
+<img style="float: right; padding: 0px 0px 0px 10px;" src="/files/ENSOPageWhatisElNinoTest_0.png" alt="drawing" width="600"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Large-scale convective organization of tropical convection could not only dramatically influence weather conditions over local regions, but also significantly impacts the global transport of momentum, heat, and moisture.  We developed a systematic tropical stochastic theoretical framework for modeling westerly wind bursts, the MJO, ENSO, and the Walker circulation, and successfully reproduced the ENSO diversity statistical features (right picture is from [link](https://www.climate.gov/enso)). Also, we developed a multi-layer zonal mean model for simulating the boreal summer intraseasonal oscillation (BSISO) and concluded the key role of β rotational effect on inducing the meridional asymmetry of moisture advection for the northward propagation of the BSISO. This mechanism demonstrated by my theoretical model is later confirmed by an observational study. In addition, we developed a multi-scale coupling model for simulating the ITCZ breakdown process, based on the multi-scale asymptotic method from applied math.    
 <sub>
 [11] **Qiu Yang**\*, Andrew J. Majda, Nan Chen, 2020: [ENSO Diversity in a Tropical Stochastic Skeleton Model for the MJO, El Nino, and Dynamic Walker Circulation](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-20-0447.1/JCLI-D-20-0447.1.xml), Journal of Climate.  
