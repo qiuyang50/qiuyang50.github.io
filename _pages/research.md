@@ -7,7 +7,7 @@ author_profile: true
 
 <video src="https://svs.gsfc.nasa.gov/vis/a000000/a003700/a003723/geos5_snow_storm2010hires_3420x1152.mp4" style="max-width: 1335px;" autoplay loop>
 </video>
-<div align="right"><sub>The above video shows Clouds in <a href="https://svs.gsfc.nasa.gov/3723">GEOS5</a></sub></div>
+<div align="right"><sub>The above video shows clouds in the <a href="https://svs.gsfc.nasa.gov/3723">GEOS5</a> model</sub></div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am an atmospheric dynamics scientist with a keen interest in studying large-scale organized convection such as the [Madden-Julian oscillation](https://www.youtube.com/watch?v=UsWHHE_jkGE&t=137s) (MJO) and [mesoscale convective systems](https://en.wikipedia.org/wiki/Mesoscale_convective_system) (MCSs). Compared with individual thunderstorms that only persist for a few hours, organized convection such as MCSs can last for more than a day and releases a massive amount of rainfall, inducing a vast impact on local weather and the hydrologic cycle. However, it is a huge challenge for global climate models (GCMs) to accurately simulate organized convection and the associated precipitation. My major expertise lies in **developing theoretical models for organized convection**, in combination with observations, numerical models, and applied math tools. The goal of my research is to obtain a better understanding of **fundamental mechanisms** of organized convection and provide useful guidelines for improving weather and climate models. Below I briefly describe several major research projects I have done before. 
 
