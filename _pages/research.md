@@ -15,7 +15,7 @@ author_profile: true
 [19] **Qiu Yang**\*, Ruby Leung, Zhe Feng, Xingchao Chen, 2023: A Moist Potential Vorticity Model for Mid-Latitude Mesoscale Convective Systems over Land. Submitted to Journal of the Atmospheric Sciences.      
 [17] **Qiu Yang**\*, Ruby Leung, Zhe Feng, Xingchao Chen, 2022: Impact of Global Warming on U.S. Summertime Mesoscale Convective Systems: A Simple Lagrangian Parcel Model Perspective. Journal of Climate, in revision.      
 [13] **Qiu Yang**\*, Ruby Leung, Zhe Feng, Fengfei Song, Xingchao Chen, 2021: [A Simple Lagrangian Parcel Model for the Initiation of Summertime MCSs over the Central US](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0136.1/JAS-D-21-0136.1.xml), Journal of the Atmospheric Sciences.  
-<\sub>
+</sub>
 
 ### Topic 2: Multi-scale organization of tropical convection in the MJO
   
@@ -27,7 +27,7 @@ author_profile: true
 [9] **Qiu Yang**\*, Andrew J. Majda, Mitchell W. Moncrieff, 2019: [Upscale Impact of Mesoscale Convective Systems and Its Parameterization in An Idealized GCM for A MJO Analog above the Equator](https://journals.ametsoc.org/jas/article/76/3/865/107160/Upscale-Impact-of-Mesoscale-Convective-Systems-and), Journal of the Atmospheric Sciences.  
 [5] **Qiu Yang**\*, Andrew J. Majda, 2018: [Upscale Impact of Mesoscale Disturbances of Tropical Convection on Convectively Coupled Kelvin Waves](https://journals.ametsoc.org/jas/article/75/1/85/99497/Upscale-Impact-of-Mesoscale-Disturbances-of), Journal of the Atmospheric Sciences.  
 [2] Andrew J. Majda, **Qiu Yang**\*, 2016: [A Multi-Scale Model for the Intraseasonal Impact of the Diurnal Cycle over the Maritime Continent on the Madden-Julian Oscillation](https://journals.ametsoc.org/jas/article/73/2/579/27828/A-Multiscale-Model-for-the-Intraseasonal-Impact-of), Journal of the Atmospheric Sciences.
-<\sub>
+</sub>
   
 ### Topic 3: Other MJO-related large-scale convective organization
 
@@ -37,7 +37,7 @@ author_profile: true
 [11] **Qiu Yang**\*, Andrew J. Majda, Nan Chen, 2020: [ENSO Diversity in a Tropical Stochastic Skeleton Model for the MJO, El Nino, and Dynamic Walker Circulation](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-20-0447.1/JCLI-D-20-0447.1.xml), Journal of Climate.  
 [8] **Qiu Yang**, Boualem Khouider*, Andrew J. Majda, Michele De La Chevrotiere, 2019: [Northward Propagation, Initiation and Termination of Boreal Summer Intraseasonal Oscillations in a Zonally Symmetric Model](https://journals.ametsoc.org/jas/article/76/2/639/40339/Northward-Propagation-Initiation-and-Termination), Journal of the Atmospheric Sciences.  
 [4] **Qiu Yang**\*, Andrew J. Majda, Boualem Khouider, 2017: [ITCZ Breakdown and Its Upscale Impact on the Planetary-Scale Circulation over the Eastern Pacific](https://journals.ametsoc.org/jas/article/74/12/4023/68982/ITCZ-Breakdown-and-Its-Upscale-Impact-on-the), Journal of the Atmospheric Sciences.
-<\sub>
+</sub>
  
 ### Topic 4: Developing convective momentum transport parameterization to improve global climate models (GCMs)
   
@@ -46,6 +46,6 @@ author_profile: true
 <sub>
 [16] **Qiu Yang**\*, Walter Hannah, Ruby Leung, 2022: [Convective Momentum Transport and its Impact on the Madden-Julian Oscillation in E3SM-MMF](https://doi.org/10.1029/2022MS003206). Journal of Advances in Modeling Earth Systems.   
 [9] **Qiu Yang**\*, Andrew J. Majda, Mitchell W. Moncrieff, 2019: [Upscale Impact of Mesoscale Convective Systems and Its Parameterization in An Idealized GCM for A MJO Analog above the Equator](https://journals.ametsoc.org/jas/article/76/3/865/107160/Upscale-Impact-of-Mesoscale-Convective-Systems-and), Journal of the Atmospheric Sciences.
-<\sub>
+</sub>
  
 
