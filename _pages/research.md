@@ -40,6 +40,7 @@ author_profile: true
  
 ### Topic 4: Developing convective momentum transport parameterization to improve GCMs
   
+<img style="float: right; padding: 0px 0px 0px 5px;" src="/files/E3SM-MMF_concept.png" alt="drawing" width="600"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Small-scale turbulent flows from moist convection typically lead to the vertical redistribution of large-scale winds (referred to as convective momentum transport, CMT). Due to the coarse grids that are too large to resolve small-scale flows, traditional earth system models poorly represent the CMT, and thus rely on parameterizations that empirically describe the magnitude and vertical profiles of the CMT. The goal of our study is to 1) understand the impact of CMT on the simulated climatological mean state and spatiotemporal variability of the large-scale circulation, and 2) develop and improve the CMT scheme in coarse-resolution GCMs based on our theoretical modeling results. 
 <sub>
 [16] **Qiu Yang**\*, Walter Hannah, Ruby Leung, 2022: [Convective Momentum Transport and its Impact on the Madden-Julian Oscillation in E3SM-MMF](https://doi.org/10.1029/2022MS003206). Journal of Advances in Modeling Earth Systems. 
