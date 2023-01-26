@@ -9,7 +9,7 @@ author_profile: true
 
 ### Topic 1: Initiation and development of MCSs and their changes under global warming
 
-<img style="float: right; padding: 0px 0px 0px 10px;" src="/files/Feng_MCS_Database.jpeg" alt="drawing" width="600"/>
+<img style="float: right; padding: 0px 0px 0px 20px;" src="/files/Feng_MCS_Database.jpeg" alt="drawing" width="600"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Even state-of-the-art numerical simulations still present significant biases in simulating mid-latitude MCSs, particularly during the summertime when synoptic forcing is typically weak. From a theoretical perspective, a suitable model to capture the realistic properties of MCSs and isolate the bare-bone mechanisms for their initiation and propagation is still lacking. To build such a theoretical model, we first developed a sing-column Lagrangian parcel model to simulate the basic features of a rising parcel. For modeling MCSs, we further developed a multi-column model that includes an array of single-column models aligned in the east-west direction and incorporates idealized cold pool interaction mechanisms. This multi-column model captures readily the cold pool–induced upscale growth feature in MCS genesis from initially scattered convection that is organized into a mesoscale cluster in a few hours. As a further step, we used both current and future climate environmental profiles to drive this Lagrangian parcel model, theoretically predicting the decreasing (increasing) mean precipitation trend over the central U.S. (southeastern U.S.) as well as the future changes of MCS size under global warming, in agreement with high-resolution cloud-resolving simulation results. Besides the thermodynamic aspects as revealed by this Lagrangial parcel model, we also studied their dynamic aspects by developing a moist version of potential vorticity model for simulating mid-latitude MCSs over land.      
 <sub>
 [19] **Qiu Yang**\*, Ruby Leung, Zhe Feng, Xingchao Chen, 2023: A Moist Potential Vorticity Model for Mid-Latitude Mesoscale Convective Systems over Land. Submitted to Journal of the Atmospheric Sciences.      
@@ -41,7 +41,7 @@ author_profile: true
  
 ### Topic 4: Developing convective momentum transport parameterization to improve global climate models (GCMs)
   
-<img style="float: right; padding: 0px 0px 0px 5px;" src="/files/E3SM-MMF_concept.png" alt="drawing" width="600"/>
+<img style="float: right; padding: 0px 0px 0px 0px;" src="/files/E3SM-MMF_concept.png" alt="drawing" width="600"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Small-scale turbulent flows from moist convection typically lead to the vertical redistribution of large-scale winds (referred to as convective momentum transport, CMT). Due to the coarse grids that are too large to resolve small-scale flows, traditional earth system models poorly represent the CMT, and thus rely on parameterizations that empirically describe the magnitude and vertical profiles of the CMT. The goals of our study are to 1) understand the impact of CMT on the simulated climatological mean state and spatiotemporal variability of the large-scale circulation, and 2) develop and improve the CMT scheme in the E3SM-Multiscale Modeling Framework (MMF) based on our theoretical modeling results.    
 <sub>
 [16] **Qiu Yang**\*, Walter Hannah, Ruby Leung, 2022: [Convective Momentum Transport and its Impact on the Madden-Julian Oscillation in E3SM-MMF](https://doi.org/10.1029/2022MS003206). Journal of Advances in Modeling Earth Systems.   
