@@ -31,7 +31,7 @@ author_profile: true
   
 ### Topic 3: Other MJO-related large-scale convective organization
 
-<img style="float: right; padding: 0px 0px 0px 5px;" src="/files/E3SM-MMF_concept.png" alt="drawing" width="600"/>
+<img style="float: right; padding: 0px 0px 0px 5px;" src="/files/ENSOPageWhatisElNinoTest_0.png" alt="drawing" width="600"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Large-scale convective organization of tropical convection could not only dramatically influence weather conditions over local regions, but also significantly impacts the global transport of momentum, heat, and moisture.  We developed a systematic tropical stochastic theoretical framework for modeling westerly wind bursts, the MJO, ENSO, and the Walker circulation, and successfully reproduced the ENSO diversity statistical features. Also, we developed a multi-layer zonal mean model for simulating the boreal summer intraseasonal oscillation (BSISO) and concluded the key role of β rotational effect on inducing the meridional asymmetry of moisture advection for the northward propagation of the BSISO. This mechanism demonstrated by my theoretical model is later confirmed by an observational study. In addition, we developed a multi-scale coupling model for simulating the ITCZ breakdown process, based on the multi-scale asymptotic method from applied math.    
 <sub>
 [11] **Qiu Yang**\*, Andrew J. Majda, Nan Chen, 2020: [ENSO Diversity in a Tropical Stochastic Skeleton Model for the MJO, El Nino, and Dynamic Walker Circulation](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-20-0447.1/JCLI-D-20-0447.1.xml), Journal of Climate.  
@@ -41,7 +41,7 @@ author_profile: true
  
 ### Topic 4: Developing convective momentum transport parameterization to improve global climate models (GCMs)
   
-<img style="float: right; padding: 0px 0px 0px 5px;" src="/files/ENSOPageWhatisElNinoTest_0.png" alt="drawing" width="600"/>
+<img style="float: right; padding: 0px 0px 0px 5px;" src="/files/E3SM-MMF_concept.png" alt="drawing" width="600"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Small-scale turbulent flows from moist convection typically lead to the vertical redistribution of large-scale winds (referred to as convective momentum transport, CMT). Due to the coarse grids that are too large to resolve small-scale flows, traditional earth system models poorly represent the CMT, and thus rely on parameterizations that empirically describe the magnitude and vertical profiles of the CMT. The goals of our study are to 1) understand the impact of CMT on the simulated climatological mean state and spatiotemporal variability of the large-scale circulation, and 2) develop and improve the CMT scheme in the E3SM-Multiscale Modeling Framework (MMF) based on our theoretical modeling results. 
 <sub>
 [16] **Qiu Yang**\*, Walter Hannah, Ruby Leung, 2022: [Convective Momentum Transport and its Impact on the Madden-Julian Oscillation in E3SM-MMF](https://doi.org/10.1029/2022MS003206). Journal of Advances in Modeling Earth Systems. 
