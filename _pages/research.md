@@ -38,7 +38,7 @@ author_profile: true
 [4] **Qiu Yang**\*, Andrew J. Majda, Boualem Khouider, 2017: [ITCZ Breakdown and Its Upscale Impact on the Planetary-Scale Circulation over the Eastern Pacific](https://journals.ametsoc.org/jas/article/74/12/4023/68982/ITCZ-Breakdown-and-Its-Upscale-Impact-on-the), Journal of the Atmospheric Sciences.
 <\sub>
  
-### Topic 4: Developing convective momentum transport parameterization to improve general circulation models (GCMs)
+### Topic 4: Developing convective momentum transport parameterization to improve global climate models (GCMs)
   
 <img style="float: right; padding: 0px 0px 0px 5px;" src="/files/E3SM-MMF_concept.png" alt="drawing" width="600"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Small-scale turbulent flows from moist convection typically lead to the vertical redistribution of large-scale winds (referred to as convective momentum transport, CMT). Due to the coarse grids that are too large to resolve small-scale flows, traditional earth system models poorly represent the CMT, and thus rely on parameterizations that empirically describe the magnitude and vertical profiles of the CMT. The goals of our study are to 1) understand the impact of CMT on the simulated climatological mean state and spatiotemporal variability of the large-scale circulation, and 2) develop and improve the CMT scheme in the E3SM-Multiscale Modeling Framework (MMF) based on our theoretical modeling results. 
