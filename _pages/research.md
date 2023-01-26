@@ -9,8 +9,7 @@ author_profile: true
 
 ### Topic 1: Multi-scale organization of tropical convection in the MJO
 
-<img align="right" src="/files/MJOmultiscale.png" alt="drawing" width="320"/>
+<img align="right" src="/files/MJOmultiscale.png" alt="drawing" width="640"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One striking feature of the MJO is its high complexity in the multi-scale organized structure (right figure is from Nazakawa 1988), that is, the planetary-scale envelope of the MJO typically contains several synoptic-scale convectively coupled equatorial waves (CCEWs), the latter of which further contain numerous embedded MCSs that consists of even smaller-scale cumulus convection. 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One striking feature of the MJO is its high complexity in the multi-scale organized structure (right figure is from Nazakawa 1988), that is, the planetary-scale envelope of the MJO typically contains several synoptic-scale convectively coupled equatorial waves (CCEWs), the latter of which further contain numerous embedded MCSs that consists of even smaller-scale cumulus convection.   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The multi-scale interactions of tropical convection in the MJO sheds lights on many fundamental mechanisms for the observation. How to understand the barrier effect of the Maritime continent for the passage of the MJO? By developing systematically a multi-time scale framework, we showed that this barrier effect is related to the multi-time scale interactions between the diurnal cycle and the MJO over the Maritime Continent. How could tropical convection within the MJO be regulated in such an organized structure? Could numerous embedded MCSs possibly have feedback on the MJO? By developing a multi-space-scale framework for the interactions among the MJO, CCEWs, and MCSs in combination with cloud-resolving simulations, we concluded that MCSs are the major contributor to the planetary-scale kinetic energy of the MJO.
