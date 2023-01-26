@@ -9,7 +9,7 @@ author_profile: true
 
 ### Topic 1: Initiation and development of MCSs and their changes under global warming
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="right" src="/files/Feng_MCS_Database.jpeg" alt="drawing" width="600"/>
+&nbsp;&nbsp;&nbsp;<img align="right" src="/files/Feng_MCS_Database.jpeg" alt="drawing" width="600"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Even state-of-the-art numerical simulations still present significant biases in simulating mid-latitude MCSs, particularly during the summertime when synoptic forcing is typically weak. From a theoretical perspective, a suitable model to capture the realistic properties of MCSs and isolate the bare-bone mechanisms for their initiation and propagation is still lacking. To build such a theoretical model, we first developed a sing-column Lagrangian parcel model to simulate the basic features of a rising parcel (Yang * et al., 2021). For modeling MCSs, we further developed a multi-column model that includes an array of single-column models aligned in the east-west direction and incorporates idealized cold pool interaction mechanisms. This multi-column model captures readily the cold pool–induced upscale growth feature in MCS genesis from initially scattered convection that is organized into a mesoscale cluster in a few hours. As a further step, we used both current and future climate environmental profiles to drive this Lagrangian parcel model, theoretically predicting the decreasing (increasing) mean precipitation trend over the central U.S. (southeastern U.S.) as well as the future changes of MCS size under global warming, in agreement with high-resolution cloud-resolving simulation results. Besides the thermodynamic aspects as revealed by this Lagrangial parcel model, we also studyied their dynamic aspects by developing a moist version of potential vorticity model for simulating mid-latitude MCSs over land.     
 <sub>
@@ -20,7 +20,7 @@ author_profile: true
 
 ### Topic 2: Multi-scale organization of tropical convection in the MJO
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="right" src="/files/MJOmultiscale.png" alt="drawing" width="600"/>
+&nbsp;&nbsp;&nbsp;<img align="right" src="/files/MJOmultiscale.png" alt="drawing" width="600"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One striking feature of the MJO is its high complexity in the multi-scale organized structure (the right figure is from Nazakawa 1988), that is, the planetary-scale envelope of the MJO typically contains several synoptic-scale convectively coupled equatorial waves (CCEWs), the latter of which further contain numerous embedded MCSs that consists of even smaller-scale cumulus convection.     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Studying the multi-scale interactions of tropical convection in the MJO could shed light on many fundamental mechanisms in the observation. How to understand the barrier effect of the Maritime continent for the passage of the MJO? By developing a multi-time scale framework, we showed that this barrier effect is related to the multi-time scale interactions between the diurnal cycle and the MJO over the Maritime Continent. How could tropical convection within the MJO be regulated in such an organized structure? Could numerous embedded MCSs possibly have feedback on the MJO? By developing a multi-space-scale framework for the interactions among the MJO, CCEWs, and MCSs in combination with cloud-resolving simulations, we concluded that MCSs are the major contributor to the planetary-scale kinetic energy of the MJO.   
