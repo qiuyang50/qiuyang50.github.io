@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-permalink: /publications/
+permalink: /publication/
 author_profile: true
 ---
 All my publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=MzMRC04AAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Qiu_Yang4). Below, * denotes the corresponding author.
