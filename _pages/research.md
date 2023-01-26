@@ -9,6 +9,6 @@ author_profile: true
 
 ### Topic 1: Multi-scale organization of tropical convection in the MJO
 
-<img src="/files/MJOmultiscale.png" alt="drawing" width="1680"/>
+<img src="/files/MJOmultiscale.png" alt="drawing" width="840"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One striking feature of the MJO is its high complexity in the multi-scale organized structure, that is, the planetary-scale envelope of the MJO typically contains several synoptic-scale convectively coupled equatorial waves (CCEWs), the latter of which further contain numerous embedded MCSs that consists of even smaller-scale cumulus convection. 
