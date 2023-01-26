@@ -12,3 +12,5 @@ author_profile: true
 <img align="right" src="/files/MJOmultiscale.png" alt="drawing" width="320"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One striking feature of the MJO is its high complexity in the multi-scale organized structure (right figure is from Nazakawa 1988), that is, the planetary-scale envelope of the MJO typically contains several synoptic-scale convectively coupled equatorial waves (CCEWs), the latter of which further contain numerous embedded MCSs that consists of even smaller-scale cumulus convection. 
+
+The multi-scale interactions of tropical convection in the MJO sheds lights on many fundamental mechanisms for the observation. How to understand the multi-time scale interactions between the diurnal cycle and the MJO over the Maritime Continent? 
