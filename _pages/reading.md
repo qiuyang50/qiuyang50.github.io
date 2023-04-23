@@ -15,5 +15,5 @@ Prof. David J. Raymond from New Mexico Tech posted very nice lecture notes for t
 
 Prof. Adam Sobel from Columbia University developed [Deep Convection](https://deep-convection.org/episode-archive/), a podcast featuring real conversations between climate scientists (or sometimes those working in areas adjacent to climate science). A great way to hear the thoughts from great minds! 
 
-<---!## Others
+<--!## Others
 Prof. A.W. Peet from University of Toronto wrote a [document](https://kiwi.to/stuff/pep-to/career2002.pdf) in 2002 about how to find a job in the academy. Many of his advice, I believe, still applies for today's academic job market. -->
