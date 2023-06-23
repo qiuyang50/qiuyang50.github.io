@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!--{% include base_path %}-->
-Here is a complete version of my [CV](https://qiuyang50.github.io/files/CV_QiuYang.pdf). 
+Here is a complete version of my [CV](https://qiuyang50.github.io/files/CV_Qiu_Yang.pdf). 
 
 Employment
 -
