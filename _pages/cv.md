@@ -13,7 +13,7 @@ Here is a complete version of my [CV](https://qiuyang50.github.io/files/CV_Qiu_Y
 Employment
 -
 ### (2020 Sep.–present) Research Scientist
-* Computational Climate Science Group, Earth & Biological Sciences Directorate, Pacific Northwest National Laboratory (PNNL), USA
+* Atmospheric Sciences and Global Change Division, Pacific Northwest National Laboratory (PNNL), USA
 * Address: 902 Battelle Blvd, Richland, WA 99354
 
 ### (2018 Mar.–May) Visiting Scholar
