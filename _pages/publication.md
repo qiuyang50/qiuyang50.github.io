@@ -8,9 +8,9 @@ All my publications can be found at [Google Scholar](https://scholar.google.com/
 
 2023
 -
-[20] Xingchao Chen*, L. Ruby Leung, Zhe Feng, **Qiu Yang**, 2023: [Environmental controls on MCS's lifetime rainfall over tropical oceans](https://doi.org/10.1029/2023GL103267). Submitted to Geophysical Research Letters. 
+[20] Xingchao Chen*, L. Ruby Leung, Zhe Feng, **Qiu Yang**, 2023: [Environmental controls on MCS's lifetime rainfall over tropical oceans](https://doi.org/10.1029/2023GL103267). Geophysical Research Letters. 
 
-[19] **Qiu Yang***, Ruby Leung, Zhe Feng, Xingchao Chen, 2023: [A Moist Potential Vorticity Model for Mid-Latitude Mesoscale Convective Systems over Land](https://doi.org/10.1175/JAS-D-22-0244.1). Journal of the Atmospheric Sciences, in revision. 
+[19] **Qiu Yang***, Ruby Leung, Zhe Feng, Xingchao Chen, 2023: [A Moist Potential Vorticity Model for Mid-Latitude Mesoscale Convective Systems over Land](https://doi.org/10.1175/JAS-D-22-0244.1). Journal of the Atmospheric Sciences. 
 
 [18] Xingchao Chen*, Ruby Leung, Zhe Feng, Xingchao Chen, **Qiu Yang**, 2023: [Diurnal MCS prior to the genesis of tropical cyclone Mora (2017): the role of convectively forced gravity waves](https://doi.org/10.1175/JAS-D-22-0203.1). Journal of the Atmospheric Sciences.
 
