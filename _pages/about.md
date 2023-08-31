@@ -18,6 +18,26 @@ Recent News
 -
 **August 5, 2022**: Qiu Yang will serve as an associate editor for [Journal of the Atmospheric Sciences](https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-the-atmospheric-sciences/#contacts), starting from September 1st, 2022! 
 
+
+Recent News (scroll down for more)
+-
+<div style="height:400px;overflow:auto;">
+<ul>
+	<li>
+		<b>August 5, 2022</b>b: Qiu Yang will serve as an associate editor for <a href="https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-the-atmospheric-sciences/#contacts">Journal of the Atmospheric Sciences</a>, starting from September 1st, 2022! 
+	</li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+
+<!-- 
 <div style="height:400px;overflow:auto;">
 <b>News (scroll for more)</b>
 <ul>
@@ -32,29 +52,6 @@ Recent News
 over a first test run with the Spitzer telescope<sup><a href="https://www.nature.com/articles/s41586-019-1497-4">e</a></sup>,
 to now having the incredible capabilities of JWST, the search for atmospheres on roughly Earth-sized planets has been one of the most exciting research areas I've had the privilege to be involved with. In this paper, our team found that the nearby TRAPPIST-1c does not have a thick Venus-like atmosphere. Given the similar finding for the neighboring TRAPPIST-1b<sup><a href="https://www.nature.com/articles/s41586-023-05951-7">f</a></sup>,
 maybe it's harder than we originally thought to find truly Earth-like planets out there? 
-	</li>
-<!-- .... -->
-	<li>
-	<em>May 2023</em>
-	The most important feedback for determining how much Earth warms under global warming is the longwave clearsky feedback. Together with Nadir Jeevanjee and Nick Lutsko, we developed a way to estimate this feedback solely using pen and paper. The paper is published
-	<a href="https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0178.1/JAS-D-22-0178.1.xml">here</a>. Want to compute analytical spectral feedbacks yourself? The scripts are available on <a href="https://github.com/danielkoll/spectral_feedbacks">github</a>.
-	</li>
-<!-- .... -->
-	<li>
-	<em>October 2022</em>
-	Our Planetary Atmospheres group has open postdoc positions. Find out more <a href="https://www.atmos.pku.edu.cn/en/research/Researchdirections/144785.htm">here</a>.
-	</li>
-<!-- .... -->
-	<li>
-	<em>August 2022</em>
-	Interested in doing undergraduate research, or looking for a postdoc position? Get in touch via email (see left).
-	</li>
-<!-- .... -->
-	<li>
-	<em>August 2022</em>
-	Interested in climate feedbacks? Check out this new
-	<a href="https://doi.org/10.1002/essoar.10512192.1">preprint</a>
-with Nadir Jeevanjee and Nick Lutkso. We develop an analytical model to explain both the state-dependence and spatial structure of Earth's longwave climate feedback.
 	</li>
 </ul>
 </div>
