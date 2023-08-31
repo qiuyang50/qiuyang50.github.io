@@ -18,6 +18,56 @@ Recent News
 -
 **August 5, 2022**: Qiu Yang will serve as an associate editor for [Journal of the Atmospheric Sciences](https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-the-atmospheric-sciences/#contacts), starting from September 1st, 2022! 
 
+<div style="height:400px;overflow:auto;">
+<b>News (scroll for more)</b>
+<ul>
+<!-- .... -->
+	<li>
+	<em>June 2023</em>
+	Still hunting for exoplanet atmospheres ... Congratulations to Sebastian Zieba for leading this study that was recently published in
+	<a href="https://www.nature.com/articles/s41586-023-06232-z">Nature</a>! From simple theory papers<sup><a href="https://iopscience.iop.org/article/10.1088/0004-637X/802/1/21">a</a>,
+<a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab4c91">b</a>,
+<a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab4c90">c</a>,
+<a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab4a05">d</a></sup>,
+over a first test run with the Spitzer telescope<sup><a href="https://www.nature.com/articles/s41586-019-1497-4">e</a></sup>,
+to now having the incredible capabilities of JWST, the search for atmospheres on roughly Earth-sized planets has been one of the most exciting research areas I've had the privilege to be involved with. In this paper, our team found that the nearby TRAPPIST-1c does not have a thick Venus-like atmosphere. Given the similar finding for the neighboring TRAPPIST-1b<sup><a href="https://www.nature.com/articles/s41586-023-05951-7">f</a></sup>,
+maybe it's harder than we originally thought to find truly Earth-like planets out there? 
+	</li>
+<!-- .... -->
+	<li>
+	<em>May 2023</em>
+	The most important feedback for determining how much Earth warms under global warming is the longwave clearsky feedback. Together with Nadir Jeevanjee and Nick Lutsko, we developed a way to estimate this feedback solely using pen and paper. The paper is published
+	<a href="https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0178.1/JAS-D-22-0178.1.xml">here</a>. Want to compute analytical spectral feedbacks yourself? The scripts are available on <a href="https://github.com/danielkoll/spectral_feedbacks">github</a>.
+	</li>
+<!-- .... -->
+	<li>
+	<em>October 2022</em>
+	Our Planetary Atmospheres group has open postdoc positions. Find out more <a href="https://www.atmos.pku.edu.cn/en/research/Researchdirections/144785.htm">here</a>.
+	</li>
+<!-- .... -->
+	<li>
+	<em>August 2022</em>
+	Interested in doing undergraduate research, or looking for a postdoc position? Get in touch via email (see left).
+	</li>
+<!-- .... -->
+	<li>
+	<em>August 2022</em>
+	Interested in climate feedbacks? Check out this new
+	<a href="https://doi.org/10.1002/essoar.10512192.1">preprint</a>
+with Nadir Jeevanjee and Nick Lutkso. We develop an analytical model to explain both the state-dependence and spatial structure of Earth's longwave climate feedback.
+	</li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+
+
 <!--  
 December 14, 2021: I will give an oral presentation to present our recent work at 2021 AGU fall meeting. The title of my talk is *A Simple Lagrangian Parcel Model for the Initiation of Summer-time Mesoscale Convective Systems over the Central United States*. Please check the schedule [here](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/831604). You can also watch my [pre-recorded video](https://www.dropbox.com/s/8tasok7wnit6quf/Qiu_Yang_PNNL.mp4?dl=0).
 
@@ -26,6 +76,26 @@ December 13, 2021: I will give an oral presentation to honor the memory of Prof.
 Septermber 2, 2021: Our recent study on the initiation of summer-time MCSs over the central US is accepted by JAS! In this study, we developed a simple Lagrangian parcel model to capture realistic features of convective initiation and illustrate a bare-bone mechanism for MCS genesis. Please check it out [here](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0136.1/JAS-D-21-0136.1.xml).
 
 May 11, 2021: I gave a virtual talk in the 34th Conference on Hurricanes and Tropical Meteorology in New Orleans, LA. The title of my talk is "Upscale Impact of Mesoscale Convective Systems on the Madden-Julian Oscillation and Its Parameterization in a Coarse-Resolution GCM". Here is my pre-recorded [presentation](https://www.dropbox.com/s/cs6yqx23l9kghn8/QiuYang.mp4?dl=0).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
