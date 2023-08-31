@@ -13,10 +13,11 @@ Hi, my name is Qiu Yang (杨邱 in chinese). I am a research scientist at Pacifi
 
 My current research focuses on two topics, including 1) developing theoretical models for underestanding fundamental mechanisms of mesoscale convective systems, 2) studying convective momentum transport for improving the E3SM-MMF. 
 
-
+<!--
 Recent News
 -
 **August 5, 2022**: Qiu Yang will serve as an associate editor for [Journal of the Atmospheric Sciences](https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-the-atmospheric-sciences/#contacts), starting from September 1st, 2022! 
+-->
 
 
 Recent News (scroll down for more)
