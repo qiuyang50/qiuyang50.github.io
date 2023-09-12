@@ -7,6 +7,7 @@ author_profile: true
 
 To be added later. 
 
+<!--
 <font size="5" face="Courier New" >
 <table>
   <tr>
@@ -15,8 +16,9 @@ To be added later.
   </tr>
   <tr>
     <td><img src="/images/HuaipingWang_2024PhD.jpg" alt="drawing" width="300"/></td>
-    <td>Huaiping Wang (王怀平)<br>PhD candidate 2024-<br>TBA add email address<br><br>Huaiping is interested in understanding interaction mechanisms between MCSs and large-scale environments.</td>
+    <td>Huaiping Wang (王怀平)<br>PhD candidate 2024-<br>TBA add email address<br><br>Huaiping is interested in understanding the interaction mechanisms between MCSs and large-scale environments.</td>
     <td><img src="/images/future_student.jpg" alt="drawing" width="300"/></td>
     <td>We're looking for talented people like you to join our team! Feel free to email Qiu if you are interested.</td>
   </tr>
 </table>
+-->
