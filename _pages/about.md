@@ -9,6 +9,10 @@ redirect_from:
 ---
 <img src="/files/main_COMET.jpeg" alt="drawing" width="1680"/>
 
+Hi, welcome to our Convective Organization Modeling through numErics and Theory (COMET) research group homepage. 
+
+
+
 
 <!--
 Hi, my name is Qiu Yang (杨邱 in chinese). I am a research scientist at Pacific Northwest National Laboratory (PNNL) since September 2020. Before that, I was a postdoc associate working with Prof. Andrew Majda (New York University) on *scale interactions of organized tropical convection*. In 2017 spring, I obtained my Ph.D. degree of Atmospheric and Oceanic Sciences from [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/), Courant Institute of Mathematical Sciences, New York University.
