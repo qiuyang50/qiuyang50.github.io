@@ -8,7 +8,7 @@ author_profile: true
 <table>
   <tr>
     <td><img src="/images/QiuYang_zoom.jpg" alt="drawing" width="200"/></td>
-    <td>Qiu Yang<br>Assistant Professor<br>Department of Atmospheric and Oceanic Sciences<br>School of Physics, Peking University, Beijing, China<br>Here is my [CV](/_pages/cv.md)<br>sdfsfsdf</td>
+    <td>Qiu Yang<br>Assistant Professor<br>Department of Atmospheric and Oceanic Sciences<br>School of Physics, Peking University, Beijing, China<br>Here is my <a href="">CV</a>a></td>
   </tr>
   <tr>
     <td>Key 2</td>
