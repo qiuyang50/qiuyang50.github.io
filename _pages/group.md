@@ -5,7 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
-|      ![Qiu Yang](QiuYang_zoom.jpg)      |                      |
+|      ![Qiu Yang](/image/QiuYang_zoom.jpg)      |                      |
 |------------|----------------------| 
 |            |                      |
 
