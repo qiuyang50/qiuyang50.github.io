@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to our **Convective Organization Modeling through numErics and Theory (COMET)** research group homepage. The main goal of our research is to study the fundamental mechanisms for convective organization by conducting high-resolution convection-permitting simulations, developing idealized theoretical models, and using observational data for comparison. 
 
-We are aimed at answering several grand challenging questions related to convective organization. For example, What is the dominant mechanism for the initiation, upscale growth, propagation, and dissipation of convective organization in the tropics and midlatitudes? How can we improve their representation in the numerical simulations for weather and climate forecast? Should we expect any changes in these processes under warming? 
+We are aimed at answering several grand challenging questions related to convective organization. For example, What is the dominant mechanism for the initiation, upscale growth, propagation, and dissipation of convective organization in the tropics and midlatitudes? How can we improve their representation in weather and climate forecasts? Should we expect any changes in these processes under warming? 
 
 <!--
 Hi, my name is Qiu Yang (杨邱 in chinese). I am a research scientist at Pacific Northwest National Laboratory (PNNL) since September 2020. Before that, I was a postdoc associate working with Prof. Andrew Majda (New York University) on *scale interactions of organized tropical convection*. In 2017 spring, I obtained my Ph.D. degree of Atmospheric and Oceanic Sciences from [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/), Courant Institute of Mathematical Sciences, New York University.
