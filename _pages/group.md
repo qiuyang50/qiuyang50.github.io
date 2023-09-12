@@ -8,7 +8,7 @@ author_profile: true
 <table>
   <tr>
     <td><img src="/images/QiuYang_zoom.jpg" alt="drawing" width="200"/></td>
-    <td>Qiu Yang (杨邱)<br>Assistant Professor<br>Department of Atmospheric and Oceanic Sciences<br>School of Physics, Peking University, Beijing, China<be>TBA add email address<br><br>Here is my <a href="/_pages/cv.md">CV</a>.</td>
+    <td>Qiu Yang (杨邱)<br>Assistant Professor<br>Department of Atmospheric and Oceanic Sciences<br>School of Physics, Peking University, Beijing, China<br>TBA add email address<br><br>Here is my <a href="/_pages/cv.md">CV</a>.</td>
   </tr>
   <tr>
     <td><img src="/images/HuaipingWang_2024PhD.jpg" alt="drawing" width="200"/></td>
