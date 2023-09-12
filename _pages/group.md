@@ -5,6 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
+<font size="2" face="Courier New" >
 <table>
   <tr>
     <td><img src="/images/QiuYang_zoom.jpg" alt="drawing" width="200"/></td>
