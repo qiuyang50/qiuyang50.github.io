@@ -5,7 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
-|      ![Qiu Yang](Dragster.jpg)      |                      |
+|      ![Qiu Yang](QiuYang_zoom.jpg)      |                      |
 |------------|----------------------| 
 |            |                      |
 
