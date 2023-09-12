@@ -12,6 +12,6 @@ author_profile: true
   </tr>
   <tr>
     <td><img src="/images/HuaipingWang_2024PhD.jpg" alt="drawing" width="200"/></td>
-    <td>Huaiping Wang (王怀平)<br>PhD candidate 2024-<br>add email address<be>Huaiping is interested in understanding interaction mechanisms between MCSs and large-scale environments.</td>
+    <td>Huaiping Wang (王怀平)<br>PhD candidate 2024-<br>add email address<br>Huaiping is interested in understanding interaction mechanisms between MCSs and large-scale environments.</td>
   </tr>
 </table>
