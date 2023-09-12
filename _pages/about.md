@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/files/space-1673306930979-5592.jpeg" alt="drawing" width="1680"/>
+<img src="/files/main_COMET.jpeg" alt="drawing" width="1680"/>
 
 Hi, my name is Qiu Yang (杨邱 in chinese). I am a research scientist at Pacific Northwest National Laboratory (PNNL) since September 2020. Before that, I was a postdoc associate working with Prof. Andrew Majda (New York University) on *scale interactions of organized tropical convection*. In 2017 spring, I obtained my Ph.D. degree of Atmospheric and Oceanic Sciences from [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/), Courant Institute of Mathematical Sciences, New York University.
 
