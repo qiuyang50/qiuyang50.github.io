@@ -17,6 +17,6 @@ author_profile: true
     <td><img src="/images/HuaipingWang_2024PhD.jpg" alt="drawing" width="200"/></td>
     <td>Huaiping Wang (王怀平)<br>PhD candidate 2024-<br>TBA add email address<br><br>Huaiping is interested in understanding interaction mechanisms between MCSs and large-scale environments.</td>
     <td><img src="/images/future_student.jpg" alt="drawing" width="200"/></td>
-    <td>We're looking for talented people like you to join our team!</td>
+    <td>We're looking for talented people like you to join our team! Feel free to email Qiu if you are interested.</td>
   </tr>
 </table>
