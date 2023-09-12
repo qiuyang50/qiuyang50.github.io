@@ -9,15 +9,13 @@ redirect_from:
 ---
 <img src="/files/main_COMET.jpeg" alt="drawing" width="1680"/>
 
+
+<!--
 Hi, my name is Qiu Yang (杨邱 in chinese). I am a research scientist at Pacific Northwest National Laboratory (PNNL) since September 2020. Before that, I was a postdoc associate working with Prof. Andrew Majda (New York University) on *scale interactions of organized tropical convection*. In 2017 spring, I obtained my Ph.D. degree of Atmospheric and Oceanic Sciences from [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/), Courant Institute of Mathematical Sciences, New York University.
 
 My current research focuses on two topics, including 1) developing theoretical models for underestanding fundamental mechanisms of mesoscale convective systems, 2) studying convective momentum transport for improving the E3SM-MMF. 
-
-<!--
-Recent News
--
-**August 5, 2022**: Qiu Yang will serve as an associate editor for [Journal of the Atmospheric Sciences](https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-the-atmospheric-sciences/#contacts), starting from September 1st, 2022! 
 -->
+
 
 
 Recent News (scroll down for more)
