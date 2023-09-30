@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/files/main_COMET.jpeg" alt="drawing" width="580px"/>
+<img src="/files/main_COMET.jpeg" alt="drawing" width="1680px"/>
 
 Welcome to our **Convective Organization Modeling through numErics and Theory (COMET)** research group homepage. The main goal of our research is to study the fundamental mechanisms for convective organization by conducting high-resolution convection-permitting simulations, developing idealized theoretical models, and using observational data for comparison. 
 
