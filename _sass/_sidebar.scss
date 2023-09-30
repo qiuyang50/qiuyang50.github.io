@@ -111,7 +111,6 @@
 }
 
 .author__name {
-  text-align: center;  /* added by QY */
   margin: 0;
 
   @include breakpoint($large) {
