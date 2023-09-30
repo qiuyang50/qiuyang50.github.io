@@ -98,8 +98,8 @@
   text-align: center;  /* added by QY */
   display: table-cell;
   vertical-align: top;
-  padding-left: 5px;  /* 15px */
-  padding-right: 5px; /* 25px */
+  padding-left: 0px;  /* 15px */
+  padding-right: 0px; /* 25px */
   line-height: 1;
 
   @include breakpoint($large) {
