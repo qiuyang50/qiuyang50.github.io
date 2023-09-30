@@ -47,10 +47,10 @@
   white-space: nowrap;
 
   &--lg {
-    /* max-width: 13.80vw;    /* added by QY */
+    max-width: 13.80vw;    /* added by QY */
     padding-left:  4.8vw; /* added by QY */
     padding-right: 4.6vw; 
-    text-align: center;  /* added by QY */
+    /* text-align: center;  /* added by QY */
     font-weight: 700;
   }
 }
