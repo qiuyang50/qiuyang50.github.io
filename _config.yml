@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Go back to Homepage"
 title_separator          : "-"
-name                     : &name "Qiu Yang"
+name                     : &name "Qiu Yang test"
 description              : &description "personal description"
 url                      : https://qiuyang50.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
