@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <center>
-<video src="/files/geos5_snow_storm2010hires_3420x1152_compress.mp4" style="max-width: 60vw" autoplay loop>
+<video src="/files/geos5_snow_storm2010hires_3420x1152_compress.mp4" style="max-width: 60vw;" autoplay loop>
 </video>
 </center>
 <div align="right"><sub>The above video shows clouds in the <a href="https://svs.gsfc.nasa.gov/3723">GEOS5</a> model&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></div>
@@ -15,7 +15,7 @@ author_profile: true
 
 ### Topic 1: Initiation and development of MCSs and their changes under global warming
 
-<img style="float: right; padding: 10px 0px 0px 20px;" src="/files/Feng_MCS_Database.jpeg" alt="drawing" width="600"/>
+<img style="float: right; padding: 10px 0px 0px 20px;" src="/files/Feng_MCS_Database.jpeg" alt="drawing" width="600px"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Even state-of-the-art numerical simulations still present significant biases in simulating mid-latitude MCSs (the right picture is from [link](https://www.pnnl.gov/publications/building-global-database-mesoscale-storms)), particularly during the summertime when synoptic forcing is typically weak. From a theoretical perspective, a suitable model to capture the realistic properties of MCSs and isolate the bare-bone mechanisms for their initiation and propagation is still lacking. To build such a theoretical model, we first developed a sing-column Lagrangian parcel model to simulate the basic features of a rising parcel. For modeling MCSs, we further developed a multi-column model that includes an array of single-column models aligned in the east-west direction and incorporates idealized cold pool interaction mechanisms. This multi-column model captures readily the cold pool–induced upscale growth feature in MCS genesis from initially scattered convection that is organized into a mesoscale cluster in a few hours. As a further step, we used both current and future climate environmental profiles to drive this Lagrangian parcel model, theoretically predicting the decreasing (increasing) mean precipitation trend over the central U.S. (southeastern U.S.) as well as the future changes of MCS size under global warming, in agreement with high-resolution cloud-resolving simulation results. Besides the thermodynamic aspects as revealed by this Lagrangian parcel model, we also studied their dynamic aspects by developing a moist potential vorticity model for simulating mid-latitude MCSs over land.      
 <sub>
 [19] **Qiu Yang**\*, Ruby Leung, Zhe Feng, Xingchao Chen, 2023: A Moist Potential Vorticity Model for Mid-Latitude Mesoscale Convective Systems over Land. Submitted to Journal of the Atmospheric Sciences.      
