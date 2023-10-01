@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <center>
-<video src="/files/geos5_snow_storm2010hires_3420x1152_compress.mp4" autoplay loop>
+<video src="/files/geos5_snow_storm2010hires_3420x1152_compress.mp4" style="max-width: 62vw;" autoplay loop>
 </video>
 </center>
 <div align="right"><sub>The above video shows clouds in the <a href="https://svs.gsfc.nasa.gov/3723">GEOS5</a> model&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></div>
