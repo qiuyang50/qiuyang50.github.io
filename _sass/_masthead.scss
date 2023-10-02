@@ -47,7 +47,8 @@
   white-space: nowrap;
 
   &--lg {
-    max-width: 13.0vw;    /* added by QY */
+    width: 13.0vw; /* added by QY */
+    /* max-width: 13.0vw;    /* added by QY */
     padding-left:  4.8vw; /* added by QY */
     padding-right: 5vw; /* added by QY */
     font-weight: 700;
