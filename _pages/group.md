@@ -5,9 +5,6 @@ permalink: /group/
 author_profile: true
 ---
 
-To be added later. 
-
-<!--
 <font size="5" face="Courier New" >
 <table>
   <tr>
@@ -21,4 +18,3 @@ To be added later.
     <td>We're looking for talented people like you to join our team! Feel free to email Qiu if you are interested.</td>
   </tr>
 </table>
--->
