@@ -26,7 +26,7 @@ Recent News (scroll down for more)
 <div style="height:400px;overflow:auto;">
 <ul>
 	<li>
-	<b>October 28, 2023</b>: Welcome <i>Huaiping Wang</i> to join our team as a 2024 class PhD graduate student! She is expected to get a physics B.S. degree next year. She has a keen interest in studying the fundamental interaction mechanisms between MCSs and large-scale environments. (check out our whole group <a href="https://qiuyang50.github.io/group/">here</a>)
+	<b>October 28, 2023</b>: Welcome <i>Huaiping Wang</i> to join our group as a 2024 class PhD graduate student! She is expected to get a physics B.S. degree next year. She has a keen interest in studying the fundamental interaction mechanisms between MCSs and large-scale environments. (check out all our group members <a href="https://qiuyang50.github.io/group/">here</a>)
 	</li>
 	<li>
 	<b>August 5, 2022</b>: Qiu Yang will serve as an associate editor for <a href="https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-the-atmospheric-sciences/#contacts">Journal of the Atmospheric Sciences</a>, starting from September 1st, 2022! 
