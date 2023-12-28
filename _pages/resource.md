@@ -10,7 +10,7 @@ author_profile: true
 |   Dataset    |   Variable    | Resolution | Domain | Period |  Download Link  |
 |--------------|---------------|------------|--------|--------|--------|
 | ERA5 reanalysis   | e.g., wind, specific humidity, temperature | 0.25 deg, hourly          | global | since 1940 | [ECMWF download page](https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset&text=ERA5) |
-| MERRA-2 reanalysis| SST                                        | 0.5deg x 0.625deg, hourly | global | since 1980 | [NASA download page](https://daac.gsfc.nasa.gov/datasets/M2T1NXOCN_5.12.4/summary)   |
+| MERRA-2 reanalysis| e.g., SST                                  | 0.5deg x 0.625deg, hourly | global | since 1980 | [NASA download page](https://daac.gsfc.nasa.gov/datasets/M2T1NXOCN_5.12.4/summary)              |
 
 ## Useful models for studying convection
 
