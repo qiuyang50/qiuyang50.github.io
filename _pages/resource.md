@@ -5,8 +5,7 @@ permalink: /resource/
 author_profile: true
 ---
 
-<!--## Useful observational and reanalysis datasets -->
-
+## Useful observational and reanalysis datasets
 
 |   Dataset    |   Variable    | Resolution | Domain | Period |  Download Link  |
 |--------------|---------------|------------|--------|--------|--------|
