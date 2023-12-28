@@ -13,7 +13,7 @@ author_profile: true
 
 ## Useful models for studying convection
 |    Name      |   Description | Download Link  |
-|--------------|---------------|-------------|
+|--------------|---------------|----------------|
 |   The System for Atmospheric Modeling (SAM) |    A cute model for idealized cloud-resolving simulation    | [Prof. Marat Khairoutdinov's page](http://rossby.msrc.sunysb.edu/~marat/SAM.html) |
 
 
