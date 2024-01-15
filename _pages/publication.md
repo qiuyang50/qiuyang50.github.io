@@ -22,7 +22,7 @@ All my publications can be found at [Google Scholar](https://scholar.google.com/
 
 [15] Xingchao Chen*, L. Ruby Leung, Zhe Feng, **Qiu Yang**, 2022: [Precipitation-Moisture Coupling Over Tropical Oceans: Sequential Roles of Shallow, Deep, and Mesoscale Convective Systems](https://doi.org/10.1029/2022GL097836), Geophysical Research Letters. 
 
-[14] Fengfei Song*, L. Ruby Leung, Zhe Feng, Xingchao Chen, **Qiu Yang**, 2022: [Historical and future changes of large-scale environments for spring MCS initiation over the U.S. Great Plains](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098799). Geophysical Research Letters. 
+[14] Fengfei Song*, L. Ruby Leung, Zhe Feng, Xingchao Chen, **Qiu Yang**, 2022: [Observed and Projected changes of large-scale environments for spring MCS initiation over the U.S. Great Plains](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098799). Geophysical Research Letters. 
 
 2021
 -
