@@ -12,7 +12,7 @@ All my publications can be found at [Google Scholar](https://scholar.google.com/
 
 [19] **Qiu Yang***, Ruby Leung, Zhe Feng, Xingchao Chen, 2023: [A Moist Potential Vorticity Model for Mid-Latitude Mesoscale Convective Systems over Land](https://doi.org/10.1175/JAS-D-22-0244.1). Journal of the Atmospheric Sciences. 
 
-[18] Xingchao Chen*, Ruby Leung, Zhe Feng, Xingchao Chen, **Qiu Yang**, 2023: [Diurnal MCS prior to the genesis of tropical cyclone Mora (2017): the role of convectively forced gravity waves](https://doi.org/10.1175/JAS-D-22-0203.1). Journal of the Atmospheric Sciences.
+[18] Xingchao Chen*, Ruby Leung, Zhe Feng, Xingchao Chen, **Qiu Yang**, 2023: [Diurnal MCSs Precede the Genesis of Tropical Cyclone Mora (2017): The Role of Convectively Forced Gravity Waves](https://doi.org/10.1175/JAS-D-22-0203.1). Journal of the Atmospheric Sciences.
 
 2022
 -
