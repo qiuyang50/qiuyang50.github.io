@@ -18,8 +18,8 @@ author_profile: true
     <td>We're looking for talented people like you to join our team! Feel free to email Qiu if you are interested.</td>
   </tr>
     <tr>
-    <td><img src="/images/Wencan_Zhu_2022Undergraduate.jpg" alt="drawing" width="300"/></td>
-    <td>Huaiping Wang (王怀平)<br>PhD candidate 2024-<br>Email: TBA add email address<br><br>Huaiping is interested in understanding the interaction mechanisms between MCSs and large-scale environments.</td>
+    <td><img src="/images/WencanZhu_2022Undergraduate.jpg" alt="drawing" width="300"/></td>
+    <td>Wencan Zhu(朱文灿)<br>Undergraduate 2022-2026<br>Email: TBA add email address<br><br>Wencan is interested in using Machine learning tools to explore the fundamental mechanisms and predictability related to MCSs.</td>
     <td><img src="/images/future_student.jpg" alt="drawing" width="300"/></td>
     <td></td>
   </tr>
