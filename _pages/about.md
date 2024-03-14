@@ -26,6 +26,12 @@ Recent News (scroll down for more)
 <div style="height:400px;overflow:auto;">
 <ul>
 	<li>
+	<b>March 14, 2024</b>: Welcome <i>Wencan Zhu</i> to join our group for writing an undergraduate thesis! He is interested in using machine learning tools to explore the predictability and fundamental mechanisms behind the initiation and propagation of MCSs. (check out all our group members <a href="https://qiuyang50.github.io/group/">here</a>) 
+        </li>
+	<li>
+	<b>March 8, 2024</b>: Welcome <i>Yuhui Li</i> to join our group for writing an undergraduate thesis! He is interested in building simple mathematical models for understanding the essential mechanisms of convective self-aggregation. (check out all our group members <a href="https://qiuyang50.github.io/group/">here</a>) 
+        </li>
+	<li>
 	<b>October 28, 2023</b>: Welcome <i>Huaiping Wang</i> to join our group as a 2024 class PhD graduate student! She is expected to get a physics B.S. degree next year. She has a keen interest in studying the fundamental interaction mechanisms between MCSs and large-scale environments. (check out all our group members <a href="https://qiuyang50.github.io/group/">here</a>)
 	</li>
 	<li>
