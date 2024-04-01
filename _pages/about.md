@@ -13,8 +13,6 @@ redirect_from:
     欢迎有意申请本课题组的直博生、博士后发邮件联系我，来信请附上你的CV
 </span>
 
-$$\color{red}\large 欢迎有意申请本课题组的直博生、博士后发邮件联系我，来信请附上你的CV$$
-
 Welcome to our **Convective Organization Modeling through numErics and Theory (COMET)** research group homepage. The main goal of our research is to study the fundamental mechanisms for convective organization by conducting high-resolution convection-permitting simulations, developing idealized theoretical models, and using observational data for comparison. 
 
 We are aimed at answering several grand challenging questions related to convective organization. For example, What is the dominant mechanism for the initiation, upscale growth, propagation, and dissipation of convective organization in the tropics and midlatitudes? How can we improve their representation in weather and climate forecasts? Should we expect any changes in these processes under warming? 
