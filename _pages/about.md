@@ -9,7 +9,7 @@ redirect_from:
 ---
 <img src="/files/main_COMET.jpeg" alt="drawing"/>
 
-$$\color{red}\large \text{欢迎有意申请本课题组的直博生、博士后发邮件联系我，来信请附上你的CV！}$$
+$$\color{red}\large \text{欢迎有意申请本课题组的直博生、博士后发邮件联系我，来信请附上你的CV}$$
 
 Welcome to our **Convective Organization Modeling through numErics and Theory (COMET)** research group homepage. The main goal of our research is to study the fundamental mechanisms for convective organization by conducting high-resolution convection-permitting simulations, developing idealized theoretical models, and using observational data for comparison. 
 
