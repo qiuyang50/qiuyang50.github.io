@@ -20,7 +20,7 @@ We are aimed at answering several grand challenging questions related to convect
 <!--
 Hi, my name is Qiu Yang (杨邱 in chinese). I am a research scientist at Pacific Northwest National Laboratory (PNNL) since September 2020. Before that, I was a postdoc associate working with Prof. Andrew Majda (New York University) on *scale interactions of organized tropical convection*. In 2017 spring, I obtained my Ph.D. degree of Atmospheric and Oceanic Sciences from [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/), Courant Institute of Mathematical Sciences, New York University.
 
-My current research focuses on two topics, including 1) developing theoretical models for underestanding fundamental mechanisms of mesoscale convective systems, 2) studying convective momentum transport for improving the E3SM-MMF. 
+My current research focuses on two topics, including 1) developing theoretical models for understanding fundamental mechanisms of mesoscale convective systems, 2) studying convective momentum transport for improving the E3SM-MMF. 
 -->
 
 
@@ -29,6 +29,9 @@ Recent News (scroll down for more)
 -
 <div style="height:400px;overflow:auto;">
 <ul>
+	<li>
+	<b>May 10, 2024</b>: Welcome <i>Zeyu Tang</i> to join our group for writing an undergraduate thesis! He is interested in developing fundamental theories to explain essential features of MCSs. (check out all our group members <a href="https://qiuyang50.github.io/group/">here</a>) 
+        </li>
 	<li>
 	<b>March 14, 2024</b>: Welcome <i>Wencan Zhu</i> to join our group for writing an undergraduate thesis! He is interested in using machine learning tools to explore the predictability and fundamental mechanisms behind the initiation and propagation of MCSs. (check out all our group members <a href="https://qiuyang50.github.io/group/">here</a>) 
         </li>
