@@ -9,7 +9,7 @@ author_profile: true
 <table>
   <tr>
     <td>PI</td>
-    <td><img src="/images/QiuYang_zoom.jpg" alt="drawing" width="500"/></td>
+    <!--<td><img src="/images/QiuYang_zoom.jpg" alt="drawing" width="500"/></td> -->
     <td colspan="5">Qiu Yang (杨邱)<br>Assistant Professor<br>Department of Atmospheric and Oceanic Sciences<br>School of Physics, Peking University, Beijing, China<br>Email: qiu.yang@pku.edu.cn<br><br>Here is my <a href="https://qiuyang50.github.io/files/CV_Qiu_Yang.pdf">CV</a>.</td>
   </tr>
   <tr>
