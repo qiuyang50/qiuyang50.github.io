@@ -15,19 +15,19 @@ author_profile: true
   <tr>
     <td width="50">PhD Student</td>
     <td><img src="/images/HuaipingWang_2024PhD.jpg" alt="drawing" width="500"/></td>
-    <td width="400">Huaiping Wang (王怀平)<br>PhD candidate 2024-<br>Email: TBA <br><br>Huaiping is interested in understanding the interaction mechanisms between MCSs and large-scale environments.</td>
+    <td width="350">Huaiping Wang (王怀平)<br>PhD candidate 2024-<br>Email: TBA <br><br>Huaiping is interested in understanding the interaction mechanisms between MCSs and large-scale environments.</td>
     <td><img src="/images/future_student.jpg" alt="drawing" width="500"/></td>
-    <td width="400">We're looking for talented people like you to join our team! Feel free to email Qiu if you are interested.</td>
+    <td width="350">We're looking for talented people like you to join our team! Feel free to email Qiu if you are interested.</td>
     <td></td>
-    <td></td>
+    <td width="350"></td>
   </tr>
   <tr>
     <td width="50">Undergraduate Student</td>
     <td><img src="/images/YuhuiLi_2022Undergraduate.jpg" alt="drawing" width="500"/></td>
-    <td width="400">Yuhui Li (李宇辉) <br>PKU physics undergraduate 2022-2026<br>Email: TBA <br><br>Yuhui is interested in building simple math models to understand the essential mechanisms related to convective self-aggregation.</td>
+    <td width="350">Yuhui Li (李宇辉) <br>PKU physics undergraduate 2022-2026<br>Email: TBA <br><br>Yuhui is interested in building simple math models to understand the essential mechanisms related to convective self-aggregation.</td>
     <td><img src="/images/WencanZhu_2022Undergraduate.jpg" alt="drawing" width="500"/></td>
-    <td width="400">Wencan Zhu (朱文灿)<br>PKU physics undergraduate 2022-2026<br>Email: TBA <br><br>Wencan is interested in using machine learning tools to explore the fundamental mechanisms and predictability related to MCSs.</td>
+    <td width="350">Wencan Zhu (朱文灿)<br>PKU physics undergraduate 2022-2026<br>Email: TBA <br><br>Wencan is interested in using machine learning tools to explore the fundamental mechanisms and predictability related to MCSs.</td>
     <td><img src="/images/ZeyuTang_2022Undergraduate.jpg" alt="drawing" width="500"/></td>
-    <td width="400">Zeyu Tang (唐泽宇)<br>PKU physics undergraduate 2022-2026<br>Email: TBA <br><br>Zeyu is interested in developing fundamental theories to explain essential features of MCSs.</td>
+    <td width="350">Zeyu Tang (唐泽宇)<br>PKU physics undergraduate 2022-2026<br>Email: TBA <br><br>Zeyu is interested in developing fundamental theories to explain essential features of MCSs.</td>
   </tr>
 </table>
