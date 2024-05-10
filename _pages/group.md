@@ -8,12 +8,12 @@ author_profile: true
 <font size="5" face="Courier New" >
 <table>
   <tr>
-    <td>PI</td>
+    <td>PI width="100"</td>
     <!--<td><img src="/images/QiuYang_zoom.jpg" alt="drawing" width="500"/></td> -->
     <td colspan="6">Qiu Yang (杨邱)<br>Assistant Professor<br>Department of Atmospheric and Oceanic Sciences<br>School of Physics, Peking University, Beijing, China<br>Email: qiu.yang@pku.edu.cn<br><br>Here is my <a href="https://qiuyang50.github.io/files/CV_Qiu_Yang.pdf">CV</a>.</td>
   </tr>
   <tr>
-    <td>PhD Student</td>
+    <td>PhD Student width="100"</td>
     <td><img src="/images/HuaipingWang_2024PhD.jpg" alt="drawing" width="500"/></td>
     <td>Huaiping Wang (王怀平)<br>PhD candidate 2024-<br>Email: TBA <br><br>Huaiping is interested in understanding the interaction mechanisms between MCSs and large-scale environments.</td>
     <td><img src="/images/future_student.jpg" alt="drawing" width="500"/></td>
@@ -22,7 +22,7 @@ author_profile: true
     <td></td>
   </tr>
   <tr>
-    <td>Undergraduate Student</td>
+    <td>Undergraduate Student width="100"</td>
     <td><img src="/images/YuhuiLi_2022Undergraduate.jpg" alt="drawing" width="500"/></td>
     <td width="400">Yuhui Li (李宇辉) <br>PKU physics undergraduate 2022-2026<br>Email: TBA <br><br>Yuhui is interested in building simple math models to understand the essential mechanisms related to convective self-aggregation.</td>
     <td><img src="/images/WencanZhu_2022Undergraduate.jpg" alt="drawing" width="500"/></td>
