@@ -16,6 +16,8 @@ author_profile: true
     <td width="50">PhD Student</td>
     <td><img src="/images/HuaipingWang_2024PhD.jpg" alt="drawing" width="500"/></td>
     <td width="350">Huaiping Wang (王怀平)<br>PhD candidate 2024-<br>Email: TBA <br><br>Huaiping is interested in understanding the interaction mechanisms between MCSs and large-scale environments.</td>
+    <td><img src="/images/HaoboYang_2025PhD.jpg" alt="drawing" width="500"/></td>
+    <td width="350">Haobo Yang (杨浩博)<br>PhD candidate 2025-<br>Email: TBA <br><br>Haobo is interested in using mathematical modeling and statistical learning tools to study convective organization.</td>
     <td><img src="/images/future_student.jpg" alt="drawing" width="500"/></td>
     <td width="350">We're looking for talented people like you to join our team! Feel free to email Qiu if you are interested.</td>
     <td></td>
