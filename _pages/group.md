@@ -20,8 +20,6 @@ author_profile: true
     <td width="350">Haobo Yang (杨浩博)<br>PhD candidate 2025-<br>Email: TBA <br><br>Haobo is interested in using mathematical modeling and statistical learning tools to study convective organization.</td>
     <td><img src="/images/future_student.jpg" alt="drawing" width="500"/></td>
     <td width="350">We're looking for talented people like you to join our team! Feel free to email Qiu if you are interested.</td>
-    <td></td>
-    <td width="350"></td>
   </tr>
   <tr>
     <td width="50">Undergraduate Student</td>
