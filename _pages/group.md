@@ -13,7 +13,7 @@ author_profile: true
     <td colspan="6">Qiu Yang (杨邱)<br>Assistant Professor<br>Department of Atmospheric and Oceanic Sciences<br>School of Physics, Peking University, Beijing, China<br>Email: qiu.yang@pku.edu.cn<br><br>Here is my <a href="https://qiuyang50.github.io/files/CV_Qiu_Yang.pdf">CV</a>.</td>
   </tr>
   <tr>
-    <td width="50">PhD Student</td>
+    <td width=10%>PhD Student</td>
     <td><img src="/images/HuaipingWang_2024PhD.jpg" alt="drawing" width="500"/></td>
     <td width="350">Huaiping Wang (王怀平)<br>PhD candidate 2024-<br>Email: TBA <br><br>Huaiping is interested in understanding the interaction mechanisms between MCSs and large-scale environments.</td>
     <td><img src="/images/HaoboYang_2025PhD.jpg" alt="drawing" width="500"/></td>
