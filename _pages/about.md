@@ -30,7 +30,10 @@ Recent News (scroll down for more)
 <div style="height:400px;overflow:auto;">
 <ul>
 	<li>
-	<b>May 10, 2024</b>: Welcome <i>Zeyu Tang</i> to join our group for writing an undergraduate thesis! He is interested in developing fundamental theories to explain essential features of MCSs. Check out all our group members <a href="https://qiuyang50.github.io/group/">here</a>.
+	<b>May 20, 2024</b>: Welcome <i>Haobo Yang</i> to join our group as a 2025 class PhD graduate student! He is interested in using mathematical modeling and statistical learning tools to study convective organization. Check out all our group members <a href="https://qiuyang50.github.io/group/">here</a>.
+        </li>
+	<li>
+	<b>May 10, 2024</b>: Welcome <i>Zeyu Tang</i> to join our group for writing an undergraduate thesis! He is interested in developing fundamental theories to explain essential features of MCSs. 
         </li>
 	<li>
 	<b>March 14, 2024</b>: Welcome <i>Wencan Zhu</i> to join our group for writing an undergraduate thesis! He is interested in using machine learning tools to explore the predictability and fundamental mechanisms behind the initiation and propagation of MCSs.
@@ -39,7 +42,7 @@ Recent News (scroll down for more)
 	<b>March 8, 2024</b>: Welcome <i>Yuhui Li</i> to join our group for writing an undergraduate thesis! He is interested in building simple mathematical models for understanding the essential mechanisms of convective self-aggregation. 
         </li>
 	<li>
-	<b>October 28, 2023</b>: Welcome <i>Huaiping Wang</i> to join our group as a 2024 class PhD graduate student! She is expected to get a physics B.S. degree next year. She has a keen interest in studying the fundamental interaction mechanisms between MCSs and large-scale environments. 
+	<b>October 28, 2023</b>: Welcome <i>Huaiping Wang</i> to join our group as a 2024 class PhD graduate student! She has a keen interest in studying the fundamental interaction mechanisms between MCSs and large-scale environments. 
 	</li>
 	<li>
 	<b>August 5, 2022</b>: Qiu Yang will serve as an associate editor for <a href="https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-the-atmospheric-sciences/#contacts">Journal of the Atmospheric Sciences</a>, starting from September 1st, 2022! 
