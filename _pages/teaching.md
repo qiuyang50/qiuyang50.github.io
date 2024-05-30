@@ -11,7 +11,7 @@ author_profile: true
 ---
 **Course Name**: *Advances in Atmospheric Sciences*  
 **Instructor**: Qiu Yang  
-**Description**: In this course, we will invite external speakers to give seminar talks on various topics. Students have opportunities to ask questions and discuss with speakers after the talk. 
+**Description**: In this course, we will invite external speakers to give seminar talks on various topics. Students have opportunities to ask questions and discuss with speakers after the talk. The list of speakers can be found (here)[https://www.atmos.pku.edu.cn/kxzb/xzbg/dqyhykxlt/index.htm]
 
 **Course Name**: *Atmospheric Dynamics*   
 **Instructor**: Ji Nie, Qiu Yang (half semester each)    
