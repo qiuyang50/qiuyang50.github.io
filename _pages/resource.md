@@ -13,7 +13,7 @@ author_profile: true
 | MERRA-2 reanalysis| e.g., SST                                  | 0.5deg x 0.625deg, hourly | global | since 1980 | [NASA download page](https://daac.gsfc.nasa.gov/datasets/M2T1NXOCN_5.12.4/summary)              |
 | NEXRAD radar dataset | e.g., composite reflectivity            | 2km x 2km                 | CONUS  | since 1992 | [NCEI download page](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00682) |
 |GPM IMERG precipitation V07| e.g., surface precipitation rate   | 0.1deg x 0.1deg, 30min/1hr/1month  | global | since 2000 | [NASA download page](https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGHH_07/summary?keywords=GPM%20IMERG) |
-|BoM MJO RMM index  | e.g., amplitude, phase, RMM1, RMM2         | 1 day                     | -      | since 1974 | [[Columbia U. IRI data library](https://iridl.ldeo.columbia.edu/SOURCES/.BoM/.MJO/.RMM/index.html?Set-Language=en)]
+|BoM MJO RMM index  | e.g., amplitude, phase, RMM1, RMM2         | 1 day                     | -      | since 1974 | [Columbia U. IRI data library](https://iridl.ldeo.columbia.edu/SOURCES/.BoM/.MJO/.RMM/index.html?Set-Language=en)]
 
 ## Useful models for studying convection
 
