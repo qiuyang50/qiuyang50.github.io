@@ -34,7 +34,7 @@ author_profile: true
 <font size="5" face="Courier New" >
 <table>
   <tr>
-    <td width="50%"><img src="/images/Group_Party_06222024.jpg" alt="drawing"/></td>
+    <td width="50%"><img src="/images/Group_Party_06222024.JPG" alt="drawing"/></td>
     <td width="50%"></td>
   </tr>
 </table>
