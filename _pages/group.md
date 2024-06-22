@@ -30,3 +30,11 @@ author_profile: true
     <td width="20%">Zeyu Tang (唐泽宇)<br>PKU physics undergraduate 2022-2026<br><br>Zeyu is interested in developing fundamental theories to explain essential features of MCSs.</td>
   </tr>
 </table>
+
+<font size="5" face="Courier New" >
+<table>
+  <tr>
+    <td width="50%"><img src="/images/HuaipingWang_2024PhD.jpg" alt="drawing"/></td>
+    <td width="50%"></td>
+  </tr>
+</table>
