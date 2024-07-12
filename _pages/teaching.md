@@ -12,10 +12,10 @@ author_profile: true
 **Description**: In this course, we introduce two major modeling methods in geophysical fluids, that is, numerical simulation and AI prediction.         
 **Webpage**: [here](modeling_2024fall.md) 
 
-**Course Name**: *Mesoscale Dynamics*  
-**Instructor**: Qiu Yang 
-**Description**: In this course, we will learn basic knowledge of observations, numerics, and theories in mesoscale dynamics. 
-**Reference textbook**: 1) Mesoscale Meteorology in Midlatitudes by P. Markowski and Y. Richardson, 2) Cloud Dynamics by R. Houze. 
+**Course Name**: *Mesoscale Dynamics*     
+**Instructor**: Qiu Yang     
+**Description**: In this course, we will learn basic knowledge of observations, numerics, and theories in mesoscale dynamics.    
+**Reference textbook**: 1) Mesoscale Meteorology in Midlatitudes by P. Markowski and Y. Richardson, 2) Cloud Dynamics by R. Houze.    
 
 2024 Spring Semester
 ---
