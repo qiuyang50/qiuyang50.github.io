@@ -10,7 +10,7 @@ author_profile: true
 **Course Name**: *Numerical Simulation and AI Forecast of Geophysical Fluids*  
 **Instructor**: Qiu Yang, Xinyu Wen (half semester each)  
 **Description**: In this course, we introduce two major modeling methods in geophysical fluids, that is, numerical simulation and AI prediction. 
-**Webpage**: 
+**Webpage**: [here](https://github.com/qiuyang50/qiuyang50.github.io/blob/578f03a1b9463a66dc10357ec7ae821b1b1a7766/_pages/modeling_2024fall.md)
 
 **Course Name**: *Mesoscale Dynamics*  
 **Instructor**: Qiu Yang\
