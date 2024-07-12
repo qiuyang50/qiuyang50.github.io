@@ -15,7 +15,7 @@ author_profile: true
 **Course Name**: *Mesoscale Dynamics*       
 **Description**: In this course, we will learn basic knowledge of observations, numerics, and theories in mesoscale dynamics.    
 **Reference textbook**: 1) Mesoscale Meteorology in Midlatitudes by P. Markowski and Y. Richardson, 2) Cloud Dynamics by R. Houze.    
-**Webpage**: [here]()
+**Webpage**: [here](mesoscale_2024fall.md)
 
 2024 Spring Semester
 ---
