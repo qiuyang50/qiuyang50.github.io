@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "test"
+title: ""
 filename: modeling_2024fall.md
 ---
 
