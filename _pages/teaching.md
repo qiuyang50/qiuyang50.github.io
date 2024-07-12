@@ -23,5 +23,5 @@ author_profile: true
 **Description**: In this course, we will invite external speakers to give seminar talks on various topics. Students have opportunities to ask questions and discuss with speakers after the talk. The list of speakers can be found [here](https://www.atmos.pku.edu.cn/kxzb/xzbg/dqyhykxlt/index.htm).
 
 **Course Name**: *Atmospheric Dynamics*      
-**Description**: In this course, we will go through basic concepts and theories in geophysical fluid dynamics.
+**Description**: In this course, we will go through basic concepts and theories in geophysical fluid dynamics.  
 **Reference textbook**: An Introduction to Dynamic Meteorology by James R. Holton and Gregory J. Hakim (Fifth edition)
