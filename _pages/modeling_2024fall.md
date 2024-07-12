@@ -1,8 +1,7 @@
 ---
 layout: single
-title: ""
-permalink: 
-author_profile: true
+title: "test"
+filename: modeling_2024fall.md
 ---
 
 TBA
