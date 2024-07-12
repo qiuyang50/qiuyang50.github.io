@@ -12,7 +12,7 @@ author_profile: true
 **Description**: In this course, we introduce two major modeling methods in geophysical fluids, that is, numerical simulation and AI prediction. 
 
 **Course Name**: *Mesoscale Dynamics*  
-**Instructor**: Qiu Yang 
+**Instructor**: Qiu Yang
 **Description**: In this course, we will learn basic knowledge of observations, numerics, and theories in mesoscale dynamics. 
 
 2024 Spring Semester
