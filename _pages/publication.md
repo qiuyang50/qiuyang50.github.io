@@ -8,7 +8,7 @@ All my publications can be found at [Google Scholar](https://scholar.google.com/
 
 2024
 -
-[21] **Qiu Yang***, Ruby Leung, Zhe Feng, Jianfeng Li, Xingchao Chen, 2024: [Contrasting Future Changes of Mesoscale Convective Systems and Isolated Deep Convection over the Inland and Coastal US]. Submitted
+[21] **Qiu Yang***, Ruby Leung, Zhe Feng, Jianfeng Li, Xingchao Chen, 2024: Contrasting Future Changes of Mesoscale Convective Systems and Isolated Deep Convection over the Inland and Coastal US. Submitted
 
 
 2023
