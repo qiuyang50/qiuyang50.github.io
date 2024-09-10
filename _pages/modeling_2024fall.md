@@ -14,7 +14,7 @@ filename: modeling_2024fall.md
 
 09/09: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch1.1_简介.pdf">ch1.1_简介.pdf</a>   
 09/12:  
-09/14:  
+09/14: （09/16调课） 
 09/19:  
 09/23:  
 09/26:  
