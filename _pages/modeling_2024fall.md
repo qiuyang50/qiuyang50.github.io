@@ -10,7 +10,7 @@ filename: modeling_2024fall.md
 
 课程安排 [https://docs.qq.com/sheet/DRWNTa1FIV0tYenN5](https://docs.qq.com/sheet/DRWNTa1FIV0tYenN5)
 
-课件、作业等课程资料将在上完每一章后更新至下方：
+课件、作业等课程资料将在上完每一节课后更新：
 
 09/09: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch1.1_简介.pdf">ch1.1_简介.pdf</a>   
 09/12:  
