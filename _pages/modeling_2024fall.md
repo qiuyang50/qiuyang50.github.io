@@ -12,7 +12,7 @@ filename: modeling_2024fall.md
 
 课件、作业等课程资料将在上完每一章后更新至下方：
 
-09/09: 
+09/09: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch1.1_简介.pdf">ch1.1_简介.pdf</a>
 
 第二章：
 
