@@ -12,7 +12,7 @@ filename: modeling_2024fall.md
 
 课件、代码、作业等课程资料将在上完每一节课后更新：  
 09/09: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch1.1_简介.pdf">ch1.1_简介.pdf</a>   
-09/12: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch1.2_基本方程.pdf">ch1.2_基本方程.pdf</a>      <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch1.2_代码.pdf">ch1.2_代码.pdf</a>     
+09/12: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch1.2_基本方程.pdf">ch1.2_基本方程.pdf</a>&nbsp&nbsp&nbsp&nbsp<a href="https://qiuyang50.github.io/files/modeling_2024fall/ch1.2_代码.pdf">ch1.2_代码.pdf</a>     
 09/14: 09/16调课至09/14   
 09/19:  
 09/23:  
