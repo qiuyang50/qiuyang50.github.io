@@ -13,7 +13,7 @@ filename: modeling_2024fall.md
 课件、代码、作业等课程资料将在上完每一节课后更新：  
 09/09: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch0_简介.pdf">ch0_简介.pdf</a>   
 09/12: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.1_基本方程.pdf">ch1.1_基本方程.pdf</a>    
-09/14: 09/16调课至09/14   
+09/14: 09/16调课至09/14 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.2_气压扰动.pdf">ch1.2_气压扰动.pdf</a>     
 09/19:  
 09/23:  
 09/26:  
