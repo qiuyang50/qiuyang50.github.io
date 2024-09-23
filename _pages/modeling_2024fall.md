@@ -15,7 +15,7 @@ filename: modeling_2024fall.md
 09/12: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch1.2_基本方程.pdf">ch1.2_基本方程.pdf</a> &nbsp;&nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch1.2_代码.zip">ch1.2_代码.zip</a>     
 09/14: 09/16调课至09/14 <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch1.3_浅水.pdf">ch1.3_浅水.pdf</a>  
 09/19: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch1.4_准地转.pdf">ch1.4_准地转.pdf</a> &nbsp;&nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch1.4_代码.zip">ch1.4_代码.zip</a> &nbsp;&nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/modeling_2024fall/HW1.pdf">HW1.pdf</a>     
-09/23:  
+09/23: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.1_进展.pdf">ch2.1_进展.pdf</a> 
 09/26:  
 09/30:  
 10/03: 国庆放假    
