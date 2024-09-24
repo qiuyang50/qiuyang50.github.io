@@ -21,7 +21,7 @@ author_profile: true
     <td width="20%">We're looking for talented people like you to join our team! Feel free to email Qiu if you are interested.</td>
   </tr>
   <tr>
-    <td width="4%">UG </td>
+    <td rowspan="3",width="4%">UG </td>
     <td width="12%"><img src="/images/YuhuiLi_2022Undergraduate.jpg"   alt="drawing"/></td>
     <td width="20%">Yuhui Li (李宇辉) <br>PKU physics undergraduate 2022-2026<br><br>Yuhui is interested in building simple math models to understand the essential mechanisms related to convective self-aggregation.</td>
     <td width="12%"><img src="/images/WencanZhu_2022Undergraduate.jpg" alt="drawing"/></td>
