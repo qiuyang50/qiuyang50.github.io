@@ -22,21 +22,14 @@ author_profile: true
   </tr>
   <tr>
     <td rowspan="2">UG </td>
-  </tr>
-  <tr>
     <td width="12%"><img src="/images/YuhuiLi_2022Undergraduate.jpg"   alt="drawing"/></td>
     <td width="20%">Yuhui Li (李宇辉) <br>PKU physics undergraduate 2022-2026<br><br>Yuhui is interested in building simple math models to understand the essential mechanisms related to convective self-aggregation.</td>
-  </tr>
-  <tr>
     <td width="12%"><img src="/images/WencanZhu_2022Undergraduate.jpg" alt="drawing"/></td>
     <td width="20%">Wencan Zhu (朱文灿)<br>PKU physics undergraduate 2022-2026<br><br>Wencan is interested in using machine learning tools to explore the fundamental mechanisms and predictability related to MCSs.</td>
-  </tr>
-  <tr>
     <td width="12%"><img src="/images/ZeyuTang_2022Undergraduate.jpg"  alt="drawing"/></td>
     <td width="20%">Zeyu Tang (唐泽宇)<br>PKU physics undergraduate 2022-2026<br><br>Zeyu is interested in developing fundamental theories to explain essential features of MCSs.</td>
   </tr>
 
-  
 </table>
 
 <!--
