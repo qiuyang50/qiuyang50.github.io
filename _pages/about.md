@@ -30,16 +30,19 @@ Recent News (scroll down for more)
 <div style="height:400px;overflow:auto;">
 <ul>
 	<li>
-	<b>May 20, 2024</b>: Welcome <i>Haobo Yang</i> to join our group as a 2025 class PhD graduate student! He is interested in using mathematical modeling and statistical learning tools to study convective organization. Check out all our group members <a href="https://qiuyang50.github.io/group/">here</a>.
+	<b>Sep 23, 2024</b>: Welcome <i>Dazhuang Cao</i> to join our group for conducting an undergraduate research project! He is intersted in using mathematical modeling tools to illustrate fundamental mechanisms of convective organization. Check out all our group members <a href="https://qiuyang50.github.io/group/">here</a>.
         </li>
 	<li>
-	<b>May 10, 2024</b>: Welcome <i>Zeyu Tang</i> to join our group for writing an undergraduate thesis! He is interested in developing fundamental theories to explain essential features of MCSs. 
+	<b>May 20, 2024</b>: Welcome <i>Haobo Yang</i> to join our group as a 2025 class PhD graduate student! He is interested in using mathematical modeling and statistical learning tools to study convective organization. 
         </li>
 	<li>
-	<b>March 14, 2024</b>: Welcome <i>Wencan Zhu</i> to join our group for writing an undergraduate thesis! He is interested in using machine learning tools to explore the predictability and fundamental mechanisms behind the initiation and propagation of MCSs.
+	<b>May 10, 2024</b>: Welcome <i>Zeyu Tang</i> to join our group for conducting an undergraduate research project! He is interested in developing fundamental theories to explain essential features of MCSs. 
         </li>
 	<li>
-	<b>March 8, 2024</b>: Welcome <i>Yuhui Li</i> to join our group for writing an undergraduate thesis! He is interested in building simple mathematical models for understanding the essential mechanisms of convective self-aggregation. 
+	<b>March 14, 2024</b>: Welcome <i>Wencan Zhu</i> to join our group for conducting an undergraduate research project! He is interested in using machine learning tools to explore the predictability and fundamental mechanisms behind the initiation and propagation of MCSs.
+        </li>
+	<li>
+	<b>March 8, 2024</b>: Welcome <i>Yuhui Li</i> to join our group for conducting an undergraduate research project! He is interested in building simple mathematical models for understanding the essential mechanisms of convective self-aggregation. 
         </li>
 	<li>
 	<b>October 28, 2023</b>: Welcome <i>Huaiping Wang</i> to join our group as a 2024 class PhD graduate student! She has a keen interest in studying the fundamental interaction mechanisms between MCSs and large-scale environments. 
