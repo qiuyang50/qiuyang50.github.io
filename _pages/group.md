@@ -21,7 +21,7 @@ author_profile: true
     <td width="20%">We're looking for talented people like you to join our team! Feel free to email Qiu if you are interested.</td>
   </tr>
   <tr>
-    <td rowspan="2",width="4%">UG </td>
+    <td rowspan="2">UG </td>
   </tr>
   <tr>
     <td width="12%"><img src="/images/YuhuiLi_2022Undergraduate.jpg"   alt="drawing"/></td>
