@@ -17,8 +17,10 @@ author_profile: true
     <td width="20%">Huaiping Wang (王怀平)<br>PhD candidate 2024-<br><br>Huaiping is interested in understanding the interaction mechanisms between MCSs and large-scale environments.</td>
     <td width="12%"><img src="/images/HaoboYang_2025PhD.jpg"    alt="drawing"/></td>
     <td width="20%">Haobo Yang (杨浩博)<br>PhD candidate 2025-<br><br>Haobo is interested in using mathematical modeling and statistical learning tools to study convective organization.</td>
-    <td width="12%"><img src="/images/future_student.jpg"       alt="drawing"/></td>
+    <td width="12%"></td>
     <td width="20%"></td>
+    <!--<td width="12%"><img src="/images/future_student.jpg"       alt="drawing"/></td>
+    <td width="20%"></td> -->
   </tr>
   <tr>
     <td rowspan="2" width="4%">UG </td>
@@ -32,9 +34,9 @@ author_profile: true
   <tr>
     <td width="12%"><img src="/images/DazhuangCao_2023Undergraduate.jpg"       alt="drawing"/></td>
     <td width="20%">Dazhuang Cao (曹大壮) <br>PKU physics undergraduate 2023-2027<br><br>Dazhuang is interested in using mathematical modeling tools to illustrate fundamental mechanisms of convective organization.</td>
-    <td width="12%"><img src="/images/future_student.jpg"       alt="drawing"/></td>
+    <td width="12%"></td>
     <td width="20%"></td>
-    <td width="12%"><img src="/images/future_student.jpg"       alt="drawing"/></td>
+    <td width="12%"></td>
     <td width="20%"></td> 
   </tr>
 </table>
