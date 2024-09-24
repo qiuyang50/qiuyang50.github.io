@@ -32,10 +32,10 @@ author_profile: true
   <tr>
     <td width="12%"><img src="/images/DazhuangCao_2023Undergraduate.jpg"       alt="drawing"/></td>
     <td width="20%">Dazhuang Cao (曹大壮) <br>PKU physics undergraduate 2023-2027<br><br>Dazhuang is interested in using mathematical modeling tools to illustrate fundamental mechanisms of convective organization.</td>
-    <!-- <td width="12%"><img src="/images/future_student.jpg"       alt="drawing"/></td>
-    <td width="20%">We're looking for talented people like you to join our team! Feel free to email Qiu if you are interested.</td>
     <td width="12%"><img src="/images/future_student.jpg"       alt="drawing"/></td>
-    <td width="20%">We're looking for talented people like you to join our team! Feel free to email Qiu if you are interested.</td> -->
+    <td width="20%"></td>
+    <td width="12%"><img src="/images/future_student.jpg"       alt="drawing"/></td>
+    <td width="20%"></td> 
   </tr>
 </table>
 
