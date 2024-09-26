@@ -16,7 +16,7 @@ filename: modeling_2024fall.md
 09/14: 09/16调课至09/14 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.2_气压扰动.pdf">ch1.2_气压扰动.pdf</a>     
 09/19: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.3_Skew-T.pdf">ch1.3_Skew-T.pdf</a>    
 09/23: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.4_hodograph.pdf">ch1.4_hodograph.pdf</a> &nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/HW1.pdf">HW1.pdf</a>  
-09/26:  
+09/26: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.5_radar.pdf">ch1.5_radar.pdf</a> 
 09/30:  
 10/03: 国庆放假    
 10/07: 国庆放假  
