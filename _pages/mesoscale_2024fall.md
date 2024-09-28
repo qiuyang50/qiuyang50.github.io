@@ -19,7 +19,7 @@ filename: modeling_2024fall.md
 09/26: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.5_radar.pdf">ch1.5_radar.pdf</a>   
 09/30: 调课至10/07  
 10/03: 国庆放假       
-10/07: 
+10/07:    
 10/10:  
 10/14:  
 10/17:  
