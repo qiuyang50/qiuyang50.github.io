@@ -20,7 +20,7 @@ filename: modeling_2024fall.md
 09/30: 调课至10/07  
 10/03: 国庆放假       
 10/07: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch2.1_对流简介.pdf">ch2.1_对流简介.pdf</a>     
-10/10:  
+10/10: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch2.2_气块不稳定性.pdf">ch2.2_气块不稳定性.pdf</a>  
 10/14: 参观气象局   
 10/17:  
 10/21:  
