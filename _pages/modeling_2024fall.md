@@ -20,7 +20,7 @@ filename: modeling_2024fall.md
 09/30: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.3_决策树.pdf">ch2.3_决策树.pdf</a> &nbsp;&nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/modeling_2024fall/Ch08-baggboost-lab.ipynb">Ch08-baggboost-lab.ipynb</a>   
 10/03: 国庆放假    
 10/07: 国庆放假  
-10/10:  
+10/10: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.4_支持向量机.pdf">ch2.4_支持向量机.pdf</a> &nbsp;&nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/modeling_2024fall/Ch09-svm-lab.ipynb">Ch09-svm-lab.ipynb</a>   
 10/14:  
 10/17:  
 10/21:  
