@@ -29,8 +29,11 @@ Recent News (scroll down for more)
 -
 <div style="height:400px;overflow:auto;">
 <ul>
+        <li>
+	<b>Oct 13, 2024</b>: Welcome <i>Yifan Zhao</i> to join our group for conducting an undergraduate research project! He is intersted in developing theores to explain underlying mechanisms responsable for real world atmospheric phenomenon. 
+        </li>
 	<li>
-	<b>Sep 23, 2024</b>: Welcome <i>Dazhuang Cao</i> to join our group for conducting an undergraduate research project! He is intersted in using mathematical modeling tools to illustrate fundamental mechanisms of convective organization. Check out all our group members <a href="https://qiuyang50.github.io/group/">here</a>.
+	<b>Sep 23, 2024</b>: Welcome <i>Dazhuang Cao</i> to join our group for conducting an undergraduate research project! He is intersted in using mathematical modeling tools to illustrate fundamental mechanisms of convective organization. 
         </li>
 	<li>
 	<b>May 20, 2024</b>: Welcome <i>Haobo Yang</i> to join our group as a 2025 class PhD graduate student! He is interested in using mathematical modeling and statistical learning tools to study convective organization. 
