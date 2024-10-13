@@ -35,7 +35,7 @@ author_profile: true
     <td width="12%"><img src="/images/DazhuangCao_2023Undergraduate.jpg"       alt="drawing"/></td>
     <td width="20%">Dazhuang Cao (曹大壮) <br>PKU physics undergraduate 2023-2027<br><br>Dazhuang is interested in using mathematical modeling tools to illustrate fundamental mechanisms of convective organization.</td>
     <td width="12%"><img src="/images/YifanZhao_2023Undergraduate.jpg"         alt="drawing"/></td>
-    <td width="20%">Yifan Zhao (赵一帆) <br>PKU physics undergraduate 2023-2027<br><br>Yifan is interested in developing theores to explain real-world phenomenon.</td>
+    <td width="20%">Yifan Zhao (赵一帆) <br>PKU physics undergraduate 2023-2027<br><br>Yifan is interested in developing theores to explain underlying mechanisms responsable for real world atmospheric phenomenon.</td>
     <td width="12%"></td>
     <td width="20%"></td> 
   </tr>
