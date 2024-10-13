@@ -30,7 +30,7 @@ Recent News (scroll down for more)
 <div style="height:400px;overflow:auto;">
 <ul>
         <li>
-	<b>Oct 13, 2024</b>: Welcome <i>Yifan Zhao</i> to join our group for conducting an undergraduate research project! He is intersted in developing theores to explain underlying mechanisms responsable for real world atmospheric phenomenon. 
+	<b>Oct 13, 2024</b>: Welcome <i>Yifan Zhao</i> to join our group for conducting an undergraduate research project! He is intersted in developing theores to explain underlying mechanisms responsible for real world atmospheric phenomenon. 
         </li>
 	<li>
 	<b>Sep 23, 2024</b>: Welcome <i>Dazhuang Cao</i> to join our group for conducting an undergraduate research project! He is intersted in using mathematical modeling tools to illustrate fundamental mechanisms of convective organization. 
