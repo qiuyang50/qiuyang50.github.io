@@ -21,7 +21,7 @@ filename: modeling_2024fall.md
 10/03: 国庆放假    
 10/07: 国庆放假  
 10/10: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.4_支持向量机.pdf">ch2.4_支持向量机.pdf</a> &nbsp;&nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/modeling_2024fall/Ch09-svm-lab.ipynb">Ch09-svm-lab.ipynb</a>   
-10/14: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.5_深度学习1.pdf">ch2.5_深度学习1.pdf</a> 
+10/14: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.5_深度学习1.pdf">ch2.5_深度学习1.pdf</a>    
 10/17:  
 10/21:  
 10/24:  
