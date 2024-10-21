@@ -23,7 +23,7 @@ filename: modeling_2024fall.md
 10/10: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch2.2_气块不稳定性.pdf">ch2.2_气块不稳定性.pdf</a>  
 10/14: 参观气象局   
 10/17: 孟智勇老师关于沙漠辐合线的讲座 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/HW2.pdf">HW2.pdf</a>  
-10/21:  
+10/21: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch2.3_波动不稳定性.pdf">ch2.3_波动不稳定性.pdf</a>   
 10/24:  
 10/28:  
 10/31:  
