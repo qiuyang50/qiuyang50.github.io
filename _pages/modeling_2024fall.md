@@ -23,7 +23,7 @@ filename: modeling_2024fall.md
 10/10: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.4_支持向量机.pdf">ch2.4_支持向量机.pdf</a> &nbsp;&nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/modeling_2024fall/Ch09-svm-lab.ipynb">Ch09-svm-lab.ipynb</a>   
 10/14: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.5_深度学习1.pdf">ch2.5_深度学习1.pdf</a>    
 10/17: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.5_深度学习2.pdf">ch2.5_深度学习2.pdf</a> &nbsp;&nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/modeling_2024fall/Ch10-deeplearning-lab1.ipynb">Ch10-deeplearning-lab1.ipynb</a> &nbsp;&nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/modeling_2024fall/HW2.pdf">HW2.pdf</a> &nbsp;&nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/modeling_2024fall/HW2.zip">HW2.zip</a>       
-10/21: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.5_深度学习3.pdf">ch2.5_深度学习3.pdf</a> 
+10/21: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.5_深度学习3.pdf">ch2.5_深度学习3.pdf</a>   
 10/24:  
 10/28:  
 10/31:  
