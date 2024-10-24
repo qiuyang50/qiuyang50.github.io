@@ -25,7 +25,7 @@ filename: modeling_2024fall.md
 10/17: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.5_深度学习2.pdf">ch2.5_深度学习2.pdf</a> &nbsp;&nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/modeling_2024fall/Ch10-deeplearning-lab1.ipynb">Ch10-deeplearning-lab1.ipynb</a> &nbsp;&nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/modeling_2024fall/HW2.pdf">HW2.pdf</a> &nbsp;&nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/modeling_2024fall/HW2.zip">HW2.zip</a>       
 10/21: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.5_深度学习3.pdf">ch2.5_深度学习3.pdf</a>   
 10/24: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.5_深度学习4.pdf">ch2.5_深度学习4.pdf</a> &nbsp;&nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/modeling_2024fall/Ch10-deeplearning-lab2.ipynb">Ch10-deeplearning-lab2.ipynb</a>   
-10/28:  
+10/28: 参观气象局   
 10/31:  
 11/04:  
 11/07:  
