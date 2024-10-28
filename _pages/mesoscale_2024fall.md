@@ -41,5 +41,5 @@ filename: modeling_2024fall.md
 12/12:  
 12/16:  
 12/19: 张庆红老师关于冰雹的讲座 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/HW3.pdf">HW3.pdf</a>  
-10/23：学生报告    
-10/26：学生报告 
+10/23: 学生报告    
+10/26: 学生报告 
