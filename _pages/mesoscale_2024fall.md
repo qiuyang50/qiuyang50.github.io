@@ -26,8 +26,8 @@ filename: modeling_2024fall.md
 10/21: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch2.3_波动不稳定性.pdf">ch2.3_波动不稳定性.pdf</a>   
 10/24: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch2.4_深对流.pdf">ch2.4_深对流.pdf</a>   
 10/28: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch2.5_探空.pdf">ch2.5_探空.pdf</a>    
-10/31: 复习前两章内容
-11/04: 期中考试 
+10/31: 复习前两章内容  
+11/04: 期中考试   
 11/07:  
 11/11:  
 11/14:  
