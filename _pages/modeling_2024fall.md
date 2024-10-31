@@ -26,8 +26,8 @@ filename: modeling_2024fall.md
 10/21: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.5_深度学习3.pdf">ch2.5_深度学习3.pdf</a>   
 10/24: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.5_深度学习4.pdf">ch2.5_深度学习4.pdf</a> &nbsp;&nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/modeling_2024fall/Ch10-deeplearning-lab2.ipynb">Ch10-deeplearning-lab2.ipynb</a>   
 10/28: 参观气象局   
-10/31: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.6_非监督学习.pdf">ch2.6_非监督学习.pdf</a> 
-11/04:  
+10/31: <a href="https://qiuyang50.github.io/files/modeling_2024fall/ch2.6_非监督学习.pdf">ch2.6_非监督学习.pdf</a>   
+11/04: The following classes are taught by Prof. Xinyu Wen until 10/23
 11/07:  
 11/11:  
 11/14:  
