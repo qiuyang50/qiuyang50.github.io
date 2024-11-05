@@ -28,7 +28,7 @@ filename: modeling_2024fall.md
 10/28: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch2.5_探空.pdf">ch2.5_探空.pdf</a>    
 10/31: 复习前两章内容  
 11/04: 期中考试   
-11/07:  
+11/07: 张庆红老师关于冰雹的讲座 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/HW3.pdf">HW3.pdf</a>    
 11/11:  
 11/14:  
 11/18:  
@@ -40,6 +40,6 @@ filename: modeling_2024fall.md
 12/09:  
 12/12:  
 12/16:  
-12/19: 张庆红老师关于冰雹的讲座 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/HW3.pdf">HW3.pdf</a>  
+12/19:  
 10/23: 学生报告    
 10/26: 学生报告 
