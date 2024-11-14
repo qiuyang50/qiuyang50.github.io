@@ -13,13 +13,13 @@ filename: modeling_2024fall.md
 课件、代码、作业等课程资料将在上完每一节课后更新：  
 09/09: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch0_简介.pdf">ch0_简介.pdf</a>   
 09/12: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.1_基本方程.pdf">ch1.1_基本方程.pdf</a>    
-09/14: 09/16调课至09/14 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.2_气压扰动.pdf">ch1.2_气压扰动.pdf</a>     
+09/16: 09/16调课至09/14 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.2_气压扰动.pdf">ch1.2_气压扰动.pdf</a>     
 09/19: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.3_Skew-T.pdf">ch1.3_Skew-T.pdf</a>    
 09/23: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.4_hodograph.pdf">ch1.4_hodograph.pdf</a> &nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/HW1.pdf">HW1.pdf</a>  
 09/26: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.5_radar.pdf">ch1.5_radar.pdf</a>   
-09/30: 调课至10/07  
+09/30: 调课至10/07 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch2.1_对流简介.pdf">ch2.1_对流简介.pdf</a>  
 10/03: 国庆放假       
-10/07: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch2.1_对流简介.pdf">ch2.1_对流简介.pdf</a>     
+10/07: 国庆放假      
 10/10: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch2.2_气块不稳定性.pdf">ch2.2_气块不稳定性.pdf</a>  
 10/14: 改成10/28早上参观气象局   
 10/17: 孟智勇老师关于沙漠辐合线的讲座 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/HW2.pdf">HW2.pdf</a>  
