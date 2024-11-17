@@ -13,7 +13,7 @@ filename: modeling_2024fall.md
 课件、代码、作业等课程资料将在上完每一节课后更新：  
 09/09: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch0_简介.pdf">ch0_简介.pdf</a>   
 09/12: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.1_基本方程.pdf">ch1.1_基本方程.pdf</a>    
-09/16: 09/16调课至09/14 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.2_气压扰动.pdf">ch1.2_气压扰动.pdf</a>     
+09/16: 调课至09/14 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.2_气压扰动.pdf">ch1.2_气压扰动.pdf</a>     
 09/19: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.3_Skew-T.pdf">ch1.3_Skew-T.pdf</a>    
 09/23: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.4_hodograph.pdf">ch1.4_hodograph.pdf</a> &nbsp;&nbsp; <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/HW1.pdf">HW1.pdf</a>  
 09/26: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch1.5_radar.pdf">ch1.5_radar.pdf</a>   
@@ -31,13 +31,13 @@ filename: modeling_2024fall.md
 11/07: 张庆红老师关于冰雹的讲座 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/HW3.pdf">HW3.pdf</a>      
 11/11: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch3.1_对流组织分类.pdf">ch3.1_对流组织分类.pdf</a>    
 11/14: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch3.2_超级单体结构.pdf">ch3.2_超级单体结构.pdf</a>     
-11/18: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch3.3_超级单体中层旋转.pdf">ch3.3_超级单体中层旋转.pdf</a>     
+11/18:     
 11/21:  
 11/25:  
 11/28:  
 12/02:  
 12/05:  
-12/09: 调课至11月17日   
+12/09: 调课至11月17日 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch3.3_超级单体中层旋转.pdf">ch3.3_超级单体中层旋转.pdf</a>    
 12/12:  
 12/16:  
 12/19:  
