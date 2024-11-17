@@ -48,7 +48,7 @@ author_profile: true
 <font size="5" face="Courier New" >
 <table>
   <tr>
+    <td width="50%"><img src="/images/Group_Party_11172024.JPG" alt="drawing"/> Dinner party at Yang Bang Gu restaurant, Beijing, on November 17, 2024 (From left to right: Qiu Yang, Huaiping Wang, Wencan Zhu, Haobo Yang, Zeyu Tang, Yuhui Li, Dazhuang Cao, Yifan Zhao)</td>
     <td width="50%"><img src="/images/Group_Party_06222024.JPG" alt="drawing"/> Dinner party at La Shang Ying restaurant, Beijing, on June 22, 2024 (From left to right: Wenyu Shan, Zeyu Tang, Yuhui Li, Qiu Yang, Wencan Zhu, Haobo Yang, Huaiping Wang)</td>
-    <td width="50%"></td>
   </tr>
 </table>
