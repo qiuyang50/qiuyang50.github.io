@@ -31,7 +31,7 @@ filename: modeling_2024fall.md
 11/07: 张庆红老师关于冰雹的讲座 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/HW3.pdf">HW3.pdf</a>      
 11/11: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch3.1_对流组织分类.pdf">ch3.1_对流组织分类.pdf</a>    
 11/14: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch3.2_超级单体结构.pdf">ch3.2_超级单体结构.pdf</a>     
-11/18:     
+11/18: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch3.4_超级单体传播及环境影响.pdf">ch3.4_超级单体传播及环境影响.pdf</a>     
 11/21:  
 11/25:  
 11/28:  
