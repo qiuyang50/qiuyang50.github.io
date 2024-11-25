@@ -38,7 +38,7 @@ filename: modeling_2024fall.md
 12/02:  
 12/05:  
 12/09: 调课至11月17日 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch3.3_超级单体中层旋转.pdf">ch3.3_超级单体中层旋转.pdf</a>    
-12/12:  
+12/12: 两节课分别调课至12/23、12/26   
 12/16:  
 12/19:  
 10/23: 学生报告    
