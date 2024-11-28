@@ -34,7 +34,7 @@ filename: modeling_2024fall.md
 11/18: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch3.4_超级单体传播及环境影响.pdf">ch3.4_超级单体传播及环境影响.pdf</a>     
 11/21: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch4.1_分类.pdf">ch4.1_分类.pdf</a>    
 11/25: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch4.2_飑线.pdf">ch4.2_飑线.pdf</a>  
-11/28:  
+11/28: <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch4.3_前沿进展1.pdf">ch4.3_前沿进展1.pdf</a>  
 12/02:  
 12/05:  
 12/09: 调课至11月17日 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/ch3.3_超级单体中层旋转.pdf">ch3.3_超级单体中层旋转.pdf</a>    
