@@ -11,7 +11,7 @@ All my publications can be found at [Google Scholar](https://scholar.google.com/
 [21] **Qiu Yang***, Ruby Leung, Zhe Feng, Jianfeng Li, Xingchao Chen, 2025: Isolating Environmental Thermodynamic Effects on Future Changes of Mesoscale Convective Systems and Isolated Deep Convection over the US: A Case Study. Submitted
 
 My tenure track starts from the Year 2024.
-***
+-
 
 2023
 -
