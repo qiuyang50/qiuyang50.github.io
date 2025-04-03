@@ -14,7 +14,7 @@ author_profile: true
 | MERRA-2 reanalysis| e.g., SST                                  | 0.5deg x 0.625deg, hourly | global | since 1980 | [NASA download page](https://daac.gsfc.nasa.gov/datasets/M2T1NXOCN_5.12.4/summary)              |
 | MJO RMM index  | e.g., amplitude, phase, RMM1, RMM2            | 1 day                     | -      | since 1974 | [Columbia U. IRI data library](https://iridl.ldeo.columbia.edu/SOURCES/.BoM/.MJO/.RMM/index.html?Set-Language=en) or [Australian Bureau of Meteorology](http://www.bom.gov.au/climate/mjo/)|
 | Other MJO index  | e.g. OMI                                    | 1 day                     | -      | since 1979 | [NOAA Physical Sciences Laboratory](https://psl.noaa.gov/mjo/mjoindex/)   |
-| NOAA Interpolated OLR | OLR                                    | 1 day                     | global | 1974-2022 | [Physical Sciences Laboratory](https://www.psl.noaa.gov/data/gridded/data.olrcdr.interp.html) |
+| NOAA Interpolated OLR | OLR                                    | 2.5deg x 2.5deg, 1 day    | global | 1974-2022 | [Physical Sciences Laboratory](https://www.psl.noaa.gov/data/gridded/data.olrcdr.interp.html) |
 |MJO large-scale precipitation tracking| e.g. MJO spatiotemporal mask file | -, hourly       | tropics | since 2000 | [UW website](https://orca.atmos.washington.edu/data/lpt/index.html#imerg)|
 | NEXRAD radar dataset | e.g., composite reflectivity            | 2km x 2km                 | CONUS  | since 1992 | [NCEI download page](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00682) |
 
