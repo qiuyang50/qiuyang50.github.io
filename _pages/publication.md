@@ -8,7 +8,7 @@ All my publications can be found at [Google Scholar](https://scholar.google.com/
 
 2025
 -
-[22] Yuhui Li, **Qiu Yang***, 2025: The Role of Cold Pools in Convective Aggregation over Tropical Oceans: A Two-Layer Stochastic Dynamic Model. Submitted.
+[22] <ins>Yuhui Li</ins>, **Qiu Yang***, 2025: The Role of Cold Pools in Convective Aggregation over Tropical Oceans: A Two-Layer Stochastic Dynamic Model. Submitted.
 
 [21] **Qiu Yang***, Ruby Leung, Zhe Feng, Jianfeng Li, Xingchao Chen, 2025: Isolating Environmental Thermodynamic Effects on Future Changes of Mesoscale Convective Systems and Isolated Deep Convection over the US: A Case Study. Submitted.
 
