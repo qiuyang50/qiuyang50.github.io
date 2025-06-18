@@ -4,7 +4,7 @@ title: ""
 permalink: /publication/
 author_profile: true
 ---
-All my publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=MzMRC04AAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Qiu_Yang4). 
+All my publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=MzMRC04AAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Qiu_Yang4).  
 In the list below, * denotes the corresponding author, and names underlined indicate students or postdocs under my mentorship.
 
 2025
