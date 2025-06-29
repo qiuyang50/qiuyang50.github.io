@@ -72,7 +72,8 @@ My tenure track starts from the Year 2024.
 
 Non-peer reviewed publication
 -
-Qiu Yang, 2017: [Multi-Scale Models for the Scale Interaction of Organized Tropical Convection](https://qiuyang50.github.io/files/thesis.pdf), Ph.D thesis. My thesis defense slides are [here](https://qiuyang50.github.io/files/QiuYang_Thesis.pdf).
+[2] 聂绩，林中曦，李普曦，**杨邱**，丁天，宋丰飞，孟智勇，孙建华，李建，赵传峰. 2025. [中尺度对流系统：从年际年代际变率到气候响应](http://qxxb.cmsjournal.net/article/doi/10.11676/qxxb2025.20240112). 气象学报，83（3）：616-631. DOI:  10.11676/qxxb2025.20240112
+[1] Qiu Yang, 2017: [Multi-Scale Models for the Scale Interaction of Organized Tropical Convection](https://qiuyang50.github.io/files/thesis.pdf), Ph.D thesis. My thesis defense slides are [here](https://qiuyang50.github.io/files/QiuYang_Thesis.pdf).
 
 <!--
 {% if author.googlescholar %}
