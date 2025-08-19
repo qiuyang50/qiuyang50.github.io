@@ -29,24 +29,27 @@ Recent News (scroll down for more)
 -
 <div style="height:400px;overflow:auto;">
 <ul>
-        <li>
+	<li>
+	<b>Aug 15, 2025</b>: Congratulations to <i>Yuhui Li</i>i for receiving the Best Poster Presentation Award at the 8th Nonlinear Conference, held in Hohhot on August 14–15, 2025.
+    </li>
+    <li>
 	<b>Oct 13, 2024</b>: Welcome <i>Yifan Zhao</i> to join our group for conducting an undergraduate research project! He is intersted in developing theores to explain underlying mechanisms responsible for real world atmospheric phenomenon. 
-        </li>
+    </li>
 	<li>
 	<b>Sep 23, 2024</b>: Welcome <i>Dazhuang Cao</i> to join our group for conducting an undergraduate research project! He is intersted in using mathematical modeling tools to illustrate fundamental mechanisms of convective organization. 
-        </li>
+     </li>
 	<li>
 	<b>May 20, 2024</b>: Welcome <i>Haobo Yang</i> to join our group as a 2025 class PhD graduate student! He is interested in using mathematical modeling and statistical learning tools to study convective organization. 
-        </li>
+    </li>
 	<li>
 	<b>May 10, 2024</b>: Welcome <i>Zeyu Tang</i> to join our group for conducting an undergraduate research project! He is interested in developing fundamental theories to explain essential features of MCSs. 
-        </li>
+    </li>
 	<li>
 	<b>March 14, 2024</b>: Welcome <i>Wencan Zhu</i> to join our group for conducting an undergraduate research project! He is interested in using machine learning tools to explore the predictability and fundamental mechanisms behind the initiation and propagation of MCSs.
-        </li>
+    </li>
 	<li>
 	<b>March 8, 2024</b>: Welcome <i>Yuhui Li</i> to join our group for conducting an undergraduate research project! He is interested in building simple mathematical models for understanding the essential mechanisms of convective self-aggregation. 
-        </li>
+    </li>
 	<li>
 	<b>October 28, 2023</b>: Welcome <i>Huaiping Wang</i> to join our group as a 2024 class PhD graduate student! She has a keen interest in studying the fundamental interaction mechanisms between MCSs and large-scale environments. 
 	</li>
