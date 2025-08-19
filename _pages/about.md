@@ -30,7 +30,7 @@ Recent News (scroll down for more)
 <div style="height:400px;overflow:auto;">
 <ul>
 	<li>
-	<b>Aug 15, 2025</b>: Congratulations to <i>Yuhui Li</i>i for receiving the Best Poster Presentation Award at the 8th Nonlinear Conference, held in Hohhot on August 14–15, 2025.
+	<b>Aug 15, 2025</b>: Congratulations to <i>Yuhui Li</i> for receiving the Best Poster Presentation Award at the 8th Nonlinear Conference, held in Hohhot on August 14–15, 2025.
     </li>
     <li>
 	<b>Oct 13, 2024</b>: Welcome <i>Yifan Zhao</i> to join our group for conducting an undergraduate research project! He is intersted in developing theores to explain underlying mechanisms responsible for real world atmospheric phenomenon. 
