@@ -9,6 +9,8 @@ In the list below, * denotes the corresponding author, and names underlined indi
 
 2025
 -
+[23] Guangxing Lin, Qiu Yang, et al., (2025): Improving East Asian Summer Precipitation Simulation with a Multiscale Modeling Framework in CAS-ESM. Submitted. 
+
 [22] <ins>Yuhui Li</ins>, **Qiu Yang***, 2025: The Role of Cold Pools in Convective Aggregation over Tropical Oceans: A Two-Layer Stochastic Dynamic Model. Submitted.
 
 [21] **Qiu Yang***, Ruby Leung, Zhe Feng, Jianfeng Li, Xingchao Chen, 2025: Isolating Environmental Thermodynamic Effects on Future Changes of Mesoscale Convective Systems and Isolated Deep Convection over the US: A Case Study. Submitted.
