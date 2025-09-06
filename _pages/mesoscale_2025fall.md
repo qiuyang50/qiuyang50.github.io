@@ -6,7 +6,8 @@ filename: modeling_2025fall.md
 
 **中尺度动力学 (2025 秋)**  
 ---
-课程大纲 <a href="https://qiuyang50.github.io/files/mesoscale_2024fall/syllabus.docx">https://qiuyang50.github.io/files/modeling_2024fall/syllabus.docx</a>
+
+课程大纲 [https://docs.qq.com/doc/DRXp1YmRzYVdWR1p4](https://docs.qq.com/doc/DRXp1YmRzYVdWR1p4)
 
 课程安排 [https://docs.qq.com/sheet/DRUZKWWpGSHVxTWdD](https://docs.qq.com/sheet/DRUZKWWpGSHVxTWdD)
 
