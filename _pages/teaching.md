@@ -10,7 +10,7 @@ author_profile: true
 **Course Name**: *Numerical Simulation and AI Forecast of Geophysical Fluids*       
 **Description**: In this course, we introduce two major modeling methods in geophysical fluids, that is, numerical simulation and AI prediction.   
 **Reference textbook**: An introduction to Statistical Learning with Applications in Python by Gareth James et al.  
-**Webpage**: [here](modeling_2024fall.md) 
+**Webpage**: [here](modeling_2025fall.md) 
 
 **Course Name**: *Mesoscale Dynamics*       
 **Description**: In this course, we will learn basic knowledge of observations, numerics, and theories in mesoscale dynamics.    
