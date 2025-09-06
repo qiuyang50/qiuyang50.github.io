@@ -5,6 +5,18 @@ permalink: /teaching/
 author_profile: true
 ---
 
+2025 Fall Semester
+---
+**Course Name**: *Numerical Simulation and AI Forecast of Geophysical Fluids*       
+**Description**: In this course, we introduce two major modeling methods in geophysical fluids, that is, numerical simulation and AI prediction.   
+**Reference textbook**: An introduction to Statistical Learning with Applications in Python by Gareth James et al.  
+**Webpage**: [here](modeling_2024fall.md) 
+
+**Course Name**: *Mesoscale Dynamics*       
+**Description**: In this course, we will learn basic knowledge of observations, numerics, and theories in mesoscale dynamics.    
+**Reference textbook**: 1) Mesoscale Meteorology in Midlatitudes by P. Markowski and Y. Richardson, 2) Cloud Dynamics by R. Houze.    
+**Webpage**: [here](mesoscale_2025fall.md)
+
 2024 Fall Semester
 ---
 **Course Name**: *Numerical Simulation and AI Forecast of Geophysical Fluids*       
