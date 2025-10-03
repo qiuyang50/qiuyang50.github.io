@@ -48,16 +48,16 @@ Recent News (scroll down for more)
 	<b>May 10, 2024</b>: Welcome <i>Zeyu Tang</i> to join our group for conducting an undergraduate research project! He is interested in developing fundamental theories to explain essential features of MCSs. 
     </li>
 	<li>
-	<b>March 14, 2024</b>: Welcome <i>Wencan Zhu</i> to join our group for conducting an undergraduate research project! He is interested in using machine learning tools to explore the predictability and fundamental mechanisms behind the initiation and propagation of MCSs.
+	<b>Mar 14, 2024</b>: Welcome <i>Wencan Zhu</i> to join our group for conducting an undergraduate research project! He is interested in using machine learning tools to explore the predictability and fundamental mechanisms behind the initiation and propagation of MCSs.
     </li>
 	<li>
-	<b>March 08, 2024</b>: Welcome <i>Yuhui Li</i> to join our group for conducting an undergraduate research project! He is interested in building simple mathematical models for understanding the essential mechanisms of convective self-aggregation. 
+	<b>Mar 08, 2024</b>: Welcome <i>Yuhui Li</i> to join our group for conducting an undergraduate research project! He is interested in building simple mathematical models for understanding the essential mechanisms of convective self-aggregation. 
     </li>
 	<li>
 	<b>Oct 28, 2023</b>: Welcome <i>Huaiping Wang</i> to join our group as a 2024 class PhD graduate student! She has a keen interest in studying the fundamental interaction mechanisms between MCSs and large-scale environments. 
 	</li>
 	<li>
-	<b>Aug 5, 2022</b>: Qiu Yang joins the editoral board of <a href="https://journals.ametsoc.org/configurable/content/journals$002fatsc$002fatsc-overview.xml?t%3Aac=journals%24002fatsc%24002fatsc-overview.xml&contents=latest-issue">Journal of the Atmospheric Sciences</a> as an associate editor, starting from September 1st, 2022. 
+	<b>Aug 05, 2022</b>: Qiu Yang joins the editoral board of <a href="https://journals.ametsoc.org/configurable/content/journals$002fatsc$002fatsc-overview.xml?t%3Aac=journals%24002fatsc%24002fatsc-overview.xml&contents=latest-issue">Journal of the Atmospheric Sciences</a> as an associate editor, starting from September 1st, 2022. 
 	</li>
 </ul>
 </div>
