@@ -30,6 +30,9 @@ Recent News (scroll down for more)
 <div style="height:400px;overflow:auto;">
 <ul>
 	<li>
+	<b>Oct 01, 2025</b>: Qiu Yang joins the editoral board of <a href="https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-the-atmospheric-sciences/#contacts">Quarterly Journal of the Royal Meteorological Society</a> as an associate editor, starting from Octorber 1st, 2025! 
+	</li>
+	<li>
 	<b>Aug 15, 2025</b>: Congratulations to <i>Yuhui Li</i> for receiving the Best Poster Presentation Award at the 8th Nonlinear Conference, held in Hohhot on August 14–15, 2025.
     </li>
     <li>
@@ -54,7 +57,7 @@ Recent News (scroll down for more)
 	<b>October 28, 2023</b>: Welcome <i>Huaiping Wang</i> to join our group as a 2024 class PhD graduate student! She has a keen interest in studying the fundamental interaction mechanisms between MCSs and large-scale environments. 
 	</li>
 	<li>
-	<b>August 5, 2022</b>: Qiu Yang will serve as an associate editor for <a href="https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-the-atmospheric-sciences/#contacts">Journal of the Atmospheric Sciences</a>, starting from September 1st, 2022! 
+	<b>August 5, 2022</b>: Qiu Yang joins the editoral board of <a href="https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-the-atmospheric-sciences/#contacts">Journal of the Atmospheric Sciences</a> as an associate editor, starting from September 1st, 2022! 
 	</li>
 </ul>
 </div>
