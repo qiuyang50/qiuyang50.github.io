@@ -9,7 +9,7 @@ In the list below, * denotes the corresponding author, and names underlined indi
 
 2025
 -
-[24] **Qiu Yang***, Ruby Leung, Jianfeng Li, Zhe Feng, Huaiping Wang, Yan Yu, 2025: Observed and Simulated Characteristics of Central U.S. Mesoscale Convective Systems and Their Dependence on Monthly Environmental Conditions. Submitted.
+[24] **Qiu Yang***, Ruby Leung, Jianfeng Li, Zhe Feng, <ins>Huaiping Wang</ins>, Yan Yu, 2025: Observed and Simulated Characteristics of Central U.S. Mesoscale Convective Systems and Their Dependence on Monthly Environmental Conditions. Submitted.
 
 [23] Guangxing Lin*, **Qiu Yang**, et al., (2025): Improving East Asian Summer Precipitation Simulation with a Multiscale Modeling Framework in CAS-ESM. Submitted. 
 
