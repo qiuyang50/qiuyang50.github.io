@@ -36,8 +36,8 @@ author_profile: true
     <td width="20%">Dazhuang Cao (曹大壮) <br>Undergraduate 2023-2027<br><br>Research Topic: Multiscale interactions between the MJO and CCEWs.</td>
     <td width="12%"><img src="/images/YifanZhao_2023Undergraduate.jpg"         alt="drawing"/></td>
     <td width="20%">Yifan Zhao (赵一帆) <br>Undergraduate 2023-2027<br><br>Research Topic: Application of machine learning Yifan in extreme preciptiation forecast.</td>
-    <td width="12%"></td>
-    <td width="20%"></td> 
+    <td width="12%"><img src="/images/HongyuMao_2024Undergraduate.jpg"         alt="drawing"/></td>
+    <td width="20%">Hongyu Mao (毛泓宇) <br>Undergraduate 2024-2028<br><br>Research Topic: Fundamental mechanisms for scale selection in tropical convection.</td> 
   </tr>
 </table>
 
