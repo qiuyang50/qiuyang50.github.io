@@ -14,11 +14,11 @@ author_profile: true
   <tr>
     <td width="4%">PhD</td>
     <td width="12%"><img src="/images/HuaipingWang_2024PhD.jpg" alt="drawing"/></td>
-    <td width="20%">Huaiping Wang (王怀平)<br>PhD candidate 2024-<br><br>Huaiping is interested in understanding the interaction mechanisms between MCSs and large-scale environments.</td>
+    <td width="20%">Huaiping Wang (王怀平)<br>PhD candidate 2024-<br><br>Research Topic: Modulation effects of large-scale environmental conditions on MCSs over tropical oceans.</td>
     <td width="12%"><img src="/images/HaoboYang_2025PhD.jpg"    alt="drawing"/></td>
-    <td width="20%">Haobo Yang (杨浩博)<br>PhD candidate 2025-<br><br>Haobo is interested in using mathematical modeling and statistical learning tools to study convective organization.</td>
+    <td width="20%">Haobo Yang (杨浩博)<br>PhD candidate 2025-<br><br>Research Topic: Multi-scale interactions in the MJO.</td>
     <td width="12%"><img src="/images/YuminChen_2025PhD.jpg"    alt="drawing"/></td>
-    <td width="20%">Yumin Chen (陈毓敏)<br>PhD candidate 2025-<br><br>Yumin is interested in using observations and simulations to study high impact weather events over eastern Asia.</td>
+    <td width="20%">Yumin Chen (陈毓敏)<br>PhD candidate 2025-<br><br>Research Topic: Future changes of MCSs along the Meiyu Front under global warming.</td>
     <!--<td width="12%"><img src="/images/future_student.jpg"       alt="drawing"/></td>
     <td width="20%"></td> -->
   </tr>
