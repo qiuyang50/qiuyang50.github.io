@@ -43,7 +43,7 @@ author_profile: true
 </table>
 
 <font size="5" face="Courier New" >
-<table style="width:100%">
+<table>
   <tr>
     <td width="20%"><b>Alumni</b></td>
     <td width="40%"><b>Experience in Our Group</b></td>
