@@ -22,12 +22,12 @@ author_profile: true
     <!--<td width="12%"><img src="/images/future_student.jpg"       alt="drawing"/></td>
     <td width="20%"></td> -->
   </tr>
-  <!--<tr>
+  <tr>
     <td width="4%"> </td>
     <td width="12%"><img src="/images/YuhuiLi_2022Undergraduate.jpg"   alt="drawing"/></td>
     <td width="20%">Yuhui Li (李宇辉) <br>Undergraduate 2022-2026<br><br>Research Topic: Essential mechanisms in tropial convective aggregation.</td>
   </tr>
-  <tr>
+  <!--<tr>
     <td rowspan="2" width="4%">UG</td>
     <td width="12%"></td>
     <td width="20%"></td>
@@ -37,6 +37,7 @@ author_profile: true
     <td width="20%">Zeyu Tang (唐泽宇)<br>Undergraduate 2022-2026<br><br>Research Topic: Environmental controls on MCS propagation.</td>
   </tr>-->
   <tr>
+    <td rowspan="2" width="4%">UG</td>
     <td width="12%"><img src="/images/DazhuangCao_2023Undergraduate.jpg"       alt="drawing"/></td>
     <td width="20%">Dazhuang Cao (曹大壮) <br>Undergraduate 2023-2027<br><br>Research Topic: Multiscale interactions between the MJO and CCEWs.</td>
     <td width="12%"><img src="/images/YifanZhao_2023Undergraduate.jpg"         alt="drawing"/></td>
