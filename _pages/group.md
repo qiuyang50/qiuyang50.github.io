@@ -29,7 +29,8 @@ author_profile: true
   </tr>
   <tr>
     <td rowspan="2" width="4%">UG </td>
-
+    <td width="12%"><</td>
+    <td width="20%"></td>
     <td width="12%"><img src="/images/WencanZhu_2022Undergraduate.jpg" alt="drawing"/></td>
     <td width="20%">Wencan Zhu (朱文灿)<br>Undergraduate 2022-2026<br><br>Research Topic: Application of machine learning in understanding MCS dynamics.</td>
     <td width="12%"><img src="/images/ZeyuTang_2022Undergraduate.jpg"  alt="drawing"/></td>
