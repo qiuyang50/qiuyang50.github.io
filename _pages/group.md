@@ -42,7 +42,7 @@ author_profile: true
   </tr>
 </table>
 
-<font size="5" face="Courier New" >
+
 <table>
   <tr>
     <td width="20%">Alumni</td>
