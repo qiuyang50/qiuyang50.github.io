@@ -23,12 +23,12 @@ author_profile: true
     <td width="20%"></td> -->
   </tr>
   <tr>
-    <td width="4%"></td>
+    <td width="4%"> </td>
     <td width="12%"><img src="/images/YuhuiLi_2022Undergraduate.jpg"   alt="drawing"/></td>
     <td width="20%">Yuhui Li (李宇辉) <br>Undergraduate 2022-2026<br><br>Research Topic: Essential mechanisms in tropial convective aggregation.</td>
   </tr>
   <tr>
-    <td rowspan="2" width="4%">UG </td>
+    <td rowspan="2" width="4%">UG</td>
     <td width="12%"><</td>
     <td width="20%"></td>
     <td width="12%"><img src="/images/WencanZhu_2022Undergraduate.jpg" alt="drawing"/></td>
