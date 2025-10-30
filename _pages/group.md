@@ -46,8 +46,8 @@ author_profile: true
 <table style="width:100%">
   <tr>
     <td width="20%">Alumni</td>
-    <td width="40%">Role in our group</td>
-    <td width="40%">First job after this</td>
+    <td width="40%">Experience in Our Group</td>
+    <td width="40%">First Job After</td>
   </tr>
   <tr>
     <td width="20%">Zeyu Tang</td>
