@@ -24,7 +24,7 @@ author_profile: true
   </tr>
   <tr>
     <td width="12%"><img src="/images/YuhuiLi_2022Undergraduate.jpg"   alt="drawing"/></td>
-    <td width="20%">Yuhui Li (李宇辉) <br>Undergraduate 2022-2026<br><br>Research Topic: Essential mechanisms in tropial convective aggregation.</td>
+    <td width="20%">Yuhui Li (李宇辉) <br>Undergraduate 2026-<br><br>Research Topic: Essential mechanisms in tropial convective aggregation.</td>
     <td width="12%"></td>
     <td width="20%"></td>
     <td width="12%"></td>
