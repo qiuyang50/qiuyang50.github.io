@@ -54,8 +54,7 @@ author_profile: true
     <td width="40%">Undergraduate research</td>
     <td width="40%">PhD candidate in PKU College of Engineering</td>
   </tr>
-  </tr>
-    <tr>
+  <tr>
     <td width="20%">Wencan Zhu</td>
     <td width="40%">Undergraduate research</td>
     <td width="40%">PhD candidate in PKU Shenzhen Graduate School</td>
