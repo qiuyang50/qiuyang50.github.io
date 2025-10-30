@@ -51,12 +51,12 @@ author_profile: true
   </tr>
   <tr>
     <td width="20%">Zeyu Tang</td>
-    <td width="40%">Undergraduate research</td>
+    <td width="40%">2022 class undergraduate research</td>
     <td width="40%">PhD candidate in PKU College of Engineering</td>
   </tr>
   <tr>
     <td width="20%">Wencan Zhu</td>
-    <td width="40%">Undergraduate research</td>
+    <td width="40%">2022 class undergraduate research</td>
     <td width="40%">PhD candidate in PKU Shenzhen Graduate School</td>
   </tr>
 </table>
