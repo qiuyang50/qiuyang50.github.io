@@ -12,7 +12,7 @@ author_profile: true
     <td width="96%" colspan="6">Qiu Yang (杨邱)<br>Assistant Professor<br>Department of Atmospheric and Oceanic Sciences<br>School of Physics, Peking University, Beijing, China<br>Email: qiu.yang@pku.edu.cn<br><br>Here is my <a href="https://qiuyang50.github.io/files/CV_Qiu_Yang.pdf">CV</a>.</td>
   </tr>
   <tr>
-    <td width="4%"><b>PhD</b></td>
+    <td rowspan="2" width="4%"><b>PhD</b></td>
     <td width="12%"><img src="/images/HuaipingWang_2024PhD.jpg" alt="drawing"/></td>
     <td width="20%">Huaiping Wang (王怀平)<br>PhD 2024-<br><br>Research Topic: Modulation effects of large-scale environmental conditions on MCSs over tropical oceans.</td>
     <td width="12%"><img src="/images/HaoboYang_2025PhD.jpg"    alt="drawing"/></td>
@@ -23,7 +23,6 @@ author_profile: true
     <td width="20%"></td> -->
   </tr>
   <tr>
-    <td width="4%"></td>
     <td width="12%"><img src="/images/YuhuiLi_2022Undergraduate.jpg"   alt="drawing"/></td>
     <td width="20%">Yuhui Li (李宇辉) <br>Undergraduate 2022-2026<br><br>Research Topic: Essential mechanisms in tropial convective aggregation.</td>
     <td width="12%"></td>
