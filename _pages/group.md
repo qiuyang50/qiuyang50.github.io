@@ -4,21 +4,6 @@ title: ""
 permalink: /group/
 author_profile: true
 ---
-<style>
-  body {
-    margin: 0;
-  }
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    font-family: "Courier New", monospace;
-    font-size: 20px; /* roughly <font size="5"> */
-  }
-  td {
-    border: 1px solid #ccc;
-    padding: 8px;
-  }
-</style>
 
 <font size="5" face="Courier New" >
 <table>
@@ -58,7 +43,7 @@ author_profile: true
 </table>
 
 <font size="5" face="Courier New" >
-<table>
+<table style="width:100%; border-collapse:collapse; font-family:'Courier New', monospace; font-size:20px;">
   <tr>
     <td width="20%">Alumni</td>
     <td width="40%">Role in our group</td>
