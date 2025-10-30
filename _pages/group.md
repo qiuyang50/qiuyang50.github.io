@@ -43,7 +43,7 @@ author_profile: true
 </table>
 
 <font size="5" face="Courier New" >
-<table style="width:100%; border-collapse:collapse; font-family:'Courier New', monospace; font-size:20px;">
+<table style="width:100%">
   <tr>
     <td width="20%">Alumni</td>
     <td width="40%">Role in our group</td>
