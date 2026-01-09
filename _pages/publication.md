@@ -7,16 +7,18 @@ author_profile: true
 All my publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=MzMRC04AAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Qiu_Yang4).  
 In the list below, * denotes the corresponding author, and names underlined indicate students or postdocs under my mentorship.
 
-2025
+2026
 -
 [25] Lanqiang Bai, Yipeng Huang, Qian Liu*, Ling Huang, Guixing Chen, **Qiu Yang**, Lei Zhu, 2025: Orographic disturbances shaping convective preconditioning over a tropical island. Submitted. 
 
 [24] **Qiu Yang***, Ruby Leung, Jianfeng Li, Zhe Feng, <ins>Huaiping Wang</ins>, Yan Yu, 2025: Observed and Simulated Characteristics of Central U.S. Mesoscale Convective Systems and Their Dependence on Monthly Environmental Conditions. Submitted.
 
-[23] Guangxing Lin*, Wei Liao, Zhaohui Lin, He Zhang, Wenbin Kou, Xiaojie Guo, Zhenghui Xie, **Qiu Yang**, Chenglai Wu, Minghua Zhang, (2025): [Improving East Asian Summer Precipitation Simulation with a Multiscale Modeling Framework in CAS-ESM](https://gmd.copernicus.org/articles/19/327/2026/). Geoscientific Model Development. 
+[23] <ins>Yuhui Li</ins>, **Qiu Yang***, 2025: The Role of Cold Pools in Convective Aggregation over Tropical Oceans: A Two-Layer Stochastic Dynamic Model. Submitted.
 
-[22] <ins>Yuhui Li</ins>, **Qiu Yang***, 2025: The Role of Cold Pools in Convective Aggregation over Tropical Oceans: A Two-Layer Stochastic Dynamic Model. Submitted.
+[22] Guangxing Lin*, Wei Liao, Zhaohui Lin, He Zhang, Wenbin Kou, Xiaojie Guo, Zhenghui Xie, **Qiu Yang**, Chenglai Wu, Minghua Zhang, (2025): [Improving East Asian Summer Precipitation Simulation with a Multiscale Modeling Framework in CAS-ESM](https://gmd.copernicus.org/articles/19/327/2026/). Geoscientific Model Development. 
 
+2025
+-
 [21] **Qiu Yang***, Ruby Leung, Zhe Feng, Jianfeng Li, Xingchao Chen, 2025: [Environmental Thermodynamic Effects on Future Changes of Mesoscale Convective Systems and Isolated Deep Convection over the US: A Case Study](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JD044740). JGR-Atmospheres.
 
 My tenure track starts from the Year 2024.
