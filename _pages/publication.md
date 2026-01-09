@@ -13,7 +13,7 @@ In the list below, * denotes the corresponding author, and names underlined indi
 
 [24] **Qiu Yang***, Ruby Leung, Jianfeng Li, Zhe Feng, <ins>Huaiping Wang</ins>, Yan Yu, 2025: Observed and Simulated Characteristics of Central U.S. Mesoscale Convective Systems and Their Dependence on Monthly Environmental Conditions. Submitted.
 
-[23] Guangxing Lin*, Wei Liao, Zhaohui Lin, He Zhang, Wenbin Kou, Xiaojie Guo, Zhenghui Xie, **Qiu Yang**, Chenglai Wu, Minghua Zhang, (2025): Improving East Asian Summer Precipitation Simulation with a Multiscale Modeling Framework in CAS-ESM. Submitted. 
+[23] Guangxing Lin*, Wei Liao, Zhaohui Lin, He Zhang, Wenbin Kou, Xiaojie Guo, Zhenghui Xie, **Qiu Yang**, Chenglai Wu, Minghua Zhang, (2025): [Improving East Asian Summer Precipitation Simulation with a Multiscale Modeling Framework in CAS-ESM](https://gmd.copernicus.org/articles/19/327/2026/). Geoscientific Model Development. 
 
 [22] <ins>Yuhui Li</ins>, **Qiu Yang***, 2025: The Role of Cold Pools in Convective Aggregation over Tropical Oceans: A Two-Layer Stochastic Dynamic Model. Submitted.
 
