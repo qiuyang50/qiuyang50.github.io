@@ -4,6 +4,11 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
+2026 Spring Semester
+---
+**Course Name**: *Atmospheric Dynamics*      
+**Description**: In this course, we will go through basic concepts and theories in geophysical fluid dynamics.  
+**Reference textbook**: An Introduction to Dynamic Meteorology by James R. Holton and Gregory J. Hakim (Fifth edition)
 
 2025 Fall Semester
 ---
