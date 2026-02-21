@@ -9,6 +9,7 @@ author_profile: true
 **Course Name**: *Atmospheric Dynamics*      
 **Description**: In this course, we will go through basic concepts and theories in geophysical fluid dynamics.  
 **Reference textbook**: An Introduction to Dynamic Meteorology by James R. Holton and Gregory J. Hakim (Fifth edition)
+**Course Schedule**: [here](https://docs.qq.com/sheet/DRXJhRG5FTFBqYkFs)
 
 2025 Fall Semester
 ---
