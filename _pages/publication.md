@@ -9,13 +9,15 @@ In the list below, * denotes the corresponding author, and names underlined indi
 
 2026
 -
-[25] Lanqiang Bai, Yipeng Huang, Qian Liu*, Ling Huang, Guixing Chen, **Qiu Yang**, Lei Zhu, 2025: Orographic disturbances shaping convective preconditioning over a tropical island. Submitted. 
+[26] Qi Li, ..., **Qiu Yang** et al., 2026: Leveraging dense data, advanced modeling, and artificial intelligence to tackle urban climate extremes. Submitted
 
-[24] **Qiu Yang***, Ruby Leung, Jianfeng Li, Zhe Feng, <ins>Huaiping Wang</ins>, Yan Yu, 2025: Observed and Simulated Characteristics of Central U.S. Mesoscale Convective Systems and Their Dependence on Monthly Environmental Conditions. Submitted.
+[25] Lanqiang Bai, Yipeng Huang, Qian Liu*, Ling Huang, Guixing Chen, **Qiu Yang**, Lei Zhu, 2026: Orographic disturbances shaping convective preconditioning over a tropical island. Submitted. 
 
-[23] <ins>Yuhui Li</ins>, **Qiu Yang***, 2025: The Role of Cold Pools in Convective Aggregation over Tropical Oceans: A Two-Layer Stochastic Dynamic Model. Submitted.
+[24] **Qiu Yang***, Ruby Leung, Jianfeng Li, Zhe Feng, <ins>Huaiping Wang</ins>, Yan Yu, 2026: Observed and Simulated Characteristics of Central U.S. Mesoscale Convective Systems and Their Dependence on Monthly Environmental Conditions. Submitted.
 
-[22] Guangxing Lin*, Wei Liao, Zhaohui Lin, He Zhang, Wenbin Kou, Xiaojie Guo, Zhenghui Xie, **Qiu Yang**, Chenglai Wu, Minghua Zhang, (2025): [Improving East Asian Summer Precipitation Simulation with a Multiscale Modeling Framework in CAS-ESM](https://gmd.copernicus.org/articles/19/327/2026/). Geoscientific Model Development. 
+[23] <ins>Yuhui Li</ins>, **Qiu Yang***, 2026: The Role of Cold Pools in Convective Aggregation over Tropical Oceans: A Two-Layer Stochastic Dynamic Model. Submitted.
+
+[22] Guangxing Lin*, Wei Liao, Zhaohui Lin, He Zhang, Wenbin Kou, Xiaojie Guo, Zhenghui Xie, **Qiu Yang**, Chenglai Wu, Minghua Zhang, 2026: [Improving East Asian Summer Precipitation Simulation with a Multiscale Modeling Framework in CAS-ESM](https://gmd.copernicus.org/articles/19/327/2026/). Geoscientific Model Development. 
 
 2025
 -
