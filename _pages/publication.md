@@ -9,7 +9,7 @@ In the list below, * denotes the corresponding author, and names underlined indi
 
 2026
 -
-[26] Qi Li, ..., **Qiu Yang** et al., 2026: Leveraging dense data, advanced modeling, and artificial intelligence to tackle urban climate extremes. Submitted
+[26] Qi Li, ..., **Qiu Yang** et al., 2026: Leveraging dense data, advanced modeling, and artificial intelligence to tackle urban climate extremes. Submitted.
 
 [25] Lanqiang Bai, Yipeng Huang, Qian Liu*, Ling Huang, Guixing Chen, **Qiu Yang**, Lei Zhu, 2026: Orographic disturbances shaping convective preconditioning over a tropical island. Submitted. 
 
