@@ -39,6 +39,12 @@ author_profile: true
     <td width="12%"><img src="/images/HongyuMao_2024Undergraduate.jpg"         alt="drawing"/></td>
     <td width="20%">Hongyu Mao (毛泓宇) <br>Undergraduate 2024-2028<br><br>Research Topic: Fundamental mechanisms for scale selection in tropical convection. </td> 
   </tr>
+    <td width="12%"><img src="/images/ShizeTang_2024Undergraduate.jpg"   alt="drawing"/></td>
+    <td width="20%">Shize Tang (唐诗泽) <br>Undergraduate 2024-2028<br><br>Research Topic: Simulating impact of wildfire on organized convection.</td>
+    <td width="12%"></td>
+    <td width="20%"></td>
+    <td width="12%"></td>
+    <td width="20%"></td>
 </table>
 
 <font size="5" face="Courier New" >
