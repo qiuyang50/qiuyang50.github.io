@@ -9,7 +9,7 @@ In the list below, * denotes the corresponding author, and names underlined indi
 
 2026
 -
-[27] Qi Li, ..., **Qiu Yang** et al., 2026: Leveraging dense data, advanced modeling, and artificial intelligence to tackle urban climate extremes. Submitted.
+[27] Qi Li*, ..., **Qiu Yang** et al., 2026: Leveraging dense data, advanced modeling, and artificial intelligence to tackle urban climate extremes. Submitted.
 
 [26] Lanqiang Bai, Yipeng Huang, Qian Liu*, Ling Huang, Guixing Chen, **Qiu Yang**, Lei Zhu, 2026: Orographic disturbances shaping convective preconditioning over a tropical island. Submitted. 
 
@@ -21,7 +21,7 @@ In the list below, * denotes the corresponding author, and names underlined indi
 
 2025
 -
-[22] Nie, J., Lin, Z., Li, P., **Yang, Q.***, Ding, T., Song, F., Meng, Z., Sun, J., Li, J. and Zhao, C., 2025. [Mesoscale convective systems: From interannual and decadal variability to responses to climate change](http://qxxb.cmsjournal.net/en/article/doi/10.11676/qxxb2025.20240112). Acta Meteorologica Sinica.
+[22] Nie, J.*, Lin, Z., Li, P., **Yang, Q.**, Ding, T., Song, F., Meng, Z., Sun, J., Li, J. and Zhao, C., 2025. [Mesoscale convective systems: From interannual and decadal variability to responses to climate change](http://qxxb.cmsjournal.net/en/article/doi/10.11676/qxxb2025.20240112). Acta Meteorologica Sinica.
 
 [21] **Qiu Yang***, Ruby Leung, Zhe Feng, Jianfeng Li, Xingchao Chen, 2025: [Environmental Thermodynamic Effects on Future Changes of Mesoscale Convective Systems and Isolated Deep Convection over the US: A Case Study](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JD044740). JGR-Atmospheres.
 
