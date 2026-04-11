@@ -15,7 +15,7 @@ In the list below, * denotes the corresponding author, and names underlined indi
 
 [25] **Yang, Q.***, Leung L. R., Li, J., Feng, Z., <ins>Wang, H.</ins>, and Yu, Y., 2026: Observed and Simulated Characteristics of Central U.S. Mesoscale Convective Systems and Their Dependence on Monthly Environmental Conditions. Submitted.
 
-[24] <ins>Li, Y.</ins> and **Yang, Q.***, 2026: The Role of Cold Pools in Convective Aggregation over Tropical Oceans: A Two-Layer Stochastic Dynamic Model. Submitted.
+[24] <ins>Li, Y.</ins> and **Yang, Q.***, 2026: A Two-Layer Stochastic Dynamic Model for Convective Aggregation over Tropical Oceans: Roles of Compensating Subsidence, Cold Pools, and Vertical Shear. Submitted.
 
 [23] Lin, G.*, Liao, W., Lin, Z., Zhang, H., Kou, W., Guo, X., Xie, Z., **Yang, Q.**, Wu, C., and Zhang, M., 2026: [Improving East Asian Summer Precipitation Simulation with a Multiscale Modeling Framework in CAS-ESM](https://gmd.copernicus.org/articles/19/327/2026/). Geoscientific Model Development. 
 
