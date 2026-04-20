@@ -15,10 +15,10 @@ author_profile: true
     <td rowspan="1" width="4%"><b>Postdoc</b></td>
     <td width="12%"><img src="/images/ZhongxiLin_2026Postdoc.jpg" alt="drawing"/></td>
     <td width="20%">Zhongxi Lin (林中曦)<br>Postdoc 2026-<br><br>Research Topic: Modeling of extreme weather events under synoptic forcing.</td>
-    <!--<td width="12%"><img src="/images/HaoboYang_2025PhD.jpg"    alt="drawing"/></td>
-    <td width="20%">Haobo Yang (杨浩博)<br>PhD 2025-<br><br>Research Topic: Multi-scale interactions in the MJO.</td>
-    <td width="12%"><img src="/images/YuminChen_2025PhD.jpg"    alt="drawing"/></td>
-    <td width="20%">Yumin Chen (陈毓敏)<br>PhD 2025-<br><br>Research Topic: Future changes of MCSs along the Meiyu Front under global warming.</td>-->
+    <td width="12%"></td>
+    <td width="20%">/td>
+    <td width="12%"></td>
+    <td width="20%"></td>
   </tr>
   <tr>
     <td rowspan="2" width="4%"><b>PhD</b></td>
