@@ -12,6 +12,15 @@ author_profile: true
     <td width="96%" colspan="6">Qiu Yang (杨邱)<br>Assistant Professor<br>Department of Atmospheric and Oceanic Sciences<br>School of Physics, Peking University, Beijing, China<br>Email: qiu.yang@pku.edu.cn<br><br>Here is my <a href="https://qiuyang50.github.io/files/CV_Qiu_Yang.pdf">CV</a>.</td>
   </tr>
   <tr>
+    <td rowspan="1" width="4%"><b>Postdoc</b></td>
+    <td width="12%"><img src="/images/HuaipingWang_2024PhD.jpg" alt="drawing"/></td>
+    <td width="20%">Huaiping Wang (王怀平)<br>PhD 2024-<br><br>Research Topic: Modulation effects of large-scale environmental conditions on MCSs over tropical oceans.</td>
+    <!--<td width="12%"><img src="/images/HaoboYang_2025PhD.jpg"    alt="drawing"/></td>
+    <td width="20%">Haobo Yang (杨浩博)<br>PhD 2025-<br><br>Research Topic: Multi-scale interactions in the MJO.</td>
+    <td width="12%"><img src="/images/YuminChen_2025PhD.jpg"    alt="drawing"/></td>
+    <td width="20%">Yumin Chen (陈毓敏)<br>PhD 2025-<br><br>Research Topic: Future changes of MCSs along the Meiyu Front under global warming.</td>-->
+  </tr>
+  <tr>
     <td rowspan="2" width="4%"><b>PhD</b></td>
     <td width="12%"><img src="/images/HuaipingWang_2024PhD.jpg" alt="drawing"/></td>
     <td width="20%">Huaiping Wang (王怀平)<br>PhD 2024-<br><br>Research Topic: Modulation effects of large-scale environmental conditions on MCSs over tropical oceans.</td>
