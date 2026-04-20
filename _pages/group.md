@@ -16,7 +16,7 @@ author_profile: true
     <td width="12%"><img src="/images/ZhongxiLin_2026Postdoc.jpg" alt="drawing"/></td>
     <td width="20%">Zhongxi Lin (林中曦)<br>Postdoc 2026-<br><br>Research Topic: Modeling of extreme weather events under synoptic forcing.</td>
     <td width="12%"></td>
-    <td width="20%">/td>
+    <td width="20%"></td>
     <td width="12%"></td>
     <td width="20%"></td>
   </tr>
