@@ -14,7 +14,7 @@ author_profile: true
   <tr>
     <td rowspan="1" width="4%"><b>Postdoc</b></td>
     <td width="12%"><img src="/images/ZhongxiLin_2026Postdoc.jpg" alt="drawing"/></td>
-    <td width="20%">Zhongxi Lin (林中曦)<br>Postdoc 2026-<br><br>Research Topic: Modeling and mechanism analysis of extreme weather events under certain synoptic forcing.</td>
+    <td width="20%">Zhongxi Lin (林中曦)<br>Postdoc 2026-<br><br>Research Topic: Modeling of extreme weather events under synoptic forcing.</td>
     <!--<td width="12%"><img src="/images/HaoboYang_2025PhD.jpg"    alt="drawing"/></td>
     <td width="20%">Haobo Yang (杨浩博)<br>PhD 2025-<br><br>Research Topic: Multi-scale interactions in the MJO.</td>
     <td width="12%"><img src="/images/YuminChen_2025PhD.jpg"    alt="drawing"/></td>
