@@ -10,7 +10,8 @@ author_profile: true
 |   Dataset    |   Variable    | Resolution | Domain | Period |  Download Link  |
 |--------------|---------------|------------|--------|--------|--------|
 | ERA5 reanalysis   | e.g., wind, specific humidity, temperature | 0.25 deg, hourly          | global | since 1940 | [ECMWF download page](https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset&text=ERA5) |
-| GPM IMERG precipitation V07| e.g., surface precipitation rate  | 0.1deg x 0.1deg, 30min/1hr/1month  | global | since 2000 | [NASA download page](https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGHH_07/summary?keywords=GPM%20IMERG) |
+| GPM IMERG precipitation V07| surface precipitation rate  | 0.1deg x 0.1deg, 30min/1hr/1month  | global | since 2000 | [NASA download page](https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGHH_07/summary?keywords=GPM%20IMERG) |
+| NCEP/CPC L3 Merged IR V1 (GPM_MERGIR) | brightness temperature | 4km x 4km, half hourly    | global | since 1998 | [NASA download page](https://disc.gsfc.nasa.gov/datasets/GPM_MERGIR_1/summary) |        
 | MERRA-2 reanalysis| e.g., SST                                  | 0.5deg x 0.625deg, hourly | global | since 1980 | [NASA download page](https://daac.gsfc.nasa.gov/datasets/M2T1NXOCN_5.12.4/summary)              |
 | MJO RMM index  | e.g., amplitude, phase, RMM1, RMM2            | 1 day                     | -      | since 1974 | [Columbia U. IRI data library](https://iridl.ldeo.columbia.edu/SOURCES/.BoM/.MJO/.RMM/index.html?Set-Language=en) or [Australian Bureau of Meteorology](http://www.bom.gov.au/climate/mjo/)|
 | Other MJO index  | e.g. OMI                                    | 1 day                     | -      | since 1979 | [NOAA Physical Sciences Laboratory](https://psl.noaa.gov/mjo/mjoindex/)   |
