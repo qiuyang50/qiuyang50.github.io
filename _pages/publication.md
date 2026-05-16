@@ -9,6 +9,8 @@ In the list below, * denotes the corresponding author, and names underlined indi
 
 2026
 -
+[28] Lv, N*, ..., **Yang, Q.** et al., 2026: An Analysis Framework of Multi-scale SYnoptic Similarity for Extreme Precipitation. Submitted.
+
 [27] Li, Q.*, ..., **Yang, Q.** et al., 2026: Leveraging dense data, advanced modeling, and artificial intelligence to tackle urban climate extremes. Submitted.
 
 [26] Bai, L., Huang, Y., Liu*, Q., Huang, L., Chen, G., **Yang, Q.**, and Zhu, L., 2026: Orographic disturbances shaping convective preconditioning over a tropical island. Submitted. 
