@@ -11,9 +11,9 @@ In the list below, * denotes the corresponding author, and names underlined indi
 -
 [28] Lv, N*, ..., **Yang, Q.** et al., 2026: An Analysis Framework of Multi-scale Synoptic Similarity for Extreme Precipitation. Submitted.
 
-[27] Li, Q.*, ..., **Yang, Q.** et al., 2026: Leveraging dense data, advanced modeling, and artificial intelligence to tackle urban climate extremes. Submitted.
+[27] Li, Q.*, ..., **Yang, Q.** et al., 2026: Leveraging Dense Data, Advanced Modeling, and Artificial Intelligence to Tackle Urban Climate Extremes. Submitted.
 
-[26] Bai, L., Huang, Y., Liu*, Q., Huang, L., Chen, G., **Yang, Q.**, and Zhu, L., 2026: Orographic disturbances shaping convective preconditioning over a tropical island. Submitted. 
+[26] Bai, L., Huang, Y., Liu*, Q., Huang, L., Chen, G., **Yang, Q.**, and Zhu, L., 2026: Orographic Disturbances Shaping Convective Preconditioning over a Tropical Island. Submitted. 
 
 [25] **Yang, Q.***, Leung L. R., Li, J., Feng, Z., <ins>Wang, H.</ins>, and Yu, Y., 2026: Observed and Simulated Characteristics of Central U.S. Mesoscale Convective Systems and Their Dependence on Monthly Environmental Conditions. Submitted.
 
