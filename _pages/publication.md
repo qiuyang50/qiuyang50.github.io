@@ -15,7 +15,7 @@ In the list below, * denotes the corresponding author, and names underlined indi
 
 [26] Bai, L., Huang, Y., Liu*, Q., Huang, L., Chen, G., **Yang, Q.**, and Zhu, L., 2026: Orographic Disturbances Shaping Convective Preconditioning over a Tropical Island. Submitted. 
 
-[25] <ins>Li, Y.</ins> and **Yang, Q.***, 2026: A Two-Layer Stochastic Dynamic Model for Convective Aggregation over Tropical Oceans: Roles of Compensating Subsidence, Cold Pools, and Vertical Shear. Accepted.
+[25] <ins>Li, Y.</ins> and **Yang, Q.***, 2026: [A Two-Layer Stochastic Dynamic Model for Convective Aggregation over Tropical Oceans: Roles of Compensating Subsidence, Cold Pools, and Vertical Shear](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-26-0050.1/JAS-D-26-0050.1.xml). Journal of the Atmospheric Sciences.
 
 [24] **Yang, Q.***, Leung L. R., Li, J., Feng, Z., <ins>Wang, H.</ins>, and Yu, Y., 2026: [Observed and Simulated Characteristics of Central U.S. Mesoscale Convective Systems and Their Dependence on Monthly Environmental Conditions](https://doi.org/10.1175/JCLI-D-25-0601.1). Journal of Climate.
 
