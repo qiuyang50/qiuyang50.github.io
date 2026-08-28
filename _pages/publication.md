@@ -13,7 +13,7 @@ In the list below, * denotes the corresponding author, and names underlined indi
 
 [27] Li, Q.*, ..., **Yang, Q.** et al., 2026: Leveraging Dense Data, Advanced Modeling, and Artificial Intelligence to Tackle Urban Climate Extremes. Submitted.
 
-[26] Bai, L., Huang, Y., Liu*, Q., Huang, L., Chen, G., **Yang, Q.**, and Zhu, L., 2026: Orographic Disturbances Shaping Convective Preconditioning over a Tropical Island. Submitted. 
+[26] Bai, L., Huang, Y., Liu*, Q., Chen, G., Fu, S., **Yang, Q.**, and Zhu, L., 2026: [Orographic Disturbances Shaping Convective Preconditioning over a Tropical Island](https://www.sciencedirect.com/science/article/pii/S0169809526005168). Atmospheric Research.
 
 [25] <ins>Li, Y.</ins> and **Yang, Q.***, 2026: [A Two-Layer Stochastic Dynamic Model for Convective Aggregation over Tropical Oceans: Roles of Compensating Subsidence, Cold Pools, and Vertical Shear](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-26-0050.1/JAS-D-26-0050.1.xml). Journal of the Atmospheric Sciences.
 
