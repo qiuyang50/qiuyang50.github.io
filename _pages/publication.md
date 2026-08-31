@@ -9,6 +9,8 @@ In the list below, * denotes the corresponding author, and names underlined indi
 
 2026
 -
+[29] <ins>Lin, Z.</ins>, Nie, J.*, **Yang, Q.***, 2026: Increasing synchronization of heavy rainfall across megacities in China. Submitted. 
+
 [28] Lv, N*, ..., **Yang, Q.** et al., 2026: An Analysis Framework of Multi-scale Synoptic Similarity for Extreme Precipitation. Submitted.
 
 [27] Li, Q.*, ..., **Yang, Q.** et al., 2026: Leveraging Dense Data, Advanced Modeling, and Artificial Intelligence to Tackle Urban Climate Extremes. Submitted.
