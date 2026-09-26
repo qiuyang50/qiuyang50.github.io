@@ -50,8 +50,8 @@ author_profile: true
   </tr>
     <td width="12%"><img src="/images/ShizeTang_2024Undergraduate.jpg"   alt="drawing"/></td>
     <td width="20%">Shize Tang (唐诗泽) <br>Undergraduate 2024-2028<br><br>Research Topic: Simulating impact of wildfire on organized convection.</td>
-    <td width="12%"></td>
-    <td width="20%"></td>
+    <td width="12%"><img src="/images/YuqiGuo_2025Undergraduate.jpg"   alt="drawing"/></td>
+    <td width="20%">Yuqi Guo (郭雨琪) <br>Undergraduate 2025-2029<br><br>Research Topic: Tropical cyclogenesis.</td>
     <td width="12%"></td>
     <td width="20%"></td>
 </table>
