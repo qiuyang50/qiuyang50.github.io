@@ -30,7 +30,10 @@ Recent News (scroll down for more)
 <div style="height:400px;overflow:auto;">
 <ul>
 	<li>
-	<b>Oct 01, 2025</b>: Qiu Yang joins the editoral board of <a href="https://rmets.onlinelibrary.wiley.com/journal/1477870X">Quarterly Journal of the Royal Meteorological Society (QJRMS)</a> as an associate editor, starting from Octorber 1st, 2025. 
+	<b>Nov 01, 2025</b>: Qiu Yang joins the editoral board of <a href="https://www.ametsoc.org/ams/publications/journals/monthly-weather-review/">Monthly Weather Review (MWR)</a> as an associate editor, starting from November 1st, 2025. 
+	</li>
+	<li>
+	<b>Oct 01, 2025</b>: Qiu Yang joins the editoral board of <a href="https://rmets.onlinelibrary.wiley.com/journal/1477870X">Quarterly Journal of the Royal Meteorological Society (QJRMS)</a> as an associate editor, starting from October 1st, 2025. 
 	</li>
 	<li>
 	<b>Aug 15, 2025</b>: Congratulations to <i>Yuhui Li</i> for receiving the Best Poster Presentation Award at the 8th Nonlinear Conference, held in Hohhot on August 14–15, 2025.
