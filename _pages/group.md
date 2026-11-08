@@ -82,6 +82,7 @@ author_profile: true
 <font size="5" face="Courier New" >
 <table>
 <tr>
+  <td width="50%"><img src="/images/Group_Party_20261101.jpg" alt="drawing"/> Group meeting at Olympic Forest Park, Beijing, on November 1, 2026 (From left to right: Yifan Zhao, Yumin Chen, Huaiping Wang, Zhongxi Lin, Yuqi Guo, Hongyu Mao, Shize Tang, Dazhuang Cao, Yuhui Li, Haobo Yang, Qiu Yang)</td>
   <td width="50%"><img src="/images/Group_Party_01092026.jpg" alt="drawing"/> Group meeting at Room 547, PKU, on January 9, 2026 (From left to right: Dazhuang Cao, Yumin Chen, Yuhui Li, Yifan Zhao, Qiu Yang, Hongyu Mao, Shize Tang, Haobo Yang, Huaiping Wang)</td>
 </tr>
 <tr>
