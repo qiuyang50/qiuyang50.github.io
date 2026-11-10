@@ -9,6 +9,8 @@ In the list below, * denotes the corresponding author, and names underlined indi
 
 2026
 -
+[31] Du, Y.\*, ..., **Yang, Q.** et al., 2026: Recent Advances in Mesoscale Convective Systems in China. Submitted. 
+
 [30] <ins>Chen, Y.</ins>, **Yang, Q.**\*, Li, Q., Zhang, Q., Chen, Y., 2026: Urban-Rural Contrasts in Extreme and Flood-Producing Precipitation Events across China's Megacity Clusters. Submitted. 
 
 [29] <ins>Lin, Z.</ins>, Nie, J.* , **Yang, Q.**\*, 2026: Increasing synchronization of heavy rainfall across megacities in China. Submitted. 
